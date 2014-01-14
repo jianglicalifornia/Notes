@@ -1,4 +1,4 @@
-[Home](index.md)
+[wiki](index.md)
 [Lunch specials](specials.md)
 [Contact](contact.md)
 [Guestbook](guestbook.md)
