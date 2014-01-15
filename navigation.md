@@ -1,11 +1,8 @@
 [Wiki](index.md)
-[Mobile](/mobile/specials.md)
+[Mobile](mobile_bluetooth.md)
 [Design & Web](contact.md)
 [DM/ML/NLP](guestbook.md)
 [Computer Vision](guestbook.md)
 [Engineering](guestbook.md)
 [Photography](guestbook.md)
-
-
-[gimmick:theme](spacelab)
-
+[gimmick:themechooser](Choose theme)

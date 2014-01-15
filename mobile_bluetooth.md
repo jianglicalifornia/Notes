@@ -1,16 +1,16 @@
-Lunch specials
+Bluetooth 
 ==============
 
-Our updated lunch special for this week:
+** References **
 
-Entries and Salads
+- [BLE master/slave, GATT client/server, and data RX/TX basics](https://bluegiga.zendesk.com/entries/25053373--REFERENCE-BLE-master-slave-GATT-client-server-and-data-RX-TX-basics) 
+
+
+Overview
 ------------------
 
-* Garlic-boiled white mushrooms served in herb butter					*4,90 €*
-* Chefsalad with Bacon													*6,20 €*
-* Green salad (optional with onions)
- * small 				*3,20 €*
- * large				*4,90 €*
+Two module | One module.
+
 
 - - -
 
