@@ -49,7 +49,8 @@ Distance calculation
 
 - [monitoring distance between two moving objects](http://electronics.stackexchange.com/questions/61957/monitoring-distance-between-two-moving-objects)
 - [Options for short range distance determination between two objects](http://electronics.stackexchange.com/questions/33110/options-for-short-range-distance-determination-between-two-objects)
-
+- [Using Bluetooth for Short-Term Ad Hoc Connections Between MovingVehicles: A Feasibility Study](http://koala.ece.rice.edu/pubs/Mur2002May5UsingBluet.pdf)
+- [Fuzzy locating system](http://en.wikipedia.org/wiki/Fuzzy_locating_system)
 
 Connecting
 -----------
@@ -63,7 +64,11 @@ The BLE protocol specification requires that the maximum data payload size for t
 Questions:
 -----------
 
-Is it interpolation only? Or some added filtering? Is it based on a preconfigured stationary setup of BLE components or do they support moving BLE units? How many units can move? Does precision improve if you use 8 BLE devices, not just 4? What's the frame rate? Who does the computation? Only the receiver? Or does the user's device send something out and they use it to stabilize the signal? What's the protocol? Who does and sends what and when? Is it the same as RSSI-based tracking? Is it more or less precise?
+Is it interpolation only? Or some added filtering? 
+
+Is it based on a preconfigured stationary setup of BLE components or do they support moving BLE units? 
+
+How many units can move? Does precision improve if you use 8 BLE devices, not just 4? What's the frame rate? Who does the computation? Only the receiver? Or does the user's device send something out and they use it to stabilize the signal? What's the protocol? Who does and sends what and when? Is it the same as RSSI-based tracking? Is it more or less precise?
 
 So we really need to understand the technical working and specifics of it. Do you want to take a look?
 
