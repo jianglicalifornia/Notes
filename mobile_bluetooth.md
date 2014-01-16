@@ -20,7 +20,7 @@ Overview
 
 Work flow
 -----------
-![](ble-work-flow.jpeg)
+![](ble-work-flow.jpg)
 
 
 
