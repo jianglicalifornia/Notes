@@ -1,0 +1,8 @@
+[Gesture Control Armband](https://www.thalmic.com/en/myo/)
+[Mobile](mobile_bluetooth.md)
+[Design & Web](contact.md)
+[DM/ML/NLP](guestbook.md)
+[Computer Vision](guestbook.md)
+[Engineering](guestbook.md)
+[Photography](guestbook.md)
+[gimmick:themechooser](Choose theme)
