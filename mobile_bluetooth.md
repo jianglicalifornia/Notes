@@ -7,12 +7,20 @@ Bluetooth
 
 
 Overview
-------------------
+-----------
 
-Two module | One module.
 
-which
-- - -
+Android / iOS
+-----------
+
+|                                   |    android | ios    |
+|-----------------------------------|------------|--------|
+| running as a BLE peripheral       |    no      |   yes  |
+| running as a BLE center           |    yes     |   yes  |
+
+[reference](http://stackoverflow.com/questions/19717902/does-android-kitkat-allows-devices-that-support-bluetooth-le-to-act-as-a-periphe)
+
+
 
 Main dishes
 -----------
