@@ -14,6 +14,7 @@ for things I don't want to put into my brain, I put them here.
 Mobile
 ------
 - [bluetooth](mobile_bluetooth.md)
+- [Android - NDK](mobile_android_ndk.md)
 
 |                                   |    Col2    | NumCol |
 |-----------------------------------|------------|--------|
