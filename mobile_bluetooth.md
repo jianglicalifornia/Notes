@@ -71,11 +71,6 @@ Is it based on a preconfigured stationary setup of BLE components or do they sup
 
 How many units can move? Does precision improve if you use 8 BLE devices, not just 4? What's the frame rate? Who does the computation? Only the receiver? Or does the user's device send something out and they use it to stabilize the signal? What's the protocol? Who does and sends what and when? Is it the same as RSSI-based tracking? Is it more or less precise?
 
-So we really need to understand the technical working and specifics of it. Do you want to take a look?
-
-
-* Coalfish "Müllerin Art"												*7,80 €*
-* Tortelini à la Panna, in cream sauce 									*6,90 €*
 
 - - -
 
