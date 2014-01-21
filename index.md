@@ -30,6 +30,9 @@ Design & Web
 DM/ML/NLP
 ------
 
+Computer Vision
+------
+- [Video Processing](cv_videoprocessing.md)
 
 Engineering
 ------
