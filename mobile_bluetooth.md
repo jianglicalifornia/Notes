@@ -10,7 +10,7 @@ Bluetooth
 - [Core Bluetooth programming Guide](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/CoreBluetoothOverview/CoreBluetoothOverview.html#//apple_ref/doc/uid/TP40013257-CH2-SW1)
 - [Bluetooth Low Energy: the best media for sensors and actuators?](http://www.iebmedia.com/index.php?id=8294&parentid=63&themeid=255&hft=67&showdetail=true&bb=1)
 - [Can iOS do central and peripheral work on same app at same time?](http://stackoverflow.com/questions/16985891/can-ios-do-central-and-peripheral-work-on-same-app-at-same-time)
-
+- [How to continuously get RSSI without connecting to the BLE device?](http://stackoverflow.com/questions/20058450/how-to-continuously-get-rssi-without-connecting-to-the-ble-device)
 
 Overview
 -----------
@@ -53,6 +53,17 @@ Distance calculation
 - [Options for short range distance determination between two objects](http://electronics.stackexchange.com/questions/33110/options-for-short-range-distance-determination-between-two-objects)
 - [Using Bluetooth for Short-Term Ad Hoc Connections Between MovingVehicles: A Feasibility Study](http://koala.ece.rice.edu/pubs/Mur2002May5UsingBluet.pdf)
 - [Fuzzy locating system](http://en.wikipedia.org/wiki/Fuzzy_locating_system)
+- [How Estimote calculate the distance](https://github.com/Estimote/iOS-SDK/blob/master/DistanceDemo/DistanceDemo/ViewController/ESTViewController.m)
+- [How to use Rssi value to calculate Distance](http://xuepengxu.blogspot.com/2012/06/how-to-use-rssi-value-to-calculate.html)
+
+```
+//Estimote's code snippet.
+// based on observation rssi is not getting bigger then -30
+// so it changes from -30 to -100 so we normalize
+float distFactor = ((float)self.selectedBeacon.rssi + 30) / -70;      
+float newYPos = self.dotMinPos + distFactor * self.dotRange;
+self.positionDot.center = CGPointMake(self.view.bounds.size.width / 2, newYPos);
+```
 
 Connecting
 -----------
