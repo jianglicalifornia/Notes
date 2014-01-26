@@ -11,6 +11,7 @@ Bluetooth
 - [Bluetooth Low Energy: the best media for sensors and actuators?](http://www.iebmedia.com/index.php?id=8294&parentid=63&themeid=255&hft=67&showdetail=true&bb=1)
 - [Can iOS do central and peripheral work on same app at same time?](http://stackoverflow.com/questions/16985891/can-ios-do-central-and-peripheral-work-on-same-app-at-same-time)
 - [How to continuously get RSSI without connecting to the BLE device?](http://stackoverflow.com/questions/20058450/how-to-continuously-get-rssi-without-connecting-to-the-ble-device)
+- [What are state of the art technologies for location-finding indoors, where GPS doesn’t work?](http://www.quora.com/Indoor-Positioning/What-are-state-of-the-art-technologies-for-location-finding-indoors-where-GPS-doesn%E2%80%99t-work)
 
 Overview
 -----------
@@ -71,7 +72,12 @@ A slave(server/prepheral) may only be connected to a single master, but a master
 
 The BLE protocol specification requires that the maximum data payload size for these operations is 20 bytes, or in the case of read operations, 22 bytes. BLE is built for low power consumption, for infrequent short-burst data transmissions. Sending lots of data is possible, but usually ends up being less efficient than classic Bluetooth when trying to achieve maximum throughput.
 
-![](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/Art/ReconnectingToAPeripheral_2x.png)
+[Reconnecting process](https://developer.apple.com/library/ios/documentation/NetworkingInternetWeb/Conceptual/CoreBluetooth_concepts/Art/ReconnectingToAPeripheral_2x.png)
+
+[Android 4.4.1 connections can be up to 8](http://www.androidpolice.com/2013/12/13/whats-really-new-in-android-4-4-2/)
+>Bluetooth LE Connections
+Prior to 4.4.1, the number of devices that could be simultaneously connected to an Android device topped out at four. With a commit put in before the 4.4.1 update, that limit is bumped up to seven.
+
 
 
 Questions:
