@@ -16,14 +16,14 @@ Mobile
 
 ** General **
 
-- [bluetooth](mobile_bluetooth.md)
-- [audio](mobile_audio.md)
-- [sensors](mobile_sensors.md)
+- [Bluetooth](mobile_bluetooth.md)
+- [Audio](mobile_audio.md)
+- [Sensors](mobile_sensors.md)
 
 ** Android **
 
 - [Android - NDK](mobile_android_ndk.md)
-- [mobil android misc](mobile_android_misc.md)
+- [Android misc](mobile_android_misc.md)
 
 
 
