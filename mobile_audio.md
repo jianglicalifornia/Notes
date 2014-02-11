@@ -19,22 +19,12 @@ Android Audio
 	- [How to do stereo recording using the AudioRecord](http://stackoverflow.com/questions/14627246/how-can-i-record-2-microphone-in-android-simultaneously)
 	- [code in OpenSL recording](http://cabbage.googlecode.com/svn/trunk/JuceLibraryCode/modules/juce_audio_devices/native/juce_android_OpenSL.cpp)
 
-ibeacons deployed at superbowl..
-problem is 3 scale.
-quantify how far away the distance between 
+## Signal Processing
+- [Which algorithm](http://stackoverflow.com/questions/441438/which-algorithm-should-i-use-for-signal-sound-one-class-classification)
 
-ok. let me show this to you.
-
-nonaudible sound.
-
-let me show this to you.
-
-press beap.
-
-is that rough distance again.
-
-
-
+Ideas:
+正交区别signal source
+encode 区别 同一source的顺序
 
 
 

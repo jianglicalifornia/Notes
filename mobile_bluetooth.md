@@ -12,6 +12,7 @@ Bluetooth
 - [Can iOS do central and peripheral work on same app at same time?](http://stackoverflow.com/questions/16985891/can-ios-do-central-and-peripheral-work-on-same-app-at-same-time)
 - [How to continuously get RSSI without connecting to the BLE device?](http://stackoverflow.com/questions/20058450/how-to-continuously-get-rssi-without-connecting-to-the-ble-device)
 - [What are state of the art technologies for location-finding indoors, where GPS doesn’t work?](http://www.quora.com/Indoor-Positioning/What-are-state-of-the-art-technologies-for-location-finding-indoors-where-GPS-doesn%E2%80%99t-work)
+- [RSSI to distance](http://blog.sina.com.cn/s/blog_68ffc7a40100ueaw.html)
 
 Overview
 -----------
