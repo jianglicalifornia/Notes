@@ -22,9 +22,14 @@ Android Audio
 ## Signal Processing
 - [Which algorithm](http://stackoverflow.com/questions/441438/which-algorithm-should-i-use-for-signal-sound-one-class-classification)
 
+
+- [Fast FFT in JNI](https://code.google.com/p/scalalab/wiki/JavaFFTvsNative)
 Ideas:
 正交区别signal source
 encode 区别 同一source的顺序
+
+cdma encoding.
+
 
 
 
