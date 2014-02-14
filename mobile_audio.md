@@ -21,18 +21,34 @@ Android Audio
 
 ## Signal Processing
 - [Which algorithm](http://stackoverflow.com/questions/441438/which-algorithm-should-i-use-for-signal-sound-one-class-classification)
-
+- [Sound processing in matlab](http://homepages.udayton.edu/~hardierc/ece203/sound.htm)
 
 - [Fast FFT in JNI](https://code.google.com/p/scalalab/wiki/JavaFFTvsNative)
+
 Ideas:
-正交区别signal source
-encode 区别 同一source的顺序
 
-cdma encoding.
+- 正交区别signal source encode 区别 同一source的顺序 cdma encoding.
+
+- GPU computing. Renderscript
+
+- Use a frequency header.
+
+
+- [Matched filter in matlab](http://stackoverflow.com/questions/19468733/how-to-implement-a-matched-filter)
+
+- [State of art chirp finding](https://github.com/skymoo/lalsuite/blob/ce490c58024389142d03e9c9530f6574bb86efd5/lalinspiral/src/FindChirpBCV.h)
+
+- [Renderscript](http://android-developers.blogspot.com/2013/01/evolution-of-renderscript-performance.html)
+
+- [Matched filtering for fm waveform - matlab](http://www.mathworks.com/help/phased/ug/matched-filtering.html)
+
+- [Renderscript setup](http://www.doubleencore.com/2013/10/renderscript-for-all/)
 
 
 
+-[chirp filter](http://www.qsl.net/dl4yhf/speclab/chirp_filter.htm#implementation)
 
+-[Matlab sound](http://www.icn.ucl.ac.uk/courses/MATLAB-Tutorials/Sessions2008_09/Marieke_Scholvinck/html/Matlab_sounds_complicated.html)
 
 ======
 
