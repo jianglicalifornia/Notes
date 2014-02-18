@@ -50,6 +50,47 @@ Ideas:
 
 -[Matlab sound](http://www.icn.ucl.ac.uk/courses/MATLAB-Tutorials/Sessions2008_09/Marieke_Scholvinck/html/Matlab_sounds_complicated.html)
 
+## Signal design
+
+Problem:
+- Dealing with multi-user communication system that share the same time-slots and the same bandwidth.
+
+- Requirement (rank through priority)
+	- can detect the exact beginning of the signal
+	- each signal in the set is easy to distinguish from (apossibly time-shifted version of) every other signal in the set.
+	- each signal in the set is easy to distinguish from a time-shifted version ofitself; (signal from the same phone)
+	- fast and easy to process
+	- immune to doppler effects
+
+
+## Relative literature
+
+- Robust Range Estimation Using Acoustic and Multimodal Sensing:
+	- PN sequence based. 
+	- Mobile speakers and microphones' rated power is 0.1 w
+	- pseudo-noise sequences as the acoustic signal in most work
+	- binary phase shift keying wave form
+	- BPSK at 12 kHz chip rate. 
+	- Using direct sequence based on a codes from 511 bit code.
+	- using the correleation with a different sequence to simulate the noise level. 
+
+
+- Exploiting Quasi-Orthogonal Chirp signals in Multi-user access communication systems
+	- Chirp signal are known to immune to Doppler shift.
+	- Chirp rates are selected to keep the used set of chirp signals quasi-orthogonal. (didn't understand the selection criteria yet)
+	
+- Quasi-orthogonal chirp signals Design for Multi-user CSS system
+	- priciples for choosing signal
+		- time bandwidth product TmBw >=20 their cross-correlation is less than 0.2
+		- cross correlation p <= 0.4. small bit error rate change.
+		
+- SwordFight: Enabling a new class of Phone-to-Phone Action Games on Commodity Phones
+	- 12 Hz with 2cm median error while withstanding up to 0dB noise, multipath and Doppler effect
+	- Realtime correlation algorithm based on a special chirp.
+	- Addressed dopler effects.
+	- Compute auto-correlation before cross-correlation.
+	- Deal with occasional tone loss. two alternating codes.
+	
 ======
 
 
