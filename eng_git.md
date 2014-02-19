@@ -8,7 +8,6 @@ Git commands
 
 **version control**
 - discard unstaged changes in git: ` git stash save --keep-index` 
-
 - discard local commit: `git reset --hard origin/master`
 
 **branch**
