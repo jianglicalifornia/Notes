@@ -32,6 +32,37 @@ Command:
 
 [Install ARM translation for Genymotion](http://forum.xda-developers.com/showthread.php?t=2528952)
 
+======
+
+## Debugging:
+
+Set the -g compiler flag in jnk/Android.mk to build the gdb-server
+
+`LOCAL_CFLAGS := -g`
+
+Build the native lib for debugging NDK_DEBUG=1
+
+`ndk-build NDK_DEBUG=1`
+
+Set the application debuggable in the manifest.
+
+`android:debuggable=true`
+
+Set a break point inside eclipse (before the NDK invoking)
+
+Run ndk-gdb
+
+`ndk-gdb --start`
+
+Set breakpoint.
+
+`b filename:linenumber`
+
+continue GDB machine
+
+`continue`
+
+continue eclipse and then it would enter gdb break point
 
 - - -
 
