@@ -9,6 +9,7 @@ Git commands
 **version control**
 - discard unstaged changes in git: ` git stash save --keep-index` 
 - discard local commit: `git reset --hard origin/master`
+- change last commit message: `git commit --amend -m "New commit message"`
 
 **branch**
 - git checkout remote branches (2 steps):
