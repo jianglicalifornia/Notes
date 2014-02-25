@@ -19,6 +19,8 @@ Mobile
 - [Bluetooth](mobile_bluetooth.md)
 - [Audio](mobile_audio.md)
 - [Sensors](mobile_sensors.md)
+- [Mobile IDE](mobile_ide.md)
+- [Speech Recognition](mobile_speech.md)
 
 ** Android **
 
@@ -34,6 +36,8 @@ HCI
 
 Design & Web
 ------
+- [Infomation Visualization](design_infovis.md)
+- []
 
 
 DM/ML/NLP
@@ -47,6 +51,9 @@ Engineering
 ------
 - [Git](eng_git.md)
 - [Shell](eng_shell.md)
+- [Web](eng_web.md)
+- [Build mobile experience](learning_building_mobile_experience.md)
+- [Links](links.md)
 
 Photography
 ------
