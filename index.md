@@ -1,14 +1,7 @@
 for things I don't want to put into my brain, I put them here.
 ==========
 
-### table of contents
 
-
-|                                   |    Col2    | NumCol |
-|-----------------------------------|------------|--------|
-| Value 1                           | Value 2    |    123 |
-| This is a row with only one cell  |            |        |
-| This row is testing html entities | Te<br/>st  |     45 |
 
 
 Mobile
@@ -37,7 +30,6 @@ HCI
 Design & Web
 ------
 - [Infomation Visualization](design_infovis.md)
-- []
 
 
 DM/ML/NLP
@@ -55,8 +47,10 @@ Engineering
 - [Build mobile experience](learning_building_mobile_experience.md)
 - [Links](links.md)
 
-Photography
+Misc
 ------
+
+- [Photography]
 - [【个人整理】单反使用及进阶摄影教程（纸质书扫描）](http://www.douban.com/group/topic/47487329/)
 
 
