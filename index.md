@@ -51,7 +51,7 @@ Misc
 ------
 
 - [Photography](misc_photography.md)
-
+- [Personal Video Collection](misc_videos.md)
 
 Where on earth is me
 --------
