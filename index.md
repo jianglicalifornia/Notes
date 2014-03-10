@@ -1,8 +1,8 @@
-index
+for things I don't want to put into my brain, I put them here.
 ==========
 
 ### table of contents
-for things I don't want to put into my brain, I put them here.
+
 
 |                                   |    Col2    | NumCol |
 |-----------------------------------|------------|--------|
