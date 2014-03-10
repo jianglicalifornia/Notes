@@ -10,6 +10,7 @@ Android Audio
 
 ## Open source code
 - [基于Android的声波通信原理和源代码](http://www.oschina.net/question/730666_129117)
+- [JUC is a wide-ranging C++ class library for building rich cross-platform applications and plugins for all the major operating systems.](http://www.juce.com/)
 
 
 ## Android 
@@ -18,11 +19,17 @@ Android Audio
 	- [How to access the second mic android such as Galaxy 3](http://stackoverflow.com/questions/15418267/how-to-access-the-second-mic-android-such-as-galaxy-3)
 	- [How to do stereo recording using the AudioRecord](http://stackoverflow.com/questions/14627246/how-can-i-record-2-microphone-in-android-simultaneously)
 	- [code in OpenSL recording](http://cabbage.googlecode.com/svn/trunk/JuceLibraryCode/modules/juce_audio_devices/native/juce_android_OpenSL.cpp)
+	- [Playing back sound coming from microphone in real-time](http://stackoverflow.com/questions/5728454/playing-back-sound-coming-from-microphone-in-real-time)
+	- [OpenSL Documentation](https://www.khronos.org/registry/sles/specs/OpenSL_ES_Specification_1.0.1.pdf)
 
 ## Signal Processing
+
+**Bandpass filter **
+
+- [Bandpass filter](http://stackoverflow.com/questions/16389205/simple-bandpass-filter-in-java)
+- [Matlab's code in Bandpass filter](http://www.ligo-wa.caltech.edu/~cheryl.vorvick/etmx2007/OldStuffFromPCLaptop/MATLAB6p1/toolbox/signal/signal/firls.m)
 - [Which algorithm](http://stackoverflow.com/questions/441438/which-algorithm-should-i-use-for-signal-sound-one-class-classification)
 - [Sound processing in matlab](http://homepages.udayton.edu/~hardierc/ece203/sound.htm)
-
 - [Fast FFT in JNI](https://code.google.com/p/scalalab/wiki/JavaFFTvsNative)
 
 Ideas:

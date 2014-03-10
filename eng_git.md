@@ -4,7 +4,8 @@ Git commands
 
 @[git | dev]
 
-- [eclipse path]: ~/Development/adt-bundle-mac-x86_64-20130717/eclipse/Eclipse.app/Contents/MacOS/eclipse &
+**commands**
+- [eclipse path]: `~/Development/adt-bundle-mac-x86_64-20130717/eclipse/Eclipse.app/Contents/MacOS/eclipse &`
 
 **version control**
 - discard unstaged changes in git: ` git stash save --keep-index` 

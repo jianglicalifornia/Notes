@@ -64,6 +64,16 @@ continue GDB machine
 
 continue eclipse and then it would enter gdb break point
 
+
+======
+
+## Problem diagnostic:
+
+```
+03-03 13:46:10.459: E/AndroidRuntime(20255): java.lang.UnsatisfiedLinkError: Couldn't load tracko from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.yahoo.labs.tracko-2.apk"],nativeLibraryDirectories=[/data/app-lib/com.yahoo.labs.tracko-2, /vendor/lib, /system/lib]]]: findLibrary returned null  
+```
+** Solution **: `delete the "armeabi-v7a" under libs, then do a clean rebuild`
+
 - - -
 
 

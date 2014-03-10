@@ -14,6 +14,7 @@ Bluetooth
 - [What are state of the art technologies for location-finding indoors, where GPS doesn’t work?](http://www.quora.com/Indoor-Positioning/What-are-state-of-the-art-technologies-for-location-finding-indoors-where-GPS-doesn%E2%80%99t-work)
 - [RSSI to distance](http://blog.sina.com.cn/s/blog_68ffc7a40100ueaw.html)
 
+
 Overview
 -----------
 
@@ -57,6 +58,7 @@ Distance calculation
 - [Fuzzy locating system](http://en.wikipedia.org/wiki/Fuzzy_locating_system)
 - [How Estimote calculate the distance](https://github.com/Estimote/iOS-SDK/blob/master/DistanceDemo/DistanceDemo/ViewController/ESTViewController.m)
 - [How to use Rssi value to calculate Distance](http://xuepengxu.blogspot.com/2012/06/how-to-use-rssi-value-to-calculate.html)
+- [Bluetooth RSSI with a basic formula](http://www.robomotic.com/android/bluetooth-rssi/)
 
 ```
 //Estimote's code snippet.
