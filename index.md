@@ -30,7 +30,7 @@ HCI
 Design & Web
 ------
 - [Infomation Visualization](design_infovis.md)
-
+- [GraphViz](design_graphviz.md)
 
 DM/ML/NLP
 ------
