@@ -74,6 +74,11 @@ continue eclipse and then it would enter gdb break point
 ```
 ** Solution **: `delete the "armeabi-v7a" under libs, then do a clean rebuild`
 
+
+## References
+
+-[How to use ceres-solver library for Android-NDK](http://tech.sandyeggi.com/2013/10/using-ceres-solver-in-android-ndk.html)
+
 - - -
 
 
