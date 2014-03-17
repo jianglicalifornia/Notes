@@ -54,6 +54,11 @@ Points we may need to address in the paper:
 2. Traditional bluetooth has two problem in locationing: adjust signal strength when signals become too strong or too weak, makeing any subsequent distance measurements based on signal strength unreliable. Takes a lot of time for new device to be fully discovered.
 
 
+
+```mathjax
+    RSSI = -(10 * n* \log_{10} D + A)
+```
+
 References
 -----------
 ** General **
@@ -95,7 +100,7 @@ self.positionDot.center = CGPointMake(self.view.bounds.size.width / 2, newYPos);
 - [Continuous Close-Proximity RSSI-based Tracking in Wireless Sensor Networks](http://www.cs.huji.ac.il/~dolev/pubs/tracking.pdf)
 - [Experiments on Local Positioning with bluetooth](http://impact.asu.edu/cse535fa07/Paper%20Presentation/local%20positioning.pdf)
 
-** Publications **
+## Publications
 
 - [Asynchronous Ultrasonic Trilateration for Indoor Positioning of Mobile Phones](http://arrow.dit.ie/cgi/viewcontent.cgi?article=1096&context=dmccon)
 
