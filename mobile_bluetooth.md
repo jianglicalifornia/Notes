@@ -30,8 +30,12 @@ Demo
 [](https://www.youtube.com/watch?v=dMWEl6GBGqk)
 
 
+RSSI
+-----------
 
-Connecting
+
+
+Connections
 -----------
 A slave(server/prepheral) may only be connected to a single master, but a master may be connected to multiple slaves. (up to 8)
 
@@ -42,6 +46,12 @@ The BLE protocol specification requires that the maximum data payload size for t
 [Android 4.4.1 connections can be up to 8](http://www.androidpolice.com/2013/12/13/whats-really-new-in-android-4-4-2/)
 >Bluetooth LE Connections
 Prior to 4.4.1, the number of devices that could be simultaneously connected to an Android device topped out at four. With a commit put in before the 4.4.1 update, that limit is bumped up to seven.
+
+Points we may need to address in the paper:
+------------
+
+1. Nearby WLAN devices were turned off during the measurements because WLANs and Bluetooth share the same frequency band [15].
+2. Traditional bluetooth has two problem in locationing: adjust signal strength when signals become too strong or too weak, makeing any subsequent distance measurements based on signal strength unreliable. Takes a lot of time for new device to be fully discovered.
 
 
 References
@@ -77,6 +87,23 @@ float distFactor = ((float)self.selectedBeacon.rssi + 30) / -70;
 float newYPos = self.dotMinPos + distFactor * self.dotRange;
 self.positionDot.center = CGPointMake(self.view.bounds.size.width / 2, newYPos);
 ```
+
+** RSSI **
+
+- [Wifi-based trilateration on Android](http://rvmiller.com/2013/05/part-1-wifi-based-trilateration-on-android/)
+- [Two Distance measure formulas](http://www.s2is.org/Issues/v1/n2/papers/paper14.pdf)
+- [Continuous Close-Proximity RSSI-based Tracking in Wireless Sensor Networks](http://www.cs.huji.ac.il/~dolev/pubs/tracking.pdf)
+- [Experiments on Local Positioning with bluetooth](http://impact.asu.edu/cse535fa07/Paper%20Presentation/local%20positioning.pdf)
+
+** Publications **
+
+- [Asynchronous Ultrasonic Trilateration for Indoor Positioning of Mobile Phones](http://arrow.dit.ie/cgi/viewcontent.cgi?article=1096&context=dmccon)
+
+** 3D Location **
+
+- [A Relative Positioning System for Co-located Mobile Devices](http://comp.eprints.lancs.ac.uk/1016/1/ultrasound.pdf)
+
+
 
 - - -
 
