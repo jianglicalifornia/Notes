@@ -11,6 +11,9 @@ Git commands
 - discard unstaged changes in git: ` git stash save --keep-index` 
 - discard local commit: `git reset --hard origin/master`
 - change last commit message: `git commit --amend -m "New commit message"`
+- get back to most recent version: `git checkout master`
+- go back two versions: `git checkout HEAD~2`
+- create a temporary branch based on 2 versions back: `git checkout -b temp_branch HEAD~2`
 
 **branch**
 - git checkout remote branches (2 steps):

@@ -99,6 +99,7 @@ self.positionDot.center = CGPointMake(self.view.bounds.size.width / 2, newYPos);
 - [Two Distance measure formulas](http://www.s2is.org/Issues/v1/n2/papers/paper14.pdf)
 - [Continuous Close-Proximity RSSI-based Tracking in Wireless Sensor Networks](http://www.cs.huji.ac.il/~dolev/pubs/tracking.pdf)
 - [Experiments on Local Positioning with bluetooth](http://impact.asu.edu/cse535fa07/Paper%20Presentation/local%20positioning.pdf)
+- [Particle filter Explained without Equations](http://www.youtube.com/watch?v=aUkBa1zMKv4)
 
 ## Publications
 
@@ -107,6 +108,8 @@ self.positionDot.center = CGPointMake(self.view.bounds.size.width / 2, newYPos);
 ** 3D Location **
 
 - [A Relative Positioning System for Co-located Mobile Devices](http://comp.eprints.lancs.ac.uk/1016/1/ultrasound.pdf)
+- [Using the Magnetic Field for IndoorLocalisation on a Mobile Phone](http://www.academia.edu/1948824/Using_the_Magnetic_Field_for_Indoor_Localisation_on_a_Mobile_Phone)
+- [GPS positioning algorithm](http://www.kowoma.de/en/gps/positioning.htm)
 
 
 
