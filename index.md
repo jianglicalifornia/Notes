@@ -44,6 +44,7 @@ Engineering
 - [Git](eng_git.md)
 - [Shell](eng_shell.md)
 - [Math](eng_math.md)
+- [Python](eng_python.md)
 - [Web](eng_web.md)
 - [Build mobile experience](learning_building_mobile_experience.md)
 - [Links](links.md)
