@@ -28,3 +28,11 @@ Git commands
 - push local branch to remote: `git push origin [name]`
 - delete remote branch: `git push origin :heads/[name]` or `git push origin :[name]`
 
+**code checkin**
+- commit a single file/directory: `git commit -m 'my notes' -- path/to/my/file.ext`
+
+**stash**
+- creating a branch from a stash: `git stash branch testchanges`
+- list stash: `git stash list`
+- apply stash: `git stash apply stash@{2}`
+- drop stash: `git stash drop stash@{0}`
