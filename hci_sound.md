@@ -1,6 +1,9 @@
 Sound
 ===========
 
+## Demo
+- [Low Pass filter web demo](http://www.cnblogs.com/hustskyking/p/webAudio-filter.html)
+
 
 - [DB effects](http://www.sengpielaudio.com/calculator-levelchange.htm)
 - [Hearing test](http://www.audiocheck.net/testtones_hearingtestaudiogram.php)
