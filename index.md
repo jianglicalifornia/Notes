@@ -25,6 +25,7 @@ Mobile
 HCI
 ------
 - [Sound](hci_sound.md)
+- [Always-on](hci_alwayson.md)
 
 
 Design & Web

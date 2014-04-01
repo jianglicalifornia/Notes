@@ -74,6 +74,11 @@ continue eclipse and then it would enter gdb break point
 ```
 ** Solution **: `delete the "armeabi-v7a" under libs, then do a clean rebuild`
 
+```
+Couldn't resolved OpenSL ES types and methods```
+
+** Solutions **: `project -> property->C/C++ General->Code Analysis-> use project settings -> uncheck following boxes: method cannot be resolved, symbol is not resolved.`
+
 ## Ceres 
 
 ** Overview to setup in NDK environment **

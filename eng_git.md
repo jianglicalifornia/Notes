@@ -36,3 +36,8 @@ Git commands
 - list stash: `git stash list`
 - apply stash: `git stash apply stash@{2}`
 - drop stash: `git stash drop stash@{0}`
+
+**history**
+- view the commit history: `git log`
+- advanced version: `git log --pretty="%h - %s" --author=gitster --since="2008-10-01" --before="2008-11-01" --no-merges -- t/`
+

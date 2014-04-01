@@ -8,4 +8,3 @@ python
 - [IPython Notebook](http://mindonmind.github.io/2013/02/08/ipython-notebook-interactive-computing-new-era/)
 
 - [Enthought - Scientific Computing Solutions](https://www.enthought.com/)
-## 
