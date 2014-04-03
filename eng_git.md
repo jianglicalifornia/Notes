@@ -42,7 +42,7 @@ Git commands
 - advanced version: `git log --pretty="%h - %s" --author=gitster --since="2008-10-01" --before="2008-11-01" --no-merges -- t/`
 
 **compare**
-- 
-compare local git branch with remote branch: `git diff <local branch> <remote-tracking branch>` `git diff master origin/master`
+- compare local git branch with remote branch: `git diff <local branch> <remote-tracking branch>` `git diff master origin/master`
+- show statistic: `git diff --stat --color remotes/main/master..origin/master`
 
 
