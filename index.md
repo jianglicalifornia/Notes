@@ -53,7 +53,7 @@ Engineering
 
 Misc
 ------
-
+- [Links worth my time](misc_linksworthmytime.md)
 - [Photography](misc_photography.md)
 - [Personal Video Collection](misc_videos.md)
 
