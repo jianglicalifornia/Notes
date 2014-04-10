@@ -12,6 +12,24 @@ Math
 
 Terms: Rotation Vectors /Rotation Matrixs / Quaternions / EulerAngles / azimuth-pitch-roll
 
+
+
+Yaw, Pitch, Roll is the same like Heading, Attitue, Bank. I
+
+- [Online Convert from Euler to Quaternion](http://quat.zachbennett.com/)
+
+```
+Bank - Roll – \phi: rotation about the X-axis
+Heading - Pitch – \theta: rotation about the Y-axis
+Attitude - Yaw – \psi: rotation about the Z-axis
+
+q1, q2, q3, q4 = w, x, y, z
+
+```
+
+
+- [Quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/)
+
 - [Conversion between different format](http://mathworld.wolfram.com/EulerAngles.html)
 Rotation Vectors 
 - [Understanding Euler Angles](https://www.chrobotics.com/library/understanding-euler-angles)

@@ -11,8 +11,44 @@ testing speech recognition in android emulator.
 	- ARM Translation Installer v1.1: http://goo.gl/JBQmPa
 	- Google Voice Search 2.1.4.apk (contain the speech recognition libraries)  https://docs.google.com/file/d/0B5rZBNIQG5NWZHV0dWdGVmkzRG8/edit?pli=1 
 
+## ADB command
+
+- Extract a file: `adb pull sdcard/log.file`
+- Delete a file: `adb shell rm -r sdcard/log.file`
 
 
+## Basic Logging code
+
+```
+	public static void appendlog(String text){
+		File logFile = new File("sdcard/log.file");
+		if (!logFile.exists())
+		{
+			try
+			{
+				logFile.createNewFile();
+			} 
+			catch (IOException e)
+			{
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		try
+		{
+			//BufferedWriter for performance, true to set append to file flag
+			BufferedWriter buf = new BufferedWriter(new FileWriter(logFile, true)); 
+			buf.append(text);
+			buf.newLine();
+			buf.close();
+		}
+		catch (IOException e)
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+```
 
 - - -
 
