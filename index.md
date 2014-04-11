@@ -50,6 +50,7 @@ Engineering
 - [Web](eng_web.md)
 - [Build mobile experience](learning_building_mobile_experience.md)
 - [Links](links.md)
+- [DesignPattern](eng_designpattern.md)
 
 Misc
 ------
