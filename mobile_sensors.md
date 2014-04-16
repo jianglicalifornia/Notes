@@ -9,6 +9,7 @@ Mobile Sensors
 - [Apple's samplecode on Accelerometer filter](https://developer.apple.com/library/IOS/samplecode/AccelerometerGraph/Listings/AccelerometerGraph_AccelerometerFilter_m.html)
 - [Filtering accelerometer data noise](http://stackoverflow.com/questions/1638864/filtering-accelerometer-data-noise)
 - [Android code on get distance from accelerometer](https://github.com/prachetverma/distance)
+- [Low-pass and high-pass filter for iOS accelerometer.(iOS 对加速计的简单滤波器)](http://lejia.li/post/2012-10-12/40040708346)
 
 ## References
 - [Sensor Fusion on Android Devices](http://www.youtube.com/watch?v=C7JQ7Rpwn2k)

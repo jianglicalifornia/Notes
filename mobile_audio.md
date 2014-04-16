@@ -8,6 +8,11 @@ Android Audio
 - iPhone 5: 3 microphones (One on the front, one on the bottom, and one on the back). 2 speakers (back and front)
 	- [Reference](http://ipod.about.com/od/iPhone5SandiPhone5C/ss/Anatomy-Of-Iphone-5S.htm)
 
+
+## Parameter Tunning
+
+- [Determining the native buffer size and sample rate for OpenSL ES](https://play.google.com/store/apps/details?id=com.levien.audiobuffersize)
+
 ## Open source code
 - [基于Android的声波通信原理和源代码](http://www.oschina.net/question/730666_129117)
 - [JUC is a wide-ranging C++ class library for building rich cross-platform applications and plugins for all the major operating systems.](http://www.juce.com/)
