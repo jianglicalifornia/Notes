@@ -46,3 +46,6 @@ Git commands
 - show statistic: `git diff --stat --color remotes/main/master..origin/master`
 
 
+**init a git repo with a local directory**
+
+[reference](http://my.oschina.net/flan/blog/162189)

@@ -55,9 +55,7 @@ Points we may need to address in the paper:
 
 
 
-```mathjax
-    RSSI = -(10 * n* \log_{10} D + A)
-```
+$$    RSSI = -(10 * n* \log_{10} D + A)$$
 
 References
 -----------
