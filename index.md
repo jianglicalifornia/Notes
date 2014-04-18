@@ -48,6 +48,8 @@ Engineering
 - [Signal processing](eng_signalprocessing.md)
 - [Python](eng_python.md)
 - [Web](eng_web.md)
+- [Matlab](eng_matlab.md)
+- [Java](eng_java.md)
 - [Build mobile experience](learning_building_mobile_experience.md)
 - [Links](links.md)
 - [DesignPattern](eng_designpattern.md)
