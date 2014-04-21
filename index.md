@@ -53,6 +53,7 @@ Engineering
 - [Build mobile experience](learning_building_mobile_experience.md)
 - [Links](links.md)
 - [DesignPattern](eng_designpattern.md)
+- [OpenSource](eng_opensource.md)
 
 Misc
 ------
