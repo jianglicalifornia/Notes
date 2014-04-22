@@ -40,6 +40,7 @@ Git commands
 **history**
 - view the commit history: `git log`
 - advanced version: `git log --pretty="%h - %s" --author=gitster --since="2008-10-01" --before="2008-11-01" --no-merges -- t/`
+- remove all git files: `find . | grep .git | xargs rm -rf`
 
 **compare**
 - compare local git branch with remote branch: `git diff <local branch> <remote-tracking branch>` `git diff master origin/master`
@@ -48,4 +49,17 @@ Git commands
 
 **init a git repo with a local directory**
 
+
+```
+git init
+git add .
+git commit -am "init commit"
+ssh -T git@**********     //verify if the access works
+git remote add origin address 	//create a repos in the web and get the address there
+git remove -v 					//usually we can get two lines (fetch & push)
+git pull
+git push origin master
+
 [reference](http://my.oschina.net/flan/blog/162189)
+```
+	

@@ -33,3 +33,10 @@ done
 `
 - Logging: `curl -d "username=admin&password=admin&submit=Login" --dump-header headers http://localhost/Login
 curl -L -b headers http://localhost/`
+
+
+**SSL/HTTPS**
+
+```
+openssl s_client -showcerts -connect mobilelogs.labs.yahoo.com:443
+```
