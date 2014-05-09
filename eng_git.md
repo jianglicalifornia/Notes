@@ -56,10 +56,12 @@ git add .
 git commit -am "init commit"
 ssh -T git@**********     //verify if the access works
 git remote add origin address 	//create a repos in the web and get the address there
-git remove -v 					//usually we can get two lines (fetch & push)
+git remote -v 					//usually we can get two lines (fetch & push)
 git pull
 git push origin master
 
 [reference](http://my.oschina.net/flan/blog/162189)
 ```
-	
+
+**References**
+[Commits didn't show up in the profile page](https://help.github.com/articles/setting-your-email-in-git)

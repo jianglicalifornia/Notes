@@ -16,7 +16,6 @@ Recursive Processing pipeline:
 
 ** State Model **:
 
-
 State vector at time k is:
 $$ s_k = [p_x, p_y, p_z, v_x, v_y, v_z, a_x, a_y, a_z]^T $$
 
@@ -27,6 +26,13 @@ $$ s_{k+1} = A * s_k + w_k $$
 ** Motion Model **
 
 
+
+
+##Peak detection in a time-series data
+
+- [matlab implementation](http://billauer.co.il/peakdet.html)
+- [c implementation](https://github.com/xuphys/peakdetect)
+- [Simple Algorithms for Peak Detection in Time-Series](http://www.tcs-trddc.com/trddc_website/pdf/SRL/Palshikar_SAPDTS_2009.pdf)
 
 ##References
 

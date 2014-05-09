@@ -20,6 +20,9 @@ Mobile
 - [Android - NDK](mobile_android_ndk.md)
 - [Android misc](mobile_android_misc.md)
 
+** iOS **
+
+- [iOS misc](mobile_ios_misc.md)
 
 
 HCI
@@ -32,6 +35,7 @@ Design & Web
 ------
 - [Infomation Visualization](design_infovis.md)
 - [GraphViz](design_graphviz.md)
+- [Video editting](design_videoediting.md)
 
 DM/ML/NLP
 ------
@@ -39,6 +43,7 @@ DM/ML/NLP
 Computer Vision
 ------
 - [Video Processing](cv_videoprocessing.md)
+- [View Transform](cv_transform.md)
 
 Engineering
 ------
@@ -54,6 +59,9 @@ Engineering
 - [Links](links.md)
 - [DesignPattern](eng_designpattern.md)
 - [OpenSource](eng_opensource.md)
+- [Robotics](eng_robotic.md)
+- [Debug](eng_debug.md)
+- [DevTools](eng_devtools.md)
 
 Misc
 ------

@@ -1,7 +1,12 @@
 Sound
 ===========
 
+## Inaudible sound
+
+
+
 ## Demo
+- [python implementation](https://github.com/Katee/quietnet)
 - [Low Pass filter web demo](http://www.cnblogs.com/hustskyking/p/webAudio-filter.html)
 
 
