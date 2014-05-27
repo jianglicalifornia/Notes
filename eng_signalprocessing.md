@@ -23,12 +23,15 @@ For the realworld system, the car usually has a power system which generate a po
 
 
 ** State vector at time k is **:
+
 $$ s_k = [p_x, p_y, p_z, v_x, v_y, v_z]^T $$
 
 ** Input-control model **:
+
 $$ u_k = [a_x, a_y]^T $$
 
 ** Transition model **:
+
 $$ s_{k+1} = A * s_k + B * u_k + w_k $$
 
 $$ p_{t+1} = p_t + v_t * {\Delta t} + \frac{1}{2} * a_t * {\Delta t}^2 $$
@@ -58,6 +61,7 @@ $$
 
 
 
+** Tracko ** 
 
 
 
