@@ -19,23 +19,28 @@ Best tutorials:  [A practical approach to Kalman filter and how to implement it]
 	- adjusting its estimate with this moderated value.
 
 
-
- 
-
-## Common case:
-
-
+##Sensor fusion with Kalman filter
 ** indirect feedback kalman filter (error-state Kalman ﬁlter) **: 
 
 In such a conﬁguration, the Kalman ﬁlter is used to estimate the difference between the current inertial and optical (or acoustic) outputs, i.e. it continually estimates the error in the inertial estimates by using the optical system as a second (redundant) reference. 
 
-This error estimate is then used to correct the inertial estimates. The tuning of the Kalman ﬁlter parameters (see “Parameter Estimation or Tuning” on page 35) then adjusts the weight of the correction as a function of frequency. [reference](http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf)
+This error estimate is then used to correct the inertial estimates. The tuning of the Kalman ﬁlter parameters (see “Parameter Estimation or Tuning” on page 35) then adjusts the weight of the correction as a function of frequency. [Reference](http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf)
 
 Related work:
 [Sensor Fusion & Kalman Filter 1](http://www.slideshare.net/antoniomorancardenas/data-fusion-with-kalman-filtering-21838422)
 [Sensor Fusion & Kalman Filter 2](http://campar.in.tum.de/Chair/KalmanFilter)
+ 
+ 
 
-For the realworld system, the car usually has a power system which generate a power and motivate the cars. The acceleration is known: $$ a = F/m $$
+## Example:
+
+For normal mobile phones, we have two sets of sensors: accelerometers and position sensors (like GPS). Using the Kalman Filter can fust the sensor data and estimate the position.
+
+** System definition **
+
+$$ p_{t+1} = p_t + v_t \cdot {\Delta t} + \frac{1}{2} \cdot a_t \cdot {\Delta t}^2 $$
+
+$$ v_{t+1} = v_t + a_t \cdot {\Delta t} $$
 
 
 ** State vector at time k is **:
@@ -44,15 +49,13 @@ $$ s_k = [p_x, p_y, p_z, v_x, v_y, v_z]^T $$
 
 ** Input-control model **:
 
-$$ u_k = [a_x, a_y]^T $$
+$$ u_k = [a_x, a_y]^T $$ 
 
 ** Transition model **:
 
 $$s_{k+1} = A \cdot s_k + B \cdot {u_k} + w_k$$
 
-$$ p_{t+1} = p_t + v_t \cdot {\Delta t} + \frac{1}{2} \cdot a_t \cdot {\Delta t}^2 $$
 
-$$ v_{t+1} = v_t + a_t \cdot {\Delta t} $$
 
 $$ A = 
 \begin{bmatrix}
