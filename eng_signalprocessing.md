@@ -32,7 +32,7 @@ Related work:
  
  
 
-## Example:
+## Example
 
 For normal mobile phones, we have two sets of sensors: accelerometers and position sensors (like GPS). Using the Kalman Filter can fust the sensor data and estimate the position.
 
