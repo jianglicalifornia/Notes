@@ -22,7 +22,7 @@ Best tutorials:  [A practical approach to Kalman filter and how to implement it]
 
  
 
-## Traditional case:
+## Common case:
 
 
 ** indirect feedback kalman filter (error-state Kalman ﬁlter) **: 
