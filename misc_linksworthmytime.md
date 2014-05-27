@@ -15,7 +15,8 @@ I collected some interesting websites here.
 - [老罗新书发布会](http://blog.sina.com.cn/s/blog_48f52a460101b5l0.html)
 - [Startup introduction video by kids](http://mimobaby.com/story/)
 - [针管挖掘机](http://v.ku6.com/show/LmC26zyjAkphGp-bZ-gI_g...html)
-
+- [Microsoft researcher Bill Buxton and Perceptive Pixel founder Jeff Han discuss the death and resurrection of 3D](http://blogs.technet.com/b/firehose/archive/2014/02/26/microsoft-researcher-bill-buxton-and-perceptive-pixel-founder-jeff-han-discuss-the-death-and-resurrection-of-3d.aspx)
+- [Inside the jobs from TechCrunch](http://techcrunch.com/video/inside-jobs/)
 
 ##Cute Gifs
 - [Light physics](http://ww2.sinaimg.cn/bmiddle/64c91882gw1efpo7xgp6qg207y078e83.gif)
@@ -23,6 +24,7 @@ I collected some interesting websites here.
 
 ##Hardware Makers
 - [Drone it yourself](http://jaspervanloenen.com/diy/)
+- [DIY Photo origami](http://foldplay.com/foldplay.action)
 
 
 

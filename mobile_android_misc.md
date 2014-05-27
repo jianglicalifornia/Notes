@@ -10,6 +10,8 @@ testing speech recognition in android emulator.
 - Download and install the following zips (just drag these files to the virtual machine and it would do the install automatically): 
 	- ARM Translation Installer v1.1: http://goo.gl/JBQmPa
 	- Google Voice Search 2.1.4.apk (contain the speech recognition libraries)  https://docs.google.com/file/d/0B5rZBNIQG5NWZHV0dWdGVmkzRG8/edit?pli=1 
+	
+	[reference](http://forum.xda-developers.com/showthread.php?t=2528952)
 
 ## ADB command
 

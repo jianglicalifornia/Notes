@@ -36,14 +36,15 @@ Design & Web
 - [Infomation Visualization](design_infovis.md)
 - [GraphViz](design_graphviz.md)
 - [Video editting](design_videoediting.md)
+- [Drawing](design_drawing.md)
 
 DM/ML/NLP
 ------
 
 Computer Vision
 ------
-- [Video Processing](cv_videoprocessing.md)
-- [View Transform](cv_transform.md)
+- [VideoProcessing](cv_videoprocessing.md)
+- [ImageTransform](cv_transform.md)
 
 Engineering
 ------
@@ -55,13 +56,13 @@ Engineering
 - [Web](eng_web.md)
 - [Matlab](eng_matlab.md)
 - [Java](eng_java.md)
-- [Build mobile experience](learning_building_mobile_experience.md)
 - [Links](links.md)
 - [DesignPattern](eng_designpattern.md)
 - [OpenSource](eng_opensource.md)
 - [Robotics](eng_robotic.md)
 - [Debug](eng_debug.md)
 - [DevTools](eng_devtools.md)
+- [algorithm](eng_algorithm.md)
 
 Misc
 ------
