@@ -22,13 +22,13 @@ Signal processing
 For the realworld system, the car usually has a power system which generate a power and motivate the cars. The acceleration is known: $$ a = F/m $$
 
 
-**State vector at time k is**:
+** State vector at time k is **:
 $$ s_k = [p_x, p_y, p_z, v_x, v_y, v_z]^T $$
 
-**Input-control model**:
+** Input-control model **:
 $$ u_k = [a_x, a_y]^T $$
 
-**Transition model**:
+** Transition model **:
 $$ s_{k+1} = A * s_k + B * u_k + w_k $$
 
 $$ p_{t+1} = p_t + v_t * {\Delta t} + \frac{1}{2} * a_t * {\Delta t}^2 $$
