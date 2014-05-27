@@ -32,12 +32,11 @@ $$ u_k = [a_x, a_y]^T $$
 
 ** Transition model **:
 
-$$s_{k+1} = A * s_k + B * {u_k} + w_k$$
+$$s_{k+1} = A \cdot s_k + B \cdot {u_k} + w_k$$
 
-model:
-$$ p_{t+1} = p_t + v_t * {\Delta t} + \frac{1}{2} * a_t * {\Delta t}^2 $$
+$$ p_{t+1} = p_t + v_t \cdot {\Delta t} + \frac{1}{2} \cdot a_t \cdot {\Delta t}^2 $$
 
-$$ v_{t+1} = v_t + a_t * {\Delta t} $$
+$$ v_{t+1} = v_t + a_t \cdot {\Delta t} $$
 
 $$ A = 
 \begin{bmatrix}
