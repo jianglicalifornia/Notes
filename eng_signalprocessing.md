@@ -35,7 +35,7 @@ $$ u_k = [a_x, a_y]^T $$
 $$ v_{t+1} = v_t + a_t * {\Delta t} $$
 
 
-$$ s_{k+1} = A * s_k + B * u_k + w_k $$
+$$ s_{k+1} = A * s_k + B * {u_k} + w_k $$
 
 $$ p_{t+1} = p_t + v_t * {\Delta t} + \frac{1}{2} * a_t * {\Delta t}^2 $$
 
