@@ -19,7 +19,7 @@ Best tutorials:  [A practical approach to Kalman filter and how to implement it]
 	- adjusting its estimate with this moderated value.
 
 
-##Sensor fusion with Kalman filter
+###Sensor fusion with Kalman filter
 ** indirect feedback kalman filter (error-state Kalman ﬁlter) **: 
 
 In such a conﬁguration, the Kalman ﬁlter is used to estimate the difference between the current inertial and optical (or acoustic) outputs, i.e. it continually estimates the error in the inertial estimates by using the optical system as a second (redundant) reference. 
@@ -32,7 +32,7 @@ Related work:
  
  
 
-## Example
+###Example
 
 For normal mobile phones, we have two sets of sensors: accelerometers and position sensors (like GPS, RSSI). Using the Kalman Filter can fust the sensor data and estimate the position.
 
@@ -144,17 +144,7 @@ $$
 [wolframalpha example for 2d](http://www.wolframalpha.com/input/?i=%7B%7Bt%5E2%2F2%2C+0%7D%2C+%7Bt%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%7D%2C+%7B0%2C+t%7D%7D.%7B%7Bx%5E2%2C0%7D%2C+%7B0%2C+y%5E2%7D%7D.%7B%7Bt%5E2%2F2%2C+t%2C+0%2C+0%7D%2C%7B0%2C0%2C+t%5E2%2F2%2C+t%7D%7D)
 
 
-
-
-
-
-##Peak detection in a time-series data
-
-- [matlab implementation](http://billauer.co.il/peakdet.html)
-- [c implementation](https://github.com/xuphys/peakdetect)
-- [Simple Algorithms for Peak Detection in Time-Series](http://www.tcs-trddc.com/trddc_website/pdf/SRL/Palshikar_SAPDTS_2009.pdf)
-
-##References
+** References **
 
 - [Kalman Filters for undergrads](http://greg.czerniak.info/guides/kalman1/)
 - [A 3D State Space Formulation of a Navigation Kalman Filter for Autonomous Vehicles](http://www.frc.ri.cmu.edu/~alonzo/pubs/reports/kalman_V2.pdf)
@@ -162,3 +152,12 @@ $$
 - [the must read page for kalman filter](http://www.cs.unc.edu/~welch/kalman/) 
 - [Nice tutorial for applications](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
 - [Video tutorial for Kalman filter](http://studentdavestutorials.weebly.com/kalman-filter-with-matlab-code.html)
+
+
+## Match filter
+
+###Peak detection in a time-series data
+
+- [matlab implementation](http://billauer.co.il/peakdet.html)
+- [c implementation](https://github.com/xuphys/peakdetect)
+- [Simple Algorithms for Peak Detection in Time-Series](http://www.tcs-trddc.com/trddc_website/pdf/SRL/Palshikar_SAPDTS_2009.pdf)
