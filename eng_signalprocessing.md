@@ -57,14 +57,16 @@ $$ u_k = [a_x, a_y]^T $$
 
 $$s_{k+1} = A \cdot s_k + B \cdot {u_k} + w_k$$
 
-$$$w_k$$$ is process noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
+
+$$$ w_k $$$ is process noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
 $$ w_k \sim N(0, Q_k) $$
 
 ** Observation/Measurement model **
 
 $$z_k = H \cdot x_k + v_k $$
 
-$$$v_k$$$ is measurement noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
+
+$$$ v_k $$$ is measurement noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
 $$ v_k \sim N(0, R_k) $$
 
 
