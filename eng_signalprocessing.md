@@ -99,7 +99,8 @@ $$ R =
 0 & 0 & {\sigma_z}^2 \\\
 \end{bmatrix}
 $$
-$$$\sigma_x$$$ is simply the standard deviation of the sensor squared or the variance of the sensor.
+
+$$${\sigma_x}$$$ is simply the standard deviation of the sensor squared or the variance of the sensor.
 
 Process covariance matrix:
 
