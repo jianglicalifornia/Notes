@@ -34,7 +34,7 @@ Related work:
 
 ## Example
 
-For normal mobile phones, we have two sets of sensors: accelerometers and position sensors (like GPS). Using the Kalman Filter can fust the sensor data and estimate the position.
+For normal mobile phones, we have two sets of sensors: accelerometers and position sensors (like GPS, RSSI). Using the Kalman Filter can fust the sensor data and estimate the position.
 
 ** System definition **
 
@@ -55,7 +55,18 @@ $$ u_k = [a_x, a_y]^T $$
 
 $$s_{k+1} = A \cdot s_k + B \cdot {u_k} + w_k$$
 
+$$$w_k$$$ is process noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
+$$ w_k \sim N(0, Q_k) $$
 
+** Observation/Measurement model **
+
+$$z_k = H \cdot x_k + v_k $$
+
+$$$v_k$$$ is measurement noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
+$$ v_k \sim N(0, R_k) $$
+
+
+#### Details:
 
 $$ A = 
 \begin{bmatrix}
@@ -71,12 +82,67 @@ $$
 
 $$ B = 
 \begin{bmatrix}
-\frac{1}{2}{\Delta t}^2  & 0\\\
-0 & \frac{1}{2}{\Delta t}^2\\\
-1 & 0\\\
-0 & 1\\\
+\frac{1}{2}{\Delta t}^2  & 0 & 0\\\
+0 & \frac{1}{2}{\Delta t}^2  & 0\\\
+0 & 0  & \frac{1}{2}{\Delta t}^2\\\
+1 & 0 & 0\\\
+0 & 1 & 0\\\
+0 & 0 & 1\\\
 \end{bmatrix}
 $$
+
+Measurement covariance matrix:
+$$ R = 
+\begin{bmatrix}
+{\sigma_x}^2  & 0 & 0\\\
+0 & {\sigma_y}^2  & 0\\\
+0 & 0 & {\sigma_z}^2 \\\
+\end{bmatrix}
+$$
+$$$\sigma_x$$$ is simply the standard deviation of the sensor squared or the variance of the sensor.
+
+Process covariance matrix:
+
+$$ R_v = E[(v_i - \overline{v})(v_i- \overline{v})] =
+\begin{bmatrix}
+{\sigma_x}^2 & 0 & 0\\\
+0 & {\sigma_y}^2  & 0\\\
+0 & 0 & {\sigma_z}^2 \\\
+\end{bmatrix}
+$$
+
+$$ F = \frac {\delta s} {\delta v} = B
+$$
+
+
+$$ Q = F \cdot R_v \cdot F^T = B \cdot R_v \cdot B^T 
+= \begin{bmatrix}
+\frac{1}{2}{\Delta t}^2  & 0 & 0\\\
+0 & \frac{1}{2}{\Delta t}^2  & 0\\\
+0 & 0  & \frac{1}{2}{\Delta t}^2\\\
+1 & 0 & 0\\\
+0 & 1 & 0\\\
+0 & 0 & 1\\\
+\end{bmatrix} \cdot 
+\begin{bmatrix}
+{\sigma_x}^2 & 0 & 0\\\
+0 & {\sigma_y}^2  & 0\\\
+0 & 0 & {\sigma_z}^2 \\\
+\end{bmatrix} \cdot \begin{bmatrix}
+\frac{1}{2}{\Delta t}^2 & 0 & 0 & 1 & 0 & 0 \\\
+0 & \frac{1}{2}{\Delta t}^2 & 0 & 0 & 1 & 0 \\\
+0 & 0 & \frac{1}{2}{\Delta t}^2  & 0 & 0 & 1 \\\
+\end{bmatrix}
+$$
+
+
+
+
+[wolframalpha calculation result](http://www.wolframalpha.com/input/?i=%7B%7Bt%5E2%2F2%2C+0%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%2C+0%7D%2C+%7B0%2C+0%2C+t%5E2%2F2%7D%2C+%7B1%2C+0%2C+0%7D%2C+%7B0%2C+1%2C+0%7D%2C+%7B0%2C+0%2C+1%7D%7D+.+%7B%7Bx%5E2%2C+0%2C+0%7D%2C+%7B0%2C+y%5E2%2C+0%7D%2C+%7B0%2C+0%2C+z%5E2%7D%7D+.+%7B%7Bt%5E2%2F2%2C+0%2C+0%2C+1%2C+0%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%2C+0%2C+0%2C+1%2C+0%7D%2C+%7B0%2C+0%2C+t%5E2%2F2%2C+0%2C+0%2C+1%7D%7D)
+
+
+[wolframalpha example for 2d](http://www.wolframalpha.com/input/?i=%7B%7Bt%5E2%2F2%2C+0%7D%2C+%7Bt%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%7D%2C+%7B0%2C+t%7D%7D.%7B%7Bx%5E2%2C0%7D%2C+%7B0%2C+y%5E2%7D%7D.%7B%7Bt%5E2%2F2%2C+t%2C+0%2C+0%7D%2C%7B0%2C0%2C+t%5E2%2F2%2C+t%7D%7D)
+
 
 
 
