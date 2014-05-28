@@ -7,6 +7,8 @@ Signal processing
 
 Best tutorials:  [A practical approach to Kalman filter and how to implement it](), [An Engineer's perspective](http://biosport.ucdavis.edu/lab-meetings/KalmanFilterPresentation)
 
+Best tutorial code: [Kalman filter in python](https://github.com/dougszumski/KalmanFilter)
+
 ** Steps to work on a Kalman filter problem **
 
 1. Define the state model, input-control model.
