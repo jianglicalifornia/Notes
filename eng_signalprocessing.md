@@ -6,6 +6,7 @@ Signal processing
 ##Kalman filter
 
 Best tutorials:  [A practical approach to Kalman filter and how to implement it](), [An Engineer's perspective](http://biosport.ucdavis.edu/lab-meetings/KalmanFilterPresentation)
+[Matlab implementation](http://www.mathworks.com/help/control/ug/kalman-filtering.html)
 
 Best tutorial code: [Kalman filter in python](https://github.com/dougszumski/KalmanFilter)
 
@@ -51,7 +52,7 @@ $$ s_k = [p_x, p_y, p_z, v_x, v_y, v_z]^T $$
 
 ** Input-control model **:
 
-$$ u_k = [a_x, a_y]^T $$ 
+$$ u_k = [a_x, a_y, a_z]^T $$ 
 
 ** Transition model **:
 
@@ -63,7 +64,7 @@ $$ w_k \sim N(0, Q_k) $$
 
 ** Observation/Measurement model **
 
-$$z_k = H \cdot x_k + v_k $$
+$$z_k = H \cdot s_k + v_k $$
 
 
 $$$ v_k $$$ is measurement noise which is Gaussian distributed with a zero mean and with covariance Q to the time k:
@@ -104,7 +105,7 @@ $$ R =
 \end{bmatrix}
 $$
 
-$$${\sigma_x}$$$ is simply the standard deviation of the sensor squared or the variance of the sensor.
+$$${\sigma_x}$$$ is simply the standard deviation of the sensor squared or the variance of the sensor. Here the sensor is the location sensor like GPS.
 
 Process covariance matrix:
 
@@ -140,13 +141,27 @@ $$ Q = F \cdot R_v \cdot F^T = B \cdot R_v \cdot B^T
 \end{bmatrix}
 $$
 
+$$${\sigma_x}$$$ is $$${\sigma_{accx}}$$$ exactly. The standard derivation of accelermeters.
 
+$$ H = 
+\begin{bmatrix}
+1 & 0 & 0\\\
+0 & 1  & 0\\\
+0 & 0  & 1\\\
+0 & 0 & 0\\\
+0 & 0 & 0\\\
+0 & 0 & 0\\\
+\end{bmatrix}
+$$
 
 
 [wolframalpha calculation result](http://www.wolframalpha.com/input/?i=%7B%7Bt%5E2%2F2%2C+0%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%2C+0%7D%2C+%7B0%2C+0%2C+t%5E2%2F2%7D%2C+%7B1%2C+0%2C+0%7D%2C+%7B0%2C+1%2C+0%7D%2C+%7B0%2C+0%2C+1%7D%7D+.+%7B%7Bx%5E2%2C+0%2C+0%7D%2C+%7B0%2C+y%5E2%2C+0%7D%2C+%7B0%2C+0%2C+z%5E2%7D%7D+.+%7B%7Bt%5E2%2F2%2C+0%2C+0%2C+1%2C+0%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%2C+0%2C+0%2C+1%2C+0%7D%2C+%7B0%2C+0%2C+t%5E2%2F2%2C+0%2C+0%2C+1%7D%7D)
 
 
 [wolframalpha example for 2d](http://www.wolframalpha.com/input/?i=%7B%7Bt%5E2%2F2%2C+0%7D%2C+%7Bt%2C+0%7D%2C+%7B0%2C+t%5E2%2F2%7D%2C+%7B0%2C+t%7D%7D.%7B%7Bx%5E2%2C0%7D%2C+%7B0%2C+y%5E2%7D%7D.%7B%7Bt%5E2%2F2%2C+t%2C+0%2C+0%7D%2C%7B0%2C0%2C+t%5E2%2F2%2C+t%7D%7D)
+
+#### Implementations:
+
 
 
 ** References **

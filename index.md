@@ -28,6 +28,7 @@ Mobile
 HCI
 ------
 - [Sound](hci_sound.md)
+- [Vision](hci_vision.md)
 - [Always-on](hci_alwayson.md)
 
 
