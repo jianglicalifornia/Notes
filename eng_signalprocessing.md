@@ -173,6 +173,12 @@ $$
 - [Nice tutorial for applications](http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/)
 - [Video tutorial for Kalman filter](http://studentdavestutorials.weebly.com/kalman-filter-with-matlab-code.html)
 
+###multiple rates kalman filter
+
+- [Multi-sensor fusion in Kalman Filter with different data rates](http://www.rcgroups.com/forums/showthread.php?t=1215585)
+
+
+
 
 ## Match filter
 

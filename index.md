@@ -41,6 +41,7 @@ Design & Web
 
 DM/ML/NLP
 ------
+- [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 
 Computer Vision
 ------

@@ -7,7 +7,7 @@ I collected some interesting websites here.
 
 - [暖乎乎](http://www.nuanhuhu.net/)
 - [Google Research Project](http://googleresearch.blogspot.com/)
-
+- [Karen X. CHENG 's blog](http://www.karenx.com/)
 
 
 
