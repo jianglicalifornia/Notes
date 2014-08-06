@@ -17,6 +17,7 @@ testing speech recognition in android emulator.
 
 - Extract a file: `adb pull sdcard/log.file`
 - Delete a file: `adb shell rm -r sdcard/log.file`
+- Cat a file: `adb -d shell cat /sdcard/chirpproc.txt`
 
 
 ## Basic Logging code

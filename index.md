@@ -9,16 +9,18 @@ Mobile
 
 ** General **
 
-- [Bluetooth](mobile_bluetooth.md)
 - [Audio](mobile_audio.md)
-- [Sensors](mobile_sensors.md)
+- [Bluetooth](mobile_bluetooth.md)
 - [Mobile IDE](mobile_ide.md)
+- [Sensors](mobile_sensors.md)
 - [Speech Recognition](mobile_speech.md)
 
 ** Android **
 
+- [Android - GUI](mobile_android_gui.md)
+- [Android - Misc](mobile_android_misc.md)
 - [Android - NDK](mobile_android_ndk.md)
-- [Android misc](mobile_android_misc.md)
+- [Android - OpenGL](mobile_android_opengl.md)
 
 ** iOS **
 
@@ -27,17 +29,17 @@ Mobile
 
 HCI
 ------
+- [Always-on](hci_alwayson.md)
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
-- [Always-on](hci_alwayson.md)
 
 
 Design & Web
 ------
-- [Infomation Visualization](design_infovis.md)
-- [GraphViz](design_graphviz.md)
-- [Video editting](design_videoediting.md)
 - [Drawing](design_drawing.md)
+- [GraphViz](design_graphviz.md)
+- [Infomation Visualization](design_infovis.md)
+- [Video editting](design_videoediting.md)
 
 DM/ML/NLP
 ------
@@ -45,32 +47,35 @@ DM/ML/NLP
 
 Computer Vision
 ------
-- [VideoProcessing](cv_videoprocessing.md)
+- [OpenCV](cv_opencv.md)
 - [ImageTransform](cv_transform.md)
+- [VideoProcessing](cv_videoprocessing.md)
 
 Engineering
 ------
-- [Git](eng_git.md)
-- [Shell](eng_shell.md)
-- [Math](eng_math.md)
-- [Signal processing](eng_signalprocessing.md)
-- [Python](eng_python.md)
-- [Web](eng_web.md)
-- [Matlab](eng_matlab.md)
-- [Java](eng_java.md)
-- [Links](links.md)
-- [DesignPattern](eng_designpattern.md)
-- [OpenSource](eng_opensource.md)
-- [Robotics](eng_robotic.md)
+- [Algorithm](eng_algorithm.md)
+- [Backend](eng_backend.md)
 - [Debug](eng_debug.md)
+- [DesignPattern](eng_designpattern.md)
 - [DevTools](eng_devtools.md)
-- [algorithm](eng_algorithm.md)
+- [Git](eng_git.md)
+- [Hadoop](eng_hadoop.md)
+- [Java](eng_java.md)
+- [Math](eng_math.md)
+- [Matlab](eng_matlab.md)
+- [OpenSource](eng_opensource.md)
+- [Python](eng_python.md)
+- [Robotics](eng_robotic.md)
+- [Shell](eng_shell.md)
+- [Signal processing](eng_signalprocessing.md)
+- [Web](eng_web.md)
 
 Misc
 ------
 - [Links worth my time](misc_linksworthmytime.md)
 - [Photography](misc_photography.md)
 - [Personal Video Collection](misc_videos.md)
+- [Resource Links](misc_res_links.md)
 
 Where on earth is me
 --------

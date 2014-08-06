@@ -137,6 +137,16 @@ Download Source from Eigen official website, and compile it with the following c
 EIGEN_PATH=/home/keir/src/eigen-3.0.5 ndk-build -j
 ```
 
+
+## error in compiling Ceres
+
+```
+type { %"class.Eigen::PlainObjectBase.44" }Broken module found, compilation aborted!
+Stack dump:
+
+```
+
+
 ## Code 
 - [File Opertion in NDK](http://stackoverflow.com/questions/1992953/file-operations-in-android-ndk)
 
@@ -144,7 +154,7 @@ EIGEN_PATH=/home/keir/src/eigen-3.0.5 ndk-build -j
 
 - [How to use ceres-solver library for Android-NDK](http://tech.sandyeggi.com/2013/10/using-ceres-solver-in-android-ndk.html)
 
-- [Using Eclipse for Android C/C++ Development](http://mhandroid.wordpress.com/2011/01/23/using-eclipse-for-android-cc-development/)
+- [Using Eclipse for Android C/C++ Development](http://mhandroid.wordpress.com/2011/01/23/using-eclipse-for-android-cc-development/
 (This method works for C++ but doesn't works for C development)
 
 - - -

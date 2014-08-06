@@ -8,6 +8,10 @@ Overview
 
 
 
+Bluetooth for interaction
+------------
+[Continous Close-proximity RSSI-based Tracking in Wireless Sensor Networks](http://www.cs.huji.ac.il/~dolev/pubs/tracking.pdf): High accuracy tracking.
+
 
 
 Android / iOS
@@ -76,7 +80,8 @@ References
 
 - [monitoring distance between two moving objects](http://electronics.stackexchange.com/questions/61957/monitoring-distance-between-two-moving-objects)
 - [Options for short range distance determination between two objects](http://electronics.stackexchange.com/questions/33110/options-for-short-range-distance-determination-between-two-objects)
-- [Using Bluetooth for Short-Term Ad Hoc Connections Between MovingVehicles: A Feasibility Study](http://koala.ece.rice.edu/pubs/Mur2002May5UsingBluet.pdf)
+- [Using Bluetooth for Short-Term Ad Hoc Connections Between Moving
+Vehicles: A Feasibility Study](http://koala.ece.rice.edu/pubs/Mur2002May5UsingBluet.pdf)
 - [Fuzzy locating system](http://en.wikipedia.org/wiki/Fuzzy_locating_system)
 - [How Estimote calculate the distance](https://github.com/Estimote/iOS-SDK/blob/master/DistanceDemo/DistanceDemo/ViewController/ESTViewController.m)
 - [How to use Rssi value to calculate Distance](http://xuepengxu.blogspot.com/2012/06/how-to-use-rssi-value-to-calculate.html)
