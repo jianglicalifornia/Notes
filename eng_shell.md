@@ -1,4 +1,4 @@
-Git commands
+Shell commands
 ===========
 
 
@@ -15,9 +15,20 @@ for ff in $files; do
 done
 ```
 
+## Keep task running even disconnect SSH
+
+nohup command
 
 
 
+## Background running
+
+```
+ctrl + z //stop
+bg //running in background
+fg //running in foreground
+ps //print running process
+```
 
 
 ## Network

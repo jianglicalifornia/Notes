@@ -61,7 +61,21 @@ git pull
 git push origin master
 
 [reference](http://my.oschina.net/flan/blog/162189)
+
 ```
+
+There is no tracking information for the current branch. 
+
+```
+  git pull origin master
+  git push -u origin master
+```
+
+**Miscs**
+
+recursively remove .DS_Store files on Mac OS X: `find . -name '*.DS_Store' -type f -delete`
+
+remove/delete a large file from commit history in Git repository: `git gc --prune=now --aggressive`
 
 **References**
 [Commits didn't show up in the profile page](https://help.github.com/articles/setting-your-email-in-git)

@@ -53,6 +53,14 @@ testing speech recognition in android emulator.
 	}
 ```
 
+## Debugging for multithread app
+
+Put the following code fragment in the beginning of doInBackground:
+
+```android.os.Debug.waitForDebugger();```
+
+Then when you set a breakpoint in that thread; eclipse will find it.
+
 - - -
 
 

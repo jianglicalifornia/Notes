@@ -1,6 +1,8 @@
 python
 ===========
 
+## Django
+
 ## Notebook
 - Enter the notebook directory and run the service. `ipython notebook --pylab inline`
 
@@ -15,6 +17,38 @@ python
 
 - [Enthought - Scientific Computing Solutions](https://www.enthought.com/)
 
+
+## Upgrade python version
+
+[Install / update to Python 2.7 and latest Pip on EC2 Amazon Linux](http://www.lecloud.net/post/61401763496/install-update-to-python-2-7-and-latest-pip-on-ec2)
+
+```
+sudo rm /usr/bin/python
+sudo ln -s /usr/bin/python2.7 /usr/bin/python 
+sudo ln -s /usr/local/bin/python2.7  /usr/bin/python  //depends on the system.
+
+```
+
+## Share python 
+```
+/usr/local/lib/python2.7/config/libpython2.7.a:  could not read symbols: Bad value
+
+Solutions: need ./configure  --enable-shared to install python
+
+
+python: error while loading shared  libraries: libpython2.7.so.1.0: 
+  cannot open shared object file: No such file or
+  
+Solutions: 
+	vim /etc/ld.so.conf.d/python2.7.conf
+	加入内容：
+	/usr/local/lib
+	保存退出后运行：
+	ldconfig 
+	
+	
+
+```
 
 ## Install python on Grid or Gateway.
 
