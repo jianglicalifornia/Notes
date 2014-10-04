@@ -1,7 +1,1 @@
 [Wiki](index.md)
-[Mobile](http://www.shift-3.com)
-[Design & Web](http://www.shift-3.com)
-[DM/ML/NLP](http://www.shift-3.com)
-[Computer Vision](http://www.shift-3.com)
-[Engineering](http://www.shift-3.com)
-[Photography](http://www.shift-3.com)
