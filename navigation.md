@@ -1,2 +1,2 @@
 [Wiki](index.md)
-[test](test.md)
+[for things I don't want to put into my brain, I put them here.]
