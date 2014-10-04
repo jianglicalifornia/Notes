@@ -25,6 +25,9 @@ HCI
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
 - [Signal Processing](eng_signalprocessing.md)
+- [Matlab](eng_matlab.md)
+- [Math](eng_math.md)
+- [Robotics](eng_robotic.md)
 
 
 Design & Web
@@ -38,6 +41,8 @@ DM/ML/NLP/CV
 ------
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Computer Vision](cv_vision.md)
+- [Hadoop](eng_hadoop.md)
+
 
 Engineering
 ------
@@ -47,13 +52,9 @@ Engineering
 - [DesignPattern](eng_designpattern.md)
 - [DevTools](eng_devtools.md)
 - [Git](eng_git.md)
-- [Hadoop](eng_hadoop.md)
 - [Java](eng_java.md)
-- [Math](eng_math.md)
-- [Matlab](eng_matlab.md)
 - [OpenSource](eng_opensource.md)
 - [Python](eng_python.md)
-- [Robotics](eng_robotic.md)
 - [Shell](eng_shell.md)
 - [Web](eng_web.md)
 
