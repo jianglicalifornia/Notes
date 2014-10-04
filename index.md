@@ -4,25 +4,16 @@ for things I don't want to put into my brain, I put them here.
 
 Mobile
 ------
-
-** General **
-
-- [Audio](mobile_audio.md)
-- [Bluetooth](mobile_bluetooth.md)
-- [Mobile IDE](mobile_ide.md)
-- [Sensors](mobile_sensors.md)
-- [Speech Recognition](mobile_speech.md)
-
-** Android **
-
+- [General - Audio](mobile_audio.md)
+- [General - Bluetooth](mobile_bluetooth.md)
+- [General - Mobile IDE](mobile_ide.md)
+- [General - Sensors](mobile_sensors.md)
+- [General - Speech Recognition](mobile_speech.md)
 - [Android - GUI](mobile_android_gui.md)
 - [Android - Misc](mobile_android_misc.md)
 - [Android - NDK](mobile_android_ndk.md)
 - [Android - OpenGL](mobile_android_opengl.md)
-
-** iOS **
-
-- [iOS misc](mobile_ios_misc.md)
+- [iOS - misc](mobile_ios_misc.md)
 
 
 HCI
