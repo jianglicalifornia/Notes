@@ -4,7 +4,13 @@ Android OpenGL
 @[dev | android | c/c++]
 
 
-
+## OpenGL rotation
+- [iOS Code & Quaternion rotation details](http://www.raywenderlich.com/12667/how-to-rotate-a-3d-object-using-touches-with-opengl) [chinese version](http://www.tairan.com/archives/1354): the code contains the details about slerp.
+- [Interpolating Rotation Quaternions](http://math.stackexchange.com/questions/30716/interpolating-rotation-quaternions) [technical info about quaternion interpolation](https://theory.org/software/qfa/writeup/node12.html)
+- [Spherical Linear Interpolation](http://caig.cs.nctu.edu.tw/course/CA/Lecture/slerp.pdf)
+- [Animation interpolation](http://sol.gfxile.net/interpolation/)
+- [Java example code](https://code.google.com/p/proscene/source/browse/trunk/src/remixlab/proscene/Quaternion.java?r=471)
+- [Quaternion implementation](https://github.com/TraxNet/ShadingZen/blob/master/library/src/main/java/org/traxnet/shadingzen/math/Quaternion.java)
 
 ## Tutorials
 - [Working and detailed tutorials fro Android OpenGl](https://www3.ntu.edu.sg/home/ehchua/programming/android/Android_3D.html)

@@ -17,6 +17,8 @@ I collected some interesting websites here.
 - [针管挖掘机](http://v.ku6.com/show/LmC26zyjAkphGp-bZ-gI_g...html)
 - [Microsoft researcher Bill Buxton and Perceptive Pixel founder Jeff Han discuss the death and resurrection of 3D](http://blogs.technet.com/b/firehose/archive/2014/02/26/microsoft-researcher-bill-buxton-and-perceptive-pixel-founder-jeff-han-discuss-the-death-and-resurrection-of-3d.aspx)
 - [Inside the jobs from TechCrunch](http://techcrunch.com/video/inside-jobs/)
+- [Why Pursue A Ph.D.? Three Practical Reasons (12-minute video)](http://vimeo.com/80236275)
+
 
 ##Cute Gifs
 - [Light physics](http://ww2.sinaimg.cn/bmiddle/64c91882gw1efpo7xgp6qg207y078e83.gif)

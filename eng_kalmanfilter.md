@@ -3,12 +3,86 @@ Signal processing
 [gimmick: math]()
 
 
+## Tracko Model final writing
+
+In our model, we define the relative coordination of the remote phone as the state model:
+$$ S_k = [P_x, P_y, P_z]^T$$
+
+Besides, we define the movements inferred from IMU as the control model. 
+$$ u_k = [\Delta x, \Delta y, \Delta z]^T$$
+
+
+
+
+## DeadReckoning
+
+[Multi-sensor fusion in Kalman Filter with different data rates](http://www.rcgroups.com/forums/showthread.php?t=1215585)
+[Slides about sensor details](http://www.slideshare.net/paller/motion-recognition-with-android-devices)
+
+## Extended Kalman Filfter v2
+$$ B_lA = \sqrt{(a_5+x-a_1)^2+(b_5+y-b_1)^2 + (c_5+z-c_1)^2}  $$
+$$ B_rA = \sqrt{(a_6+x-a_1)^2+(b_6+y-b_1)^2+(c_6+z-c_1)^2}  $$
+
+$$ A_lB = \sqrt{(a_4+x-a_2)^2+(b_4+y-b_2)^2+(c_4+z-c_2)^2}  $$
+$$ A_rB = \sqrt{(a_4+x-a_3)^2+(b_4+y-b_3)^2+(c_4+z-c_3)^2}  $$
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%7B%7B%5Csqrt%7B%28a6%2Bx-a1%29%5E2%2B%28b6%2By-b1%29%5E2%2B%28c6%2Bz-c1%29%5E2%7D+-+%5Csqrt%7B%28a5%2Bx-a1%29%5E2%2B%28b5%2By-b1%29%5E2+%2B+%28c5%2Bz-c1%29%5E2%7D+%7D%7D%2Fdx):
+$$ \cos \theta = (A_rB - A_lB)/w = \frac{\sqrt{(a_4+x-a_3)^2+(b_4+y-b_3)^2+(c_4+z-c_3)^2} - \sqrt{(a_4+x-a_2)^2+(b_4+y-b_2)^2+(c_4+z-c_2)^2} }{w} $$
+
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%7B%7B%5Csqrt%7B%28a6%2Bx-a1%29%5E2%2B%28b6%2By-b1%29%5E2%2B%28c6%2Bz-c1%29%5E2%7D+-+%5Csqrt%7B%28a5%2Bx-a1%29%5E2%2B%28b5%2By-b1%29%5E2+%2B+%28c5%2Bz-c1%29%5E2%7D+%7D%7D%2Fdx):
+$$ \cos \phi = (B_rA- B_lA)/w = \frac{\sqrt{(a_6+x-a_1)^2+(b_6+y-b_1)^2+(c_6+z-c_1)^2} - \sqrt{(a_5+x-a_1)^2+(b_5+y-b_1)^2 + (c_5+z-c_1)^2} }{w} $$
+
+
+## Extended Kalman filter for Tracko
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%28%5Csqrt%7Bx%5E2%2By%5E2%2Bz%5E2%7D%29%2Fdx):
+$$ d(\sqrt{x^2+y^2+z^2})/dx = \frac{x}{\sqrt{(x^2+y^2+z^2}} $$ 
+
+$$ d(\sqrt{x^2+y^2+z^2})/dy = \frac{y}{\sqrt{(x^2+y^2+z^2}} $$  
+
+$$ d(\sqrt{x^2+y^2+z^2})/dz = \frac{z}{\sqrt{(x^2+y^2+z^2}} $$  
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%28y%2F%5Csqrt%7Bx%5E2%2By%5E2%2Bz%5E2%7D%29%2Fdx):
+$$ d(y/\sqrt{x^2+y^2+z^2})/dx = -\frac{x y}{{(x^2+y^2+z^2)}^{3/2}} $$  
+
+$$ d(y/\sqrt{x^2+y^2+z^2})/dy = \frac{x^2 + z^2}{{(x^2+y^2+z^2)}^{3/2}} $$
+
+$$ d(y/\sqrt{x^2+y^2+z^2})/dz = -\frac{x z}{{(x^2+y^2+z^2)}^{3/2}} $$
+
+
+IF $$$ \cos \phi > 0 $$$:
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%28%5Cfrac%7B%5Csqrt%7Bax%2B+by+%2B+cz%7D%7D%7B%5Csqrt%7Bx%5E2+%2B+y%5E2+%2B+z%5E2%7D%7D%29%2Fdx):
+$$ d(\frac{\sqrt{ax+ by + cz}}{\sqrt{x^2 + y^2 + z^2}})/dx =  \frac{-2 x (b y + c z) + a (-x^2 + y^2 + z^2)}{2 \sqrt{a x + b y + c z} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
+
+$$ d(\frac{\sqrt{ax+ by + cz}}{\sqrt{x^2 + y^2 + z^2}})/dy =  \frac{-2 y (a x + c z) + b (x^2 - y^2 + z^2)}{2 \sqrt{a x + b y + c z} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
+
+
+$$ d(\frac{\sqrt{ax+ by + cz}}{\sqrt{x^2 + y^2 + z^2}})/dz =  \frac{-2 z (a x + b y) + c (x^2 + y^2 - z^2)}{2 \sqrt{a x + b y + c z} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
+
+IF $$$ \cos \phi < 0 $$$:
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%28%5Cfrac%7B-%5Csqrt%7B-%28ax%2B+by+%2B+cz%29%7D%7D%7B%5Csqrt%7Bx%5E2+%2B+y%5E2+%2B+z%5E2%7D%7D%29%2Fdx):
+
+$$ d(\frac{-\sqrt{-(ax+ by + cz)}}{\sqrt{x^2 + y^2 + z^2}})/dx =  \frac{-2 x (b y + c z) + a (-x^2 + y^2 + z^2)}{2 \sqrt{-(a x + b y + c z)} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
+
+$$ d(\frac{-\sqrt{-(ax+ by + cz)}}{\sqrt{x^2 + y^2 + z^2}})/dy =  \frac{-2 y (a x + c z) + b (x^2 - y^2 + z^2)}{2 \sqrt{-(a x + b y + c z)} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
+
+$$ d(\frac{-\sqrt{-(ax+ by + cz)}}{\sqrt{x^2 + y^2 + z^2}})/dz =  \frac{-2 z (a x + b y) + c (x^2 + y^2 - z^2)}{2 \sqrt{-(a x + b y + c z)} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
+
+## Extended Kalman filter code
+[java implementation](http://gicl.cs.drexel.edu/index.php/An_Extended_Kalman_Filter_2010)
+[Extended Kalman Filter tutorial](http://users.ices.utexas.edu/~terejanu/files/tutorialEKF.pdf)
+
 ##Kalman filter
 
 Best tutorials:  [A practical approach to Kalman filter and how to implement it](), [An Engineer's perspective](http://biosport.ucdavis.edu/lab-meetings/KalmanFilterPresentation)
 [Matlab implementation](http://www.mathworks.com/help/control/ug/kalman-filtering.html)
 
 Best tutorial code: [Kalman filter in python](https://github.com/dougszumski/KalmanFilter)
+
+Running processing introduction: [Kalman Filter For Dummies](http://bilgin.esme.org/BitsBytes/KalmanFilterforDummies.aspx)
 
 ** Steps to work on a Kalman filter problem **
 

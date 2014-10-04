@@ -35,6 +35,8 @@ Rotation Vectors
 - [Understanding Euler Angles](https://www.chrobotics.com/library/understanding-euler-angles)
 - [Code in Java](http://code.google.com/p/proscene/source/browse/trunk/src/remixlab/proscene/Quaternion.java?r=479)
 - [Yaw, pitch, and roll rotations](http://planning.cs.uiuc.edu/node102.html)
+- [Convert 3D vector to Quaternion](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/transforms/derivations/vectors/index.htm)
+- [Get the quaternion from two vector](http://lolengine.net/blog/2014/02/24/quaternion-from-two-vectors-final)
 
 ** References **
 
