@@ -7,12 +7,15 @@ Mobile
 - [General - Audio](mobile_audio.md)
 - [General - Bluetooth](mobile_bluetooth.md)
 - [General - Mobile IDE](mobile_ide.md)
+- [General - Mobile Security](mobile_security.md)
 - [General - Sensors](mobile_sensors.md)
 - [General - Speech Recognition](mobile_speech.md)
+
 - [Android - GUI](mobile_android_gui.md)
 - [Android - Misc](mobile_android_misc.md)
 - [Android - NDK](mobile_android_ndk.md)
 - [Android - OpenGL](mobile_android_opengl.md)
+
 - [iOS - misc](mobile_ios_misc.md)
 
 
