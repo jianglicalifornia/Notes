@@ -22,21 +22,20 @@ HCI
 ------
 - [Infomation Visualization](hci_infovis.md)
 - [Kalman Filter](hci_kalmanfilter.md)
+- [Math](hci_math.md)
 - [Matlab](hci_matlab.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
+- [Robotics](hci_robotic.md)
+- [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
-- [Signal Processing](hci_signalprocessing.md)
-- [Math](hci_math.md)
-- [Robotics](hci_robotic.md)
 
 
 DM/ML/NLP/CV
 ------
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
-- [Computer Vision](cv_vision.md)
-- [Hadoop](eng_hadoop.md)
-
+- [Hadoop](ml_hadoop.md)
+- [Computer Vision](ml_vision.md)
 
 Engineering
 ------
