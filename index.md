@@ -2,8 +2,6 @@ for things I don't want to put into my brain, I put them here.
 ==========
 
 
-
-
 Mobile
 ------
 
@@ -44,12 +42,7 @@ Design & Web
 DM/ML/NLP
 ------
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
-
-Computer Vision
-------
-- [OpenCV](cv_opencv.md)
-- [ImageTransform](cv_transform.md)
-- [VideoProcessing](cv_videoprocessing.md)
+- [Computer Vision](cv_vision.md)
 
 Engineering
 ------
