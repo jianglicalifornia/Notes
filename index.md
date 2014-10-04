@@ -4,38 +4,32 @@ for things I don't want to put into my brain, I put them here.
 
 Mobile
 ------
+
 - [General - Audio](mobile_audio.md)
 - [General - Bluetooth](mobile_bluetooth.md)
 - [General - Mobile IDE](mobile_ide.md)
 - [General - Mobile Security](mobile_security.md)
 - [General - Sensors](mobile_sensors.md)
 - [General - Speech Recognition](mobile_speech.md)
-
 - [Android - GUI](mobile_android_gui.md)
 - [Android - Misc](mobile_android_misc.md)
 - [Android - NDK](mobile_android_ndk.md)
 - [Android - OpenGL](mobile_android_opengl.md)
-
 - [iOS - misc](mobile_ios_misc.md)
 
 
 HCI
 ------
+- [Infomation Visualization](hci_infovis.md)
+- [Kalman Filter](hci_kalmanfilter.md)
+- [Matlab](hci_matlab.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
-- [Signal Processing](eng_signalprocessing.md)
-- [Matlab](eng_matlab.md)
-- [Math](eng_math.md)
-- [Robotics](eng_robotic.md)
+- [Signal Processing](hci_signalprocessing.md)
+- [Math](hci_math.md)
+- [Robotics](hci_robotic.md)
 
-
-Design & Web
-------
-- [Drawing](design_drawing.md)
-- [GraphViz](design_graphviz.md)
-- [Infomation Visualization](design_infovis.md)
-- [Video editting](design_videoediting.md)
 
 DM/ML/NLP/CV
 ------
