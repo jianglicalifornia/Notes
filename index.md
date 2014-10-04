@@ -21,9 +21,10 @@ Mobile
 
 HCI
 ------
-- [Always-on](hci_alwayson.md)
+- [LOVELY RESEARCH!](hci_randompapers.md)
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
+- [Signal Processing](eng_signalprocessing.md)
 
 
 Design & Web
@@ -33,7 +34,7 @@ Design & Web
 - [Infomation Visualization](design_infovis.md)
 - [Video editting](design_videoediting.md)
 
-DM/ML/NLP
+DM/ML/NLP/CV
 ------
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Computer Vision](cv_vision.md)
@@ -54,7 +55,6 @@ Engineering
 - [Python](eng_python.md)
 - [Robotics](eng_robotic.md)
 - [Shell](eng_shell.md)
-- [Signal processing](eng_signalprocessing.md)
 - [Web](eng_web.md)
 
 Misc

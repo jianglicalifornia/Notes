@@ -1,6 +1,14 @@
 HCI_Papers
 ====================
 
+- [$1 Unistroke Recognizer](https://depts.washington.edu/aimgroup/proj/dollar/)
+	- gesture recognition from UW
+
+- [1€ Filter](http://www.lifl.fr/~casiez/1euro/)
+	- Interesting filter work
+
+- [Emerging Input Technologies for Always-Available Mobile Interaction](http://research.microsoft.com/en-us/um/people/desney/publications/fnt2011-alwaysavailable.pdf)
+	- Always on input, Desney Tan
 - [Paper Generators: Harvesting Energy from Touching, Rubbing & Sliding](http://www.youtube.com/watch?v=4WaUcXSfPTg)	
 	- Imagine everday objects made responsive and interactive without batteries, Ivan, Disney, UIST 2013
 	
