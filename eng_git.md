@@ -77,5 +77,8 @@ recursively remove .DS_Store files on Mac OS X: `find . -name '*.DS_Store' -type
 
 remove/delete a large file from commit history in Git repository: `git gc --prune=now --aggressive`
 
+show remote url: `git remote show origin`
+
+
 **References**
 [Commits didn't show up in the profile page](https://help.github.com/articles/setting-your-email-in-git)
