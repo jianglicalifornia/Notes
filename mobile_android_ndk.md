@@ -17,7 +17,7 @@ References: [Android NDK 构建开发环境并运行第一个NDK示例](http://b
 
 ======
 
-## Performance profiling:
+## Performance profiling
 
 
 [Android ndk profiler](https://code.google.com/p/android-ndk-profiler/wiki/Usage)
@@ -28,13 +28,13 @@ Command:
 
 ======
 
-## Deployment:
+## Deployment
 
 [Install ARM translation for Genymotion](http://forum.xda-developers.com/showthread.php?t=2528952)
 
 ======
 
-## Debugging:
+## Debugging
 
 Set the -g compiler flag in jnk/Android.mk to build the gdb-server
 
@@ -67,7 +67,7 @@ continue eclipse and then it would enter gdb break point
 
 ======
 
-## Problem diagnostic:
+## Problem diagnostic
 
 ```
 03-03 13:46:10.459: E/AndroidRuntime(20255): java.lang.UnsatisfiedLinkError: Couldn't load tracko from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.yahoo.labs.tracko-2.apk"],nativeLibraryDirectories=[/data/app-lib/com.yahoo.labs.tracko-2, /vendor/lib, /system/lib]]]: findLibrary returned null  
