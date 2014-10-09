@@ -2,6 +2,7 @@ Shell commands
 ===========
 
 
+
 ## Examples:
 
 ** file replacement **
@@ -29,6 +30,11 @@ bg //running in background
 fg //running in foreground
 ps //print running process
 ```
+
+```
+history | tail
+```
+
 
 
 ## Network

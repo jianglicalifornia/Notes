@@ -79,6 +79,11 @@ remove/delete a large file from commit history in Git repository: `git gc --prun
 
 show remote url: `git remote show origin`
 
-
+Git: “Not currently on any branch.” : 
+```
+git stash
+git checkout some-branch
+git stash pop
+```
 **References**
 [Commits didn't show up in the profile page](https://help.github.com/articles/setting-your-email-in-git)

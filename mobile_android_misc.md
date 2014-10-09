@@ -3,6 +3,8 @@ Misc - Android
 
 ##  Speech recognition - Android
 
+[How to Change Google Now Hotword on Android](http://phonetipz.com/how-to-change-google-now-hotword-on-android/)
+
 testing speech recognition in android emulator.
 
 - Install the virtual machine software: http://www.genymotion.com/   (You can maintain multiple virtual machine on one machine and this one is much faster than the Google’s one.)

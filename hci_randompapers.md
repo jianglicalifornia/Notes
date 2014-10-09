@@ -1,5 +1,7 @@
 HCI_Papers
 ====================
+- [Parametric Wave Field Coding for Precomputed Sound Propagation](http://delivery.acm.org/10.1145/2610000/2601184/a38-raghuvanshi.pdf?ip=66.228.162.56&id=2601184&acc=ACTIVE%20SERVICE&key=0B0BA843FA2995AF%2E0B0BA843FA2995AF%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=439147601&CFTOKEN=82902480&__acm__=1412875797_d8797fd3b5a1fb936363515236cbb691)
+	- Microsoft research, how to simulate the sound propagation in the air. 
 
 - [$1 Unistroke Recognizer](https://depts.washington.edu/aimgroup/proj/dollar/)
 	- gesture recognition from UW
