@@ -36,6 +36,7 @@ DM/ML/NLP/CV
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Hadoop](ml_hadoop.md)
 - [Computer Vision](ml_vision.md)
+- [Deep Learning](ml_deeplearning.md)
 
 Engineering
 ------

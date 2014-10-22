@@ -1,6 +1,12 @@
 Signal Processing
 ===========
 
+##Chirp Processing
+- [Some Comments on the Signal Processing Used By Chirp Subbottom Profilers](http://www.ldeo.columbia.edu/res/pi/MB-System/sonarfunction/SubbottomProcessing/subbottomdataprocessing.html)
+	- How to increase the time resolution
+	- [Root of sine](http://www.physics.miami.edu/~curtright/TheRootsOfSin.pdf) 
+	- [Hilbert transform](http://www.physionet.org/physiotools/apdet/apdet-1.0/ht.c)
+
 ##Audio Processing
 - [Matlab Audio Processing Examples](http://www.ee.columbia.edu/ln/LabROSA/matlab/)
 

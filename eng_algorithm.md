@@ -1,6 +1,9 @@
 Algorithms
 ====================
 
+##Todo list
+- [Balance search trees](http://algs4.cs.princeton.edu/33balanced/)
+
 ##Sorting
 ```
 //ascending sort.
@@ -17,3 +20,5 @@ int bubble_sort(int data[],int size)
     return 0;
 }
 ```
+
+
