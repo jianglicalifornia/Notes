@@ -8,6 +8,13 @@ I collected some interesting websites here.
 - [暖乎乎](http://www.nuanhuhu.net/)
 - [Google Research Project](http://googleresearch.blogspot.com/)
 - [Karen X. CHENG 's blog](http://www.karenx.com/)
+- [王思琴](http://www.sisiwalkingaway.com/SisiWalkingAwayChinese/CNHomePage/CN_HomePage.htm)
+
+
+##Research
+
+- [Yann LeCun's comments on the hype of deep learning](https://www.facebook.com/yann.lecun/posts/10152348155137143)
+- [Interview of Michael Jordan](http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts#qaTopicThree)
 
 
 

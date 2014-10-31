@@ -1,10 +1,23 @@
 Bluetooth 
 ==============
 
+- [Peripheral and central at the same time on iOS](http://stackoverflow.com/questions/17732321/peripheral-and-central-at-the-same-time-on-ios)
+	- Although the same device being central and peribheral at the same time is not standard as per Bluetooth current specification, iOS currently supports it.
 
 
-Overview
------------
+
+
+
+
+
+
+
+
+---
+
+##Content before Oct.22 2014
+
+----
 
 
 

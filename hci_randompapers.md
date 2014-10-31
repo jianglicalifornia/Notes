@@ -2,41 +2,6 @@ HCI_Papers
 ====================
 
 
-cost:
-	$0.02/image, hourly zensor, fully human-powered = $0.48/day
-	image similarity detection removes ~40% of dups = $0.29/day
-
-semantic web, camera for each plot.
-
-free parking, when people can record the video on the way from his parking lot to the exits.
-
-detect if the car is there is not hard in compute
-detect if the cat in the sofa is
-
-detect if the 
-generic case for all the
-
-
-
-Did you try to explore the computer vision task with this data?
-boundbox,
-
-sift 
-
-you view the question from people's side.
-
-how do people choose the bounding box?
-
-Security demo?
-Video search? Video streaming, off and on.
-
-Chinese food/ mexican food? kitchen demo.
-computer vision task getting hard on this case? limit possibilities.
-
-boundbox?
-
-natural language processing.
-
 ##To do list
 - [Local Label Descriptor for Example based Semantic Image Labeling
 ](http://pages.cs.wisc.edu/~lizhang/projects/labeldesc/)
@@ -44,6 +9,10 @@ natural language processing.
 - [Undoing the Damage of Dataset Bias](http://www.eecs.berkeley.edu/~tinghuiz/papers/eccv2012.pdf)
 - [Ensemble-Based Tracking: Aggregating Crowdsourced Structured Time Series Data (ICML2014')](http://winsty.net/ebt.html)
 - [Five Principles for Choosing Research Problems in Computer Graphics](https://www.youtube.com/watch?v=v2Qaf8t8I6c&feature=youtu.be)
+- [Synaptic Mechanisms Underlying Sparse Coding of Active Touch](http://www.cell.com/neuron/abstract/S0896-6273(11)00120-6)
+- [GestureWrist and GesturePad: Unobtrusive Wearable Interaction Devices](http://www.sonycsl.co.jp/person/rekimoto/papers/iswc01.pdf)
+- [Project Gauss: Portable and Occlusion-Free Magnetic Object Tracking Using Analog Hall-Sensor Grid](http://www.cmlab.csie.ntu.edu.tw/~howieliang/HCIProjects/projectGauss.html)
+- [What Caused that Touch? Expressive Interaction with a Surface through Fiduciary-Tagged Gloves](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6881C18F471335384DB38674E6E0C280?doi=10.1.1.174.8368&rep=rep1&type=pdf)
 
 ## Done list 
 

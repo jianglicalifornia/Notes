@@ -12,6 +12,9 @@ if auto-install failed, install it manually. [Git](https://github.com/mosabua/ma
 
 create a maven android library project
 
+##### Maven Dependancy
+```mvn dependency:tree```
+
 
 
 

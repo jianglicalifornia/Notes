@@ -59,6 +59,7 @@ Misc
 - [Personal Video Collection](misc_videos.md)
 - [Resource Links](misc_res_links.md)
 - [Duanzishou](misc_duanzishou.md)
+- [Useful tools](misc_tools.md)
 
 Where on earth is me
 --------
