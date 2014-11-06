@@ -29,14 +29,14 @@ Git commands
 - commit a single file/directory: `git commit -m 'my notes' -- path/to/my/file.ext`
 - Ignore files that have already been committed to a Git repository:
 
-	```
-	First commit any outstanding code changes, and then, run this command:
-		git rm -r --cached .
-	This removes any changed files from the index(staging area), then just run:
-		git add .
-	Commit it:
-		git commit -m ".gitignore is now working"
-	```
+```
+First commit any outstanding code changes, and then, run this command:
+	git rm -r --cached .
+This removes any changed files from the index(staging area), then just run:
+	git add .
+Commit it:
+	git commit -m ".gitignore is now working"
+```
 
 **stash**
 - creating a branch from a stash: `git stash branch testchanges`
