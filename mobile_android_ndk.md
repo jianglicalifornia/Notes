@@ -3,14 +3,28 @@ Android NDK
 
 @[dev | android | c/c++]
 
-Environment Set-up
+====
+**System.currentTimeMillis() in C**
 
-- Don't use the Eclipse plugin - “Add native support”. Follow this [instuction](http://www.ntu.edu.sg/home/ehchua/programming/android/Android_NDK.html) instead. :-D 
-    - Reason: With the new ADT 20, if the project has a jni folder or/and an Android.mk file the c++ nature is added by the plugin by default. [reference](http://stackoverflow.com/questions/11504258/how-to-remove-native-support-from-an-android-project-in-eclipse-because-eclipse)
+```
+#include <stdio.h>
+#include <sys/timeb.h>
+ 
+int main()
+{
+  struct timeb tmb;
+ 
+  ftime(&tmb);
+  printf("tmb.time     = %ld (seconds)\n", tmb.time);
+  printf("tmb.millitm  = %d (mlliseconds)\n", tmb.millitm);
+ 
+  return 0;
+}
+```
 
-- Use ~/.profile to store the environment setting.
+========
 
-References: [Android NDK 构建开发环境并运行第一个NDK示例](http://blog.csdn.net/ljxfblog/article/details/15808377)
+
 
 
 
@@ -29,6 +43,15 @@ Command:
 ======
 
 ## Deployment
+
+Environment Set-up
+
+- Don't use the Eclipse plugin - “Add native support”. Follow this [instuction](http://www.ntu.edu.sg/home/ehchua/programming/android/Android_NDK.html) instead. :-D 
+    - Reason: With the new ADT 20, if the project has a jni folder or/and an Android.mk file the c++ nature is added by the plugin by default. [reference](http://stackoverflow.com/questions/11504258/how-to-remove-native-support-from-an-android-project-in-eclipse-because-eclipse)
+
+- Use ~/.profile to store the environment setting.
+
+References: [Android NDK 构建开发环境并运行第一个NDK示例](http://blog.csdn.net/ljxfblog/article/details/15808377)
 
 [Install ARM translation for Genymotion](http://forum.xda-developers.com/showthread.php?t=2528952)
 
