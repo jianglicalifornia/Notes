@@ -15,6 +15,7 @@ I collected some interesting websites here.
 
 - [Yann LeCun's comments on the hype of deep learning](https://www.facebook.com/yann.lecun/posts/10152348155137143)
 - [Interview of Michael Jordan](http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts#qaTopicThree)
+- [Technology Mediated Reminiscence](http://www.slideshare.net/WCTsai/20140520-technology-mediated-reminiscence-joes-phd-orals)
 
 
 

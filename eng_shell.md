@@ -3,6 +3,12 @@ Shell commands
 
 
 
+
+[How To scp, ssh and rsync without prompting for password
+](https://blogs.oracle.com/jkini/entry/how_to_scp_scp_and)
+
+
+
 ## Examples:
 
 ** file replacement **

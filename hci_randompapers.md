@@ -16,6 +16,9 @@ HCI_Papers
 
 ## Done list 
 
+- [3D Modeling with Silhouettes](http://www.alecrivers.com/3dmodelingwithsilhouettes/)
+	- Takeo, SIGGRAPH 2010 
+
 - [Touch & Activate: Adding Interactivity to Existing Objects using Active Acoustic Sensing](https://www.youtube.com/watch?v=XgxXi6w8IQc)
 	- UIST 2013.
 	

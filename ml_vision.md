@@ -96,7 +96,21 @@ for key, tagSet in tagmap.items():
 OpenCV
 ===
 
+**install opencv step by step**
+[install opencv on mac](http://mac-opencv-projects.blogspot.com/2014/01/installing-opencv-on-mac-os-x-1091.html)
+[install opencv through brew](https://jjyap.wordpress.com/2014/05/24/installing-opencv-2-4-9-on-mac-osx-with-python-support/)
+
+[opencv with python support](http://www.daveperrett.com/articles/2010/12/14/face-detection-with-osx-and-python/)
+
+**install through brew is highly recommended**
+for problem "CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage", Run ``brew install opencv --env=std `` instead
+
 opencv with python support [reference](http://stackoverflow.com/questions/18729495/installing-opencv-with-python-module-on-centos-goes-wrong)
+
+if brew link failed because of some files are not writable:
+
+``sudo chown -R haojian  /usr/local``
+
 
 ```
 cmake -D CMAKE_BUILD_TYPE=RELEASE  -D MAKE_INSTALL_PREFIX=/usr/local -D BUILD_NEW_PYTHON_SUPPORT=ON  ..
