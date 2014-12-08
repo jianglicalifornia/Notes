@@ -32,3 +32,7 @@ backend
 - [Apache MySQL + PYTHON ON ec2](http://fstoke.me/blog/?p=3708)
 - [在Amazon的EC2上部署nginx+web.py](http://pinkyjie.com/2011/04/09/build-nginx_webpy_on_amazon_ec2/)
 
+- AWS common products
+	- S3: File storage, FTP
+	- EC2: Serve website, run different code.
+	- CloudFront: SSN
