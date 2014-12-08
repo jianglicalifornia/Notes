@@ -7,3 +7,4 @@ Links
 - [Chart.js](http://www.chartjs.org/)
 - [Design pattern examples](http://codepen.io/patterns/)
 - [find your color](http://colourco.de/)
+- [nice website - cs professor](http://www.cs.arizona.edu/~collberg/#home)

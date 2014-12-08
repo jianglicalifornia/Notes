@@ -103,6 +103,9 @@ Problem:
 	- Compute auto-correlation before cross-correlation.
 	- Deal with occasional tone loss. two alternating codes.
 	
+- Hilbert transform: [Some Comments on the Signal Processing Used By Chirp Subbottom Profilers](http://www.mbari.org/data/mbsystem/sonarfunction/SubbottomProcessing/subbottomdataprocessing.html)
+
+
 ======
 
 

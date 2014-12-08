@@ -5,6 +5,10 @@ Math
 
 - [Grammer reference](http://iori.sinaapp.com/17.html)
 
+## Visualization
+
+- [Multiple Column Histogram](http://www.mathworks.com/matlabcentral/fileexchange/35275-matlab-plot-gallery-histogram-plot/content/html/Histogram_Plot.html)
+
 
 ##3D Coordination
 
