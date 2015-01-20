@@ -16,6 +16,9 @@ HCI_Papers
 
 ## Done list 
 
+- [Data-Driven Interaction Techniques for Improving Navigation of Educational Videos](http://juhokim.com/files/UIST2014-LectureScape.pdf)
+	- Rob Miller, UIST 2014 [video](http://juhokim.com/lecturescape/)
+
 - [3D Modeling with Silhouettes](http://www.alecrivers.com/3dmodelingwithsilhouettes/)
 	- Takeo, SIGGRAPH 2010 
 

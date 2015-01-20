@@ -1,6 +1,20 @@
 Misc - Android 
 ==============
 
+## MultiDex application compiling
+
+- [guidance in chinese. describe the way to get multidex.jar](http://blog.csdn.net/t12x3456/article/details/40837287)
+
+- [good guidance in english](https://medium.com/@mustafa01ali/dexs-64k-limit-is-not-a-problem-anymore-well-almost-2b1faac3508)
+
+## Gradle 
+- [Gradle version 1.10 is required. Current version is 2.2.1. If using the gradle wrapper]
+	- instead of down-grade the gradle version, updating the requirement is a better solution.
+
+- [Gradle DSL method not found: 'android()'](http://stackoverflow.com/questions/26759755/error1-0-gradle-dsl-method-not-found-android)
+- [error for runproguard()](http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0) 
+
+
 ##  Speech recognition - Android
 
 [How to Change Google Now Hotword on Android](http://phonetipz.com/how-to-change-google-now-hotword-on-android/)

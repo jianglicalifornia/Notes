@@ -14,3 +14,12 @@ Web
 
 **Php**
 -[Write Post data to file with PHP](http://stackoverflow.com/questions/4742898/write-post-data-to-file-with-php)
+
+
+**Django**
+- Start a server at backend: 
+	- start command: `nohup.out ./manage.py runserver`
+	- stop command: check the process id of python related to to django and kill it
+
+	```ps -ef|grep python
+	kill -9 Process_id_no.```

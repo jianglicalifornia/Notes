@@ -28,3 +28,21 @@ Create a certificate => Generate a CSR file and upload => Create a profile and d
 - [Chinese version with pictures](http://www.minwt.com/ios/4457.html)
 	- [cannot find the code signing entitlements in the options](http://stackoverflow.com/questions/1116963/dont-see-code-signing-entitlements-in-xcode-target-properties)
 	- [How can I add an entitlements file to an XCode 4.5 project? ](http://stackoverflow.com/questions/12698506/how-can-i-add-an-entitlements-file-to-an-xcode-4-5-project)
+	
+- The Enterprise developer program can install the app through ad-hoc without UUID setting [link](http://stackoverflow.com/questions/16400347/distributing-beta-iphone-app-without-uuids)
+	- for personal develop account, 
+	
+- Since iOS7, these uuid apps cannot get the true uuid through the public api call.
+	- one good method to get the uuid is through: http://get.udid.io
+	
+	
+## Tools
+- for icons
+	- [online tools](http://ticons.fokkezb.nl/)
+	- [prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12)
+- for font
+	- ObjC wrapper for the iconic fonts. [FontasticIcons](https://github.com/AlexDenisov/FontasticIcons)
+- for logging
+	- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) a logging framework can log to  a file, console, or even a database.
+- for app submitting
+	- [privacy policy generator](https://www.iubenda.com/blog/2013/06/14/privacy-policy-for-ios-apps/)
