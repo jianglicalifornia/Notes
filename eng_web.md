@@ -24,3 +24,12 @@ Web
 
 	```ps -ef|grep python
 	kill -9 Process_id_no.```
+
+
+**AWS**
+
+```
+ yum install lapack lapack-devel blas blas-devel
+ pip install numpy
+ pip install scipy
+```

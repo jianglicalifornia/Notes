@@ -9,7 +9,8 @@ Bluetooth
 
 
 
-
+## Estimote
+- [Esitmote range and precision](http://beekn.net/2013/11/getting-started-with-estimote-2-finding-beacons-range-and-precision/)
 
 
 
