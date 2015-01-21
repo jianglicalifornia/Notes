@@ -19,7 +19,7 @@ Web
 **Django**
 - debug test: `python manage.py runserver 0.0.0.0:8000`
 - Start a server at backend: 
-	- start command: `nohup.out ./manage.py runserver`
+	- start command: `nohup python manage.py runserver 0.0.0.0:8000`
 	- stop command: check the process id of python related to to django and kill it
 
 	```ps -ef|grep python

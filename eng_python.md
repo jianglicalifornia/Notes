@@ -7,6 +7,13 @@ python
 - Enter the notebook directory and run the service. `ipython notebook --pylab inline`
 
 
+## PackageManagement
+```
+sudo pip install nose
+sudo pip install hg+http://bitbucket.org/pygame/pygame
+```
+
+
 ## IDE & Environment
 
 - [Install python without sudo access](http://stackoverflow.com/questions/622744/unable-to-install-python-without-sudo-access)
