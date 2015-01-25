@@ -7,11 +7,12 @@ Bluetooth
 
 
 
-
+- [Scanning for specific UUIDs requires peripheral side change on advertising packets ](https://bluegiga.zendesk.com/entries/70825023-scanning-for-specific-UUIDs-in-iOS)
 
 ## Estimote
-- [Esitmote range and precision](http://beekn.net/2013/11/getting-started-with-estimote-2-finding-beacons-range-and-precision/)
-
+- [Estimote range and precision](http://beekn.net/2013/11/getting-started-with-estimote-2-finding-beacons-range-and-precision/)
+- [Estimote Signal Strength and Broadcasting interval ](http://blog.estimote.com/post/83618039493/how-to-extend-estimote-beacon-battery-life)
+- [Estimote Physics](http://blog.estimote.com/post/106913675010/how-do-beacons-work-the-physics-of-beacon-tech)
 
 
 

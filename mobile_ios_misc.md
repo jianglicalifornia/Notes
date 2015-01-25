@@ -1,6 +1,17 @@
 Mobile ios misc 
 ==============
 
+##Sensors
+- Two methods of writing sensor data reading.
+	- Method 1: Start the sensor update in a queue directly. [Example](http://stackoverflow.com/questions/8737889/core-motion-gyroscope-360-degree-values)
+		```Code example:
+		[self.motionManager startGyroUpdatesToQueue:[NSOperationQueue mainQueue] withHandler:^(CMGyroData *gyroData, NSError *error) {
+		}
+		```
+	- Method 2: Using the timer to read the sensor reading periodically. [Example](https://github.com/foundry/MagnetoMeter/blob/master/Magnetometer/MotionViewController.m)
+	- Difference: Method 1 uses asynchronous call which get a more accurate reading while method 2 uses synchronous call. Method 2 makes the code more elegant and easy to maintain, while method 2 has problem in reading accumulative results, eg. CMRotationRate (gyro reading). So for accumulative results, it's better to use method 1. And for one time reading, method 2 seems a better choice.
+	- [asynchronous example](https://github.com/pmanna/Gyroscope) runs a comparison between these two methods.
+
 ##Camera
 - [AVFoundation to get the camera raw data](http://weblog.invasivecode.com/post/18445861158/a-very-cool-custom-video-camera-with)
 	- Discussed the two methods for camera apps 
@@ -12,7 +23,10 @@ Mobile ios misc
 	- Mentioned that [gpu frame work](http://stackoverflow.com/questions/8778117/video-filtering-in-iphone-is-slow) can do live filtering. 
 	- [Git repo](https://github.com/BradLarson/GPUImage) Available in POD, worth a try.
 - [QR Reader](http://www.appcoda.com/qr-code-ios-programming-tutorial/)
-	 
+	
+	
+##Common knowledge (I am dumb.)
+- [Load text file with NSBundle mainBundle](http://blog.csdn.net/duxinfeng2010/article/details/7698135)
 
 ##Interface
 - [solo components](https://github.com/andreyvit/SoloComponents-iOS/tree/11b2d4a0b6187f231aef2499e46ad5e97571263b#readme)

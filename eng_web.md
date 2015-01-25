@@ -28,8 +28,15 @@ Web
 
 **AWS**
 
+
+for amazon normal linux machine
 ```
- yum install lapack lapack-devel blas blas-devel
- pip install numpy
- pip install scipy
+yum install lapack lapack-devel blas blas-devel
+pip install numpy
+pip install scipy
+```
+
+for ubuntu
+```
+sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 ```
