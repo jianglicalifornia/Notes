@@ -1,6 +1,29 @@
 Mobile ios misc 
 ==============
 
+## Network
+- NSOutputStream 
+	- (NSInteger)write:(const uint8_t *)buffer maxLength:(NSUInteger)len;
+		- Doesn't guarantee all the data would be written. The number of data bytes are depending on the buffer space availability.
+		- If the message could be long, using the following code.
+		```
+		        NSData *data = [[NSData alloc] initWithData:[message dataUsingEncoding:NSASCIIStringEncoding]];
+		        unsigned long length = [data length];
+		        uint8_t* bytes = (uint8_t*) [data bytes];
+		        unsigned long position = 0;
+		        while (position < length) {
+		            unsigned long writtern = [_outputStream write:(bytes+position)
+		                                               maxLength: length-position];
+		            position += writtern;
+		        }
+		        if (position == length){
+		            NSLog(@"upload successfully. %lu => %ld", (unsigned long)[data length], (long)position);
+		        }else{
+		            NSLog(@"upload failure. %lu => %ld", (unsigned long)[data length], (long)position);
+		        }
+		```
+		
+
 ##Sensors
 - Two methods of writing sensor data reading.
 	- Method 1: Start the sensor update in a queue directly. [Example](http://stackoverflow.com/questions/8737889/core-motion-gyroscope-360-degree-values)

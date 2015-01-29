@@ -1,10 +1,14 @@
 Bluetooth 
 ==============
 
-- [Peripheral and central at the same time on iOS](http://stackoverflow.com/questions/17732321/peripheral-and-central-at-the-same-time-on-ios)
-	- Although the same device being central and peribheral at the same time is not standard as per Bluetooth current specification, iOS currently supports it.
-	- [Peripheral and central at the same time on iOS](http://stackoverflow.com/questions/17732321/peripheral-and-central-at-the-same-time-on-ios)
 
+## Using iOS as the peripheral mode.
+
+- [Peripheral and central at the same time on iOS](http://stackoverflow.com/questions/17732321/peripheral-and-central-at-the-same-time-on-ios)
+	- Although the same device being central and peripheral at the same time is not standard as per Bluetooth current specification, iOS currently supports it.
+	- [Peripheral and central at the same time on iOS](http://stackoverflow.com/questions/17732321/peripheral-and-central-at-the-same-time-on-ios)
+	- [A detailed code description about peripheral mode on iOS](https://github.com/liquidx/CoreBluetoothPeripheral)
+	- [Simple and good code for peripheral mode](https://github.com/youten/ImmPeri)
 
 
 - [Scanning for specific UUIDs requires peripheral side change on advertising packets ](https://bluegiga.zendesk.com/entries/70825023-scanning-for-specific-UUIDs-in-iOS)
