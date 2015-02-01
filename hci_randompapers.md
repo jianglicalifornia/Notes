@@ -14,9 +14,11 @@ HCI_Papers
 - [Project Gauss: Portable and Occlusion-Free Magnetic Object Tracking Using Analog Hall-Sensor Grid](http://www.cmlab.csie.ntu.edu.tw/~howieliang/HCIProjects/projectGauss.html)
 - [What Caused that Touch? Expressive Interaction with a Surface through Fiduciary-Tagged Gloves](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6881C18F471335384DB38674E6E0C280?doi=10.1.1.174.8368&rep=rep1&type=pdf)
 - [Real Time Object Scanning Using a Mobile Phone and Cloud-based Visual Search Engine](http://www.cs.cmu.edu/~jbigham/pubs/pdfs/2013/objectscanning.pdf)
-- [Flock: Hybrid Crowd-Machine Learning Classifiers](http://hci.stanford.edu/publications/2015/Flock/flock_paper.pdf)
 
 ## Done list 
+
+- [Flock: Hybrid Crowd-Machine Learning Classifiers](http://hci.stanford.edu/publications/2015/Flock/flock_paper.pdf)
+	- Bravo work! 
 
 - [Data-Driven Interaction Techniques for Improving Navigation of Educational Videos](http://juhokim.com/files/UIST2014-LectureScape.pdf)
 	- Rob Miller, UIST 2014 [video](http://juhokim.com/lecturescape/)
