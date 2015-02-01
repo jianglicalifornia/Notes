@@ -10,6 +10,12 @@ Deep learning
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 - [Simple but effective demo](http://v.youku.com/v_show/id_XMjE2MDY4NTg0.html)
 - [Sparse coding and ‘ICA’](http://redwood.berkeley.edu/vs265/handout-sparse-08.pdf)
+- Locality-Sensitive Hashing
+	- [局部敏感哈希(Locality-Sensitive Hashing, LSH)方法介绍](http://blog.csdn.net/icvpr/article/details/12342159)
+	- [LSH-Forest in Python sci-kit](https://www.google.com/search?q=LSH-Forest&oq=LSH-Forest&aqs=chrome..69i57j0.379j0j7&sourceid=chrome&es_sm=91&ie=UTF-8#q=LSH-Forest+in+python)
+
+
+
 
 **Jan. 30, 2015**
 
@@ -40,7 +46,9 @@ Deep learning
 - [convolutional neural networks in C++](https://github.com/nyanp/tiny-cnn)
 - [Deep Learning tutorial in Chinese - 51 lectures in total](http://www.cnblogs.com/tornadomeet/tag/Deep%20Learning/default.html?page=3)
 - [Python for Signal Processing: Featuring IPython Notebooks](http://www.amazon.com/Python-Signal-Processing-Featuring-Notebooks/dp/3319013416#customerReviews)
-- [](http://www.infoq.com/cn/articles/atari-reinforcement-learning)
+- [Chinese discussion on the DeepMind's RL ](http://www.infoq.com/cn/articles/atari-reinforcement-learning)
+- [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+
 ##Random Articles
 
 
