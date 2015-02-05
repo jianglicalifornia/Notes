@@ -34,8 +34,7 @@ Deep learning
 - [Nobel 2014 for the neuro science](http://www.guokr.com/article/439282/) it's a hype. but after reading this story, i also want to advertise this hype somehow.
 - [Get off the deep learning bandwagon and get some perspective](http://www.pyimagesearch.com/2014/06/09/get-deep-learning-bandwagon-get-perspective/) like the comments on these machine learning bandwagons' history.
 - [Hacker's Guide to neural networks](http://karpathy.github.io/neuralnets/)
-	- Great article. 
-	- "things become much clearer when I started ignoring full-page, dense derivations of backpropagation equations and just started writing code."
+	- Great article. Great overview and details, but without mid-level information
 
 **ING**
 
@@ -50,7 +49,7 @@ Deep learning
 - [Python for Signal Processing: Featuring IPython Notebooks](http://www.amazon.com/Python-Signal-Processing-Featuring-Notebooks/dp/3319013416#customerReviews)
 - [Chinese discussion on the DeepMind's RL ](http://www.infoq.com/cn/articles/atari-reinforcement-learning)
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-
+- [UFLDL教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
 
 
 

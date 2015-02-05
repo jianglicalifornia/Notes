@@ -3,6 +3,41 @@ python
 
 ## Django
 
+##Coding tricks
+
+**MultiDimension Dictionary**
+
+2D + 1D lookup table
+
+```
+d3_dict[ (fileinfos[0], fileinfos[1], fileinfos[4] )] = np.array([])
+if (fileinfos[0], fileinfos[1], fileinfos[4]) in d3_dict:
+ 	print "exist"
+```
+
+3D lookup
+
+```
+d3_dict[fileinfos[0]][fileinfos[1]][fileinfos[4]] = np.array([])
+if fileinfos[0] in d3_dict and fileinfos[1] in d3_dict[fileinfos[0]] and fileinfos[4] in d3_dict[fileinfos[0]][fileinfos[1]]:
+	print "exist"
+```
+
+
+**Close pyplot figure using the keyboard on Mac OS X**
+
+```
+plt.show()
+
+=>
+
+plt.show(block=False)
+input("Hit Enter To Close")
+plt.close()
+
+```
+
+
 ## Notebook
 - Enter the notebook directory and run the service. `ipython notebook --pylab inline`
 
