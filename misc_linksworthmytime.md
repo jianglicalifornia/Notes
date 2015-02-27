@@ -5,11 +5,12 @@ I collected some interesting websites here.
 
 ##Blogs
 
-- [暖乎乎](http://www.nuanhuhu.net/)
 - [Google Research Project](http://googleresearch.blogspot.com/)
 - [Karen X. CHENG 's blog](http://www.karenx.com/)
 - [王思琴](http://www.sisiwalkingaway.com/SisiWalkingAwayChinese/CNHomePage/CN_HomePage.htm)
-
+- [vgod's blog](http://blog.vgod.tw/)
+- [mmdays](http://mmdays.com/)
+- [暖乎乎](http://www.nuanhuhu.net/)
 
 ##Research
 
@@ -24,9 +25,8 @@ I collected some interesting websites here.
 - [Startup introduction video by kids](http://mimobaby.com/story/)
 - [针管挖掘机](http://v.ku6.com/show/LmC26zyjAkphGp-bZ-gI_g...html)
 - [Microsoft researcher Bill Buxton and Perceptive Pixel founder Jeff Han discuss the death and resurrection of 3D](http://blogs.technet.com/b/firehose/archive/2014/02/26/microsoft-researcher-bill-buxton-and-perceptive-pixel-founder-jeff-han-discuss-the-death-and-resurrection-of-3d.aspx)
-- [Inside the jobs from TechCrunch](http://techcrunch.com/video/inside-jobs/)
 - [Why Pursue A Ph.D.? Three Practical Reasons (12-minute video)](http://vimeo.com/80236275)
-
+- [Man's physical transformation](http://v.youku.com/v_show/id_XNjMyNDA1ODI4.html)
 
 ##Cute Gifs
 - [Light physics](http://ww2.sinaimg.cn/bmiddle/64c91882gw1efpo7xgp6qg207y078e83.gif)

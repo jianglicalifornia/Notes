@@ -94,3 +94,13 @@ git stash pop
 ```
 **References**
 [Commits didn't show up in the profile page](https://help.github.com/articles/setting-your-email-in-git)
+
+
+The recommended steps to follow for any contribution are:
+```
+Fork it
+Create your feature branch (git checkout -b my-new-feature)
+Commit your changes (git commit -am 'Added some feature')
+Push to the branch (git push origin my-new-feature)
+Create new Pull Request
+```

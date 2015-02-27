@@ -20,3 +20,11 @@ Signal Processing
 ## Filter
 - [Online filter generation](http://www-users.cs.york.ac.uk/~fisher/mkfilter/) 
 	- [How to use it](http://stackoverflow.com/questions/664877/i-need-to-implement-a-butterworth-filter-in-c-is-it-easier-get-a-library-with-t)  
+	
+	
+## Signal Smoothing
+
+- different smoothing methods work differently depending on the nature of the signal and noise contained in the signal. Each method offers a different performance to best show significant aspects of your results.
+	- Savitzky-Golay seeks to preserve shapes of peaks
+	- Adjacent Averaging does wide smoothing.
+	- the percentile filter (especially 50% percentile filter or median filter) allows you to eliminate noise with abnormal amplitude.

@@ -43,6 +43,13 @@ Deep learning
 - [Chinese student's summary](http://blog.csdn.net/abcjennifer/article/details/42493493#0-tsina-1-19647-397232819ff9a47a7b7e80a40613cfe1)
 
 **Todo**
+
+http://www.slimy.com/~steuard/teaching/tutorials/Lagrange.html
+
+
+http://en.wikipedia.org/wiki/Logistic_regression
+- [supervised learning](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
+
 - [DeepLearning DIY](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/preview?sle=true&slide=id.g583563d7a_161101)
 - [convolutional neural networks in C++](https://github.com/nyanp/tiny-cnn)
 - [Deep Learning tutorial in Chinese - 51 lectures in total](http://www.cnblogs.com/tornadomeet/tag/Deep%20Learning/default.html?page=3)
@@ -50,6 +57,11 @@ Deep learning
 - [Chinese discussion on the DeepMind's RL ](http://www.infoq.com/cn/articles/atari-reinforcement-learning)
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [UFLDL教程](http://deeplearning.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)
+- [Word2Vec](http://liweithu.me/word2vec/)
+- [Kernel in SVM](http://crsouza.blogspot.com/2010/03/kernel-functions-for-machine-learning.html)
+- [Unsupervised learning talk from Andrew Ng](https://www.youtube.com/watch?v=ZmNOAtZIgIk)
+- [Deeplearning tutorial, Stanford](http://deeplearning.stanford.edu/tutorial/)
 
-
-
+- [collaborative filter vs content based ml. genome. pandora ]
+- http://blog.csdn.net/dark_scope/article/details/17228643
+- Programming Collective Intelligence 

@@ -1,6 +1,11 @@
 python
 ===========
 
+
+## Coding style
+- [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+- [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+
 ## Django
 
 ##Coding tricks
@@ -36,6 +41,10 @@ input("Hit Enter To Close")
 plt.close()
 
 ```
+
+## Pyplot
+
+- [Class introduction](http://www.cnblogs.com/wei-li/archive/2012/05/23/2506940.html)
 
 
 ## Notebook

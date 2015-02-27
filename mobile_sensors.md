@@ -19,7 +19,8 @@ Mobile Sensors
 
 ## Hardware
 - [Google Nexus 4 Device](https://support.google.com/nexus/answer/2846875?hl=en&ref_topic=3415470)
-
+- [Touch screen](http://ee.ofweek.com/2013-07/ART-11000-2803-28703394_3.html)
+- [Touch screen explanation in chinese](http://www.guokr.com/question/394635/)
 - - -
 
 
