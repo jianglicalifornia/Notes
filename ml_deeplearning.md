@@ -61,7 +61,10 @@ http://en.wikipedia.org/wiki/Logistic_regression
 - [Kernel in SVM](http://crsouza.blogspot.com/2010/03/kernel-functions-for-machine-learning.html)
 - [Unsupervised learning talk from Andrew Ng](https://www.youtube.com/watch?v=ZmNOAtZIgIk)
 - [Deeplearning tutorial, Stanford](http://deeplearning.stanford.edu/tutorial/)
+- [Deep learning visualization](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
 
 - [collaborative filter vs content based ml. genome. pandora ]
 - http://blog.csdn.net/dark_scope/article/details/17228643
 - Programming Collective Intelligence 
+
+- [http://eng.kifi.com/from-word2vec-to-doc2vec-an-approach-driven-by-chinese-restaurant-process/]
