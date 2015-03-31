@@ -49,7 +49,8 @@ plt.close()
 
 ## Notebook
 - Enter the notebook directory and run the service. `ipython notebook --pylab inline`
-
+- run a public notebook server. `ipython notebook --ip=* --no-browser`
+- authentication. [more details](http://mindonmind.github.io/2013/02/08/ipython-notebook-interactive-computing-new-era/)
 
 ## PackageManagement
 ```

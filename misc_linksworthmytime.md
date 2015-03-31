@@ -1,6 +1,11 @@
 Links worth my time
 =================
 
+## Something I am working on currently:
+- [兵书十二卷](http://book.douban.com/subject/1290449/)
+- [万物生长](http://book.douban.com/subject/3018339/)
+- [大气功师](http://book.douban.com/subject/1470651/)
+
 I collected some interesting websites here.
 
 ##Blogs

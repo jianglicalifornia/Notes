@@ -62,9 +62,9 @@ http://en.wikipedia.org/wiki/Logistic_regression
 - [Unsupervised learning talk from Andrew Ng](https://www.youtube.com/watch?v=ZmNOAtZIgIk)
 - [Deeplearning tutorial, Stanford](http://deeplearning.stanford.edu/tutorial/)
 - [Deep learning visualization](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
-
+- [reinforcement learning: an introduction](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)
 - [collaborative filter vs content based ml. genome. pandora ]
 - http://blog.csdn.net/dark_scope/article/details/17228643
 - Programming Collective Intelligence 
-
+- [tutorial collection](http://www.jianshu.com/p/5WP1Eh)
 - [http://eng.kifi.com/from-word2vec-to-doc2vec-an-approach-driven-by-chinese-restaurant-process/]

@@ -1,6 +1,9 @@
 Bluetooth 
 ==============
 
+## BLE communication
+
+- [Apple's official example BTLE Central Peripheral Transfer](https://developer.apple.com/library/ios/samplecode/BTLE_Transfer/Introduction/Intro.html#//apple_ref/doc/uid/DTS40012927)
 
 ## Using iOS as the peripheral mode.
 
@@ -18,7 +21,8 @@ Bluetooth
 - [Estimote Signal Strength and Broadcasting interval ](http://blog.estimote.com/post/83618039493/how-to-extend-estimote-beacon-battery-life)
 - [Estimote Physics](http://blog.estimote.com/post/106913675010/how-do-beacons-work-the-physics-of-beacon-tech)
 
-
+## Misc
+- [Directional Antenna for tracking](http://www.rcgroups.com/forums/showthread.php?t=1337608)
 
 ---
 

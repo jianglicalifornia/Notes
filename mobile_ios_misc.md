@@ -85,3 +85,13 @@ Create a certificate => Generate a CSR file and upload => Create a profile and d
 	- [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) a logging framework can log to  a file, console, or even a database.
 - for app submitting
 	- [privacy policy generator](https://www.iubenda.com/blog/2013/06/14/privacy-policy-for-ios-apps/)
+	
+	
+	
+# high performance semantic zooming
+
+- [Semantic Zoom in iOS](http://monodeveloper.org/uncategorized/semantic-zoom-in-ios/)
+	- used dynamic controller. good 
+- [Thumbnail solution](http://stackoverflow.com/questions/14659650/uiscrollview-lazy-loading)
+- [Basic knowledge about scroll viewer](http://www.raywenderlich.com/10518/how-to-use-uiscrollview-to-scroll-and-zoom-content)
+- [Move the UITableView in its superview](http://stackoverflow.com/questions/21677268/uitableview-inside-uiscrollview-not-receiving-first-tap-after-scrollling)
