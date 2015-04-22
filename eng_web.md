@@ -4,7 +4,12 @@ Web
 
 @[web | dev]
 
-- [eclipse path]: ~/Development/adt-bundle-mac-x86_64-20130717/eclipse/Eclipse.app/Contents/MacOS/eclipse &
+
+**Jetty**
+
+
+
+
 
 **Apache**
 - [How to install apache and php on Mac](http://machiine.com/2013/how-to-install-apache-and-php-on-a-mac-with-osx-10-8-mamp-part-1/)

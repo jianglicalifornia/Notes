@@ -36,3 +36,9 @@ backend
 	- S3: File storage, FTP
 	- EC2: Serve website, run different code.
 	- CloudFront: SSN
+	
+	
+##Websocket
+- [libwebsockets (c)](https://github.com/warmcat/libwebsockets)
+	- lightweight websocket
+- [pywebsocket](https://code.google.com/p/pywebsocket/)

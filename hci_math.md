@@ -56,7 +56,7 @@ Rotation Vectors
 - [Tutorial 17 : Rotations in OpenGL](http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-17-quaternions/)(If you want to read only one article regarding that problem, that's the one!)
 - [Relative Rotation Between two Quaternions](http://answers.ros.org/question/10124/relative-rotation-between-two-quaternions/)
 - ['Difference' between two quaternions](http://stackoverflow.com/questions/1755631/difference-between-two-quaternions)
-- [3D transformations. Quanternion -> <-Euler Angle](http://stackoverflow.com/questions/11103683/euler-angle-to-quaternion-then-quaternion-to-euler-angle)
+- [3D transformations. Quaternion -> <-Euler Angle](http://stackoverflow.com/questions/11103683/euler-angle-to-quaternion-then-quaternion-to-euler-angle)
 
 
 

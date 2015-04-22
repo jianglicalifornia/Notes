@@ -29,7 +29,7 @@ HCI
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
-
+- [Hardware](hci_hardware.md)
 
 DM/ML/NLP/CV
 ------

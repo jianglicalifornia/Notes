@@ -35,6 +35,7 @@ Deep learning
 - [Get off the deep learning bandwagon and get some perspective](http://www.pyimagesearch.com/2014/06/09/get-deep-learning-bandwagon-get-perspective/) like the comments on these machine learning bandwagons' history.
 - [Hacker's Guide to neural networks](http://karpathy.github.io/neuralnets/)
 	- Great article. Great overview and details, but without mid-level information
+- [Understanding Convolution in Deep Learning]( https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/)
 
 **ING**
 

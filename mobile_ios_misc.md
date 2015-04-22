@@ -95,3 +95,7 @@ Create a certificate => Generate a CSR file and upload => Create a profile and d
 - [Thumbnail solution](http://stackoverflow.com/questions/14659650/uiscrollview-lazy-loading)
 - [Basic knowledge about scroll viewer](http://www.raywenderlich.com/10518/how-to-use-uiscrollview-to-scroll-and-zoom-content)
 - [Move the UITableView in its superview](http://stackoverflow.com/questions/21677268/uitableview-inside-uiscrollview-not-receiving-first-tap-after-scrollling)
+- [Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.](https://github.com/samvermette/SVPullToRefresh)
+- [TLIndexPathTools](http://tlindexpathtools.com/)
+- [Asynchronous image downloader with cache support with an UIImageView category](https://github.com/rs/SDWebImage)
+- [SDWebImage vs FastImageCache)](https://bpoplauschi.wordpress.com/2014/03/21/ios-image-caching-sdwebimage-vs-fastimage/)
