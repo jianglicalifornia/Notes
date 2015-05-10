@@ -1,7 +1,13 @@
 Android NDK 
 ==============
 
-@[dev | android | c/c++]
+## Using GPU on Android
+
+
+- [Renderscript](http://android-developers.blogspot.com/2013/01/evolution-of-renderscript-performance.html)
+- [Renderscript setup](http://www.doubleencore.com/2013/10/renderscript-for-all/)
+
+
 
 ====
 **System.currentTimeMillis() in C**

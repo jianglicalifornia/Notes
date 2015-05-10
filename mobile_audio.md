@@ -1,13 +1,10 @@
-Android Audio 
+Mobile Audio 
 ==============
-
-@[dev | android | c/c++]
 
 ## Devices:
 
 - iPhone 5: 3 microphones (One on the front, one on the bottom, and one on the back). 2 speakers (back and front)
 	- [Reference](http://ipod.about.com/od/iPhone5SandiPhone5C/ss/Anatomy-Of-Iphone-5S.htm)
-
 
 ## Parameter Tunning
 
@@ -50,11 +47,10 @@ Ideas:
 
 - [State of art chirp finding](https://github.com/skymoo/lalsuite/blob/ce490c58024389142d03e9c9530f6574bb86efd5/lalinspiral/src/FindChirpBCV.h)
 
-- [Renderscript](http://android-developers.blogspot.com/2013/01/evolution-of-renderscript-performance.html)
+
 
 - [Matched filtering for fm waveform - matlab](http://www.mathworks.com/help/phased/ug/matched-filtering.html)
 
-- [Renderscript setup](http://www.doubleencore.com/2013/10/renderscript-for-all/)
 
 
 
@@ -62,9 +58,9 @@ Ideas:
 
 -[Matlab sound](http://www.icn.ucl.ac.uk/courses/MATLAB-Tutorials/Sessions2008_09/Marieke_Scholvinck/html/Matlab_sounds_complicated.html)
 
-## Signal design
 
-Problem:
+## Typical Audio Signal design requirement
+
 - Dealing with multi-user communication system that share the same time-slots and the same bandwidth.
 
 - Requirement (rank through priority)
@@ -75,7 +71,7 @@ Problem:
 	- immune to doppler effects
 
 
-## Relative literature
+## Audio Ranging Papers
 
 - Robust Range Estimation Using Acoustic and Multimodal Sensing:
 	- PN sequence based. 
@@ -102,9 +98,6 @@ Problem:
 	- Addressed dopler effects.
 	- Compute auto-correlation before cross-correlation.
 	- Deal with occasional tone loss. two alternating codes.
-	
-- Hilbert transform: [Some Comments on the Signal Processing Used By Chirp Subbottom Profilers](http://www.mbari.org/data/mbsystem/sonarfunction/SubbottomProcessing/subbottomdataprocessing.html)
-
 
 ======
 
