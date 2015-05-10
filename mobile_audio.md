@@ -1,10 +1,9 @@
 Mobile Audio 
 ==============
 
-## Devices:
+## Devices
 
-- iPhone 5: 3 microphones (One on the front, one on the bottom, and one on the back). 2 speakers (back and front)
-	- [Reference](http://ipod.about.com/od/iPhone5SandiPhone5C/ss/Anatomy-Of-Iphone-5S.htm)
+- iPhone 5: 3 microphones (One on the front, one on the bottom, and one on the back). 2 speakers (back and front) [Reference](http://ipod.about.com/od/iPhone5SandiPhone5C/ss/Anatomy-Of-Iphone-5S.htm)
 - [Determining the native buffer size and sample rate for OpenSL ES](https://play.google.com/store/apps/details?id=com.levien.audiobuffersize)
 
 
