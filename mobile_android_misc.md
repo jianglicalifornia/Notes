@@ -15,20 +15,6 @@ Misc - Android
 - [error for runproguard()](http://tools.android.com/tech-docs/new-build-system/migrating-to-1-0-0) 
 
 
-##  Speech recognition - Android
-
-[How to Change Google Now Hotword on Android](http://phonetipz.com/how-to-change-google-now-hotword-on-android/)
-
-testing speech recognition in android emulator.
-
-- Install the virtual machine software: http://www.genymotion.com/   (You can maintain multiple virtual machine on one machine and this one is much faster than the Google’s one.)
-
-- Download and install the following zips (just drag these files to the virtual machine and it would do the install automatically): 
-	- ARM Translation Installer v1.1: http://goo.gl/JBQmPa
-	- Google Voice Search 2.1.4.apk (contain the speech recognition libraries)  https://docs.google.com/file/d/0B5rZBNIQG5NWZHV0dWdGVmkzRG8/edit?pli=1 
-	
-	[reference](http://forum.xda-developers.com/showthread.php?t=2528952)
-
 ## ADB command
 
 - Extract a file: `adb pull sdcard/log.file`
@@ -36,9 +22,40 @@ testing speech recognition in android emulator.
 - Cat a file: `adb -d shell cat /sdcard/chirpproc.txt`
 
 
+
+
+## Debugging for multithread app
+
+<pre>
+Put the following code fragment in the beginning of doInBackground:
+
+```android.os.Debug.waitForDebugger();```
+
+Then when you set a breakpoint in that thread; eclipse will find it.
+</pre>
+
+
+
+## Maven/eclipse compatibility
+
+
+>Source directory difference error.
+Project Property -> Java Build Path -> Source -> Add Foler /src/main/java -> remove the conflicting one.
+
+- [Can't import library project into android studio project](http://stackoverflow.com/questions/24279294/cant-import-library-project-into-android-studio-project)
+
+- [Maven Gradle Tricks](http://www.alonsoruibal.com/my-gradle-tips-and-tricks/)
+
+
+
+## Examples
+- [multi-touch](https://github.com/thuytrinh/android-collage-views)
+- [Tabbed application](http://blog.csdn.net/shulianghan/article/details/18233209)
+
+
 ## Basic Logging code
 
-```
+<pre>
 	public static void appendlog(String text){
 		File logFile = new File("sdcard/log.file");
 		if (!logFile.exists())
@@ -67,32 +84,7 @@ testing speech recognition in android emulator.
 			e.printStackTrace();
 		}
 	}
-```
-
-## Debugging for multithread app
-
-Put the following code fragment in the beginning of doInBackground:
-
-```android.os.Debug.waitForDebugger();```
-
-Then when you set a breakpoint in that thread; eclipse will find it.
-
-
-
-
-## maven/eclipse compatibility
-Source directory difference error.
-Project Property -> Java Build Path -> Source -> Add Foler /src/main/java -> remove the conflicting one.
-
-[Can't import library project into android studio project](http://stackoverflow.com/questions/24279294/cant-import-library-project-into-android-studio-project)
-
-[Maven Gradle Tricks](http://www.alonsoruibal.com/my-gradle-tips-and-tricks/)
-
-
-
-## Examples
-- [multi-touch](https://github.com/thuytrinh/android-collage-views)
-- [Tabbed application](http://blog.csdn.net/shulianghan/article/details/18233209)
+</pre>
 
 - - -
 

@@ -7,7 +7,6 @@ Mobile
 
 - [General - Audio](mobile_audio.md)
 - [General - Bluetooth](mobile_bluetooth.md)
-<!--- - [General - Mobile IDE](mobile_ide.md) -->
 - [General - Mobile Security](mobile_security.md)
 - [General - Sensors](mobile_sensors.md)
 - [General - Speech Recognition](mobile_speech.md)
@@ -16,9 +15,9 @@ Mobile
 - [Android - OpenGL](mobile_android_opengl.md)
 - [iOS - misc](mobile_ios_misc.md)
 
-
 HCI
 ------
+
 - [Infomation Visualization](hci_infovis.md)
 - [Kalman Filter](hci_kalmanfilter.md)
 - [Math](hci_math.md)
@@ -32,6 +31,7 @@ HCI
 
 DM/ML/NLP/CV
 ------
+
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Hadoop](ml_hadoop.md)
 - [Computer Vision](ml_vision.md)
@@ -39,6 +39,7 @@ DM/ML/NLP/CV
 
 Engineering
 ------
+
 - [Algorithm](eng_algorithm.md)
 - [Amazon Web Service](eng_aws.md)
 - [Crawler](eng_crawler.md)
@@ -56,6 +57,7 @@ Engineering
 
 Misc
 ------
+
 - [Links worth my time](misc_linksworthmytime.md)
 - [Photography](misc_photography.md)
 - [Personal Video Collection](misc_videos.md)
