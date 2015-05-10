@@ -25,7 +25,7 @@ Vision
 
 - Code that write text on images
 
-	<pre>
+	<pre><code>
 	import os
 	from PIL import Image
 	from PIL import ImageFont
@@ -39,8 +39,7 @@ Vision
 	        if os.path.isfile(os.path.join(path, name)):
 	            files.append(name)
 	    return files
-
-
+	
 	tagmap = {}
 	# load labeled data
 	f = open('../nfl_commercials/jia_result')
@@ -83,7 +82,7 @@ Vision
 			counter += 1
 		img.save('output/' + key)
 		print key, tagSet
-	</pre>
+	</code></pre>
 
 - ffmpeg -framerate 6 -i nfl_commercials_%*.jpg  -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4
 
