@@ -5,9 +5,6 @@ Sound
 
 - [VocalSketch: Vocally Imitating Audio Concepts](https://static1.squarespace.com/static/552210bae4b0c19f89444531/t/55261514e4b080e2d1bc28ec/1428559124627/CartwrightPardo_2015.pdf)
 
-## Inaudible sound
-
-
 
 ## Demo
 - [python implementation](https://github.com/Katee/quietnet)

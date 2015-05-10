@@ -23,11 +23,10 @@ HCI
 - [Math](hci_math.md)
 - [Matlab](hci_matlab.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
-- [Robotics](hci_robotic.md)
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
 - [Vision](hci_vision.md)
-- [Hardware](hci_hardware.md)
+- [Misc](hci_misc.md)
 
 DM/ML/NLP/CV
 ------
