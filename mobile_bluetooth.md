@@ -49,9 +49,9 @@ Prior to 4.4.1, the number of devices that could be simultaneously connected to 
 
 ## Random notes
 
-1. Nearby WLAN devices were turned off during the measurements because WLANs and Bluetooth share the same frequency band [15].
-2. Traditional bluetooth has two problem in locationing: adjust signal strength when signals become too strong or too weak, makeing any subsequent distance measurements based on signal strength unreliable. Takes a lot of time for new device to be fully discovered.
-3. Theoretical ranging formula: $$RSSI = -(10 * n* \log_{10} D + A)$$
+- Nearby WLAN devices were turned off during the measurements because WLANs and Bluetooth share the same frequency band [15].
+- Traditional bluetooth has two problem in locationing: adjust signal strength when signals become too strong or too weak, makeing any subsequent distance measurements based on signal strength unreliable. Takes a lot of time for new device to be fully discovered.
+- Theoretical ranging formula: $$RSSI = -(10 * n* \log_{10} D + A)$$
 
 <pre>
 //Estimote's code snippet.
