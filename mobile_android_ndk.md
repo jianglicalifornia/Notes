@@ -8,63 +8,51 @@ Android NDK
 - [Renderscript setup](http://www.doubleencore.com/2013/10/renderscript-for-all/)
 
 
-
-====
-**System.currentTimeMillis() in C**
-
-```
-#include <stdio.h>
-#include <sys/timeb.h>
- 
-int main()
-{
-  struct timeb tmb;
- 
-  ftime(&tmb);
-  printf("tmb.time     = %ld (seconds)\n", tmb.time);
-  printf("tmb.millitm  = %d (mlliseconds)\n", tmb.millitm);
- 
-  return 0;
-}
-```
-
-========
-
-
-
-
-
-
-======
-
 ## Performance profiling
 
+- System.currentTimeMillis() in C
+	<pre>
+	#include <stdio.h>
+	#include <sys/timeb.h>
+ 
+	int main()
+	{
+	  struct timeb tmb;
+ 
+	  ftime(&tmb);
+	  printf("tmb.time     = %ld (seconds)\n", tmb.time);
+	  printf("tmb.millitm  = %d (mlliseconds)\n", tmb.millitm);
+ 
+	  return 0;
+	}
+	</pre>
 
-[Android ndk profiler](https://code.google.com/p/android-ndk-profiler/wiki/Usage)
 
-Command: 
-``` ~/Development/adt-bundle-mac-x86_64-20130717/android-ndk-r9b/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86/bin/arm-linux-androideabi-gprof obj/local/armeabi-v7a/libTrackoAudio.so ```
+- [Android ndk profiler](https://code.google.com/p/android-ndk-profiler/wiki/Usage)
+
+- Command: 
+	<pre>~/Development/adt-bundle-mac-x86_64-20130717/android-ndk-r9b/toolchains/arm-linux-androideabi-4.8/prebuilt/darwin-x86/bin/arm-linux-androideabi-gprof obj/local/armeabi-v7a/libTrackoAudio.so</pre>
 
 
 ======
 
 ## Deployment
 
-Environment Set-up
+- Environment Set-up
 
-- Don't use the Eclipse plugin - “Add native support”. Follow this [instuction](http://www.ntu.edu.sg/home/ehchua/programming/android/Android_NDK.html) instead. :-D 
-    - Reason: With the new ADT 20, if the project has a jni folder or/and an Android.mk file the c++ nature is added by the plugin by default. [reference](http://stackoverflow.com/questions/11504258/how-to-remove-native-support-from-an-android-project-in-eclipse-because-eclipse)
+	- Don't use the Eclipse plugin - “Add native support”. Follow this [instuction](http://www.ntu.edu.sg/home/ehchua/programming/android/Android_NDK.html) instead. :-D 
+	    - Reason: With the new ADT 20, if the project has a jni folder or/and an Android.mk file the c++ nature is added by the plugin by default. [reference](http://stackoverflow.com/questions/11504258/how-to-remove-native-support-from-an-android-project-in-eclipse-because-eclipse)
 
-- Use ~/.profile to store the environment setting.
+	- Use ~/.profile to store the environment setting.
 
-References: [Android NDK 构建开发环境并运行第一个NDK示例](http://blog.csdn.net/ljxfblog/article/details/15808377)
+	- References: [Android NDK 构建开发环境并运行第一个NDK示例](http://blog.csdn.net/ljxfblog/article/details/15808377)
 
-[Install ARM translation for Genymotion](http://forum.xda-developers.com/showthread.php?t=2528952)
+	- [Install ARM translation for Genymotion](http://forum.xda-developers.com/showthread.php?t=2528952)
 
-======
 
 ## Debugging
 
+<pre>
 Set the -g compiler flag in jnk/Android.mk to build the gdb-server
 
 `LOCAL_CFLAGS := -g`
@@ -93,29 +81,32 @@ continue GDB machine
 
 continue eclipse and then it would enter gdb break point
 
+</pre>
 
-======
 
 ## Problem diagnostic
 
-```
+<pre>
 03-03 13:46:10.459: E/AndroidRuntime(20255): java.lang.UnsatisfiedLinkError: Couldn't load tracko from loader dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.yahoo.labs.tracko-2.apk"],nativeLibraryDirectories=[/data/app-lib/com.yahoo.labs.tracko-2, /vendor/lib, /system/lib]]]: findLibrary returned null  
-```
+
 ** Solution **: `delete the "armeabi-v7a" under libs, then do a clean rebuild`
 
-```
+
 Couldn't resolved OpenSL ES types and methods```
 
 ** Solutions **: `project -> property->C/C++ General->Code Analysis-> use project settings -> uncheck following boxes: method cannot be resolved, symbol is not resolved.`
 
+</pre>
+
 ## Ceres 
 
-** Overview to setup in NDK environment **
+**Overview to setup in NDK environment**
 
-```
+
 1. Create Android project and add native support.
 2. Copy the Android.mk & Application.mk to JNI directory.
 
+<pre>
 Android.mk
 `LOCAL_PATH := $(call my-dir)
 LOCAL_ALLOW_UNDEFINED_SYMBOLS := true
@@ -155,25 +146,19 @@ APP_ABI := armeabi-v7a`
 
 3. Reconfigure the path in Android.mk to ceres source code, eigen source code and libceres.a library.
 (The latest ceres version 1.8.0 doesn’t work yet. I used the 1.7.0.)
-```
+</pre>
 
-** Problem in building Ceres on Android **
+**Problem in building Ceres on Android**
 
-`Eigen/Core couldn't found.` 
-
-```
-Download Source from Eigen official website, and compile it with the following command.
+- `Eigen/Core couldn't found.` 
+	- Download Source from Eigen official website, and compile it with the following command.
 EIGEN_PATH=/home/keir/src/eigen-3.0.5 ndk-build -j
-```
 
 
 ## error in compiling Ceres
 
-```
-type { %"class.Eigen::PlainObjectBase.44" }Broken module found, compilation aborted!
+- type { %"class.Eigen::PlainObjectBase.44" }Broken module found, compilation aborted!
 Stack dump:
-
-```
 
 
 ## Code 
