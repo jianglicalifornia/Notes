@@ -1,6 +1,10 @@
 backend
 ====================
 
+** Multiple machine deployment **
+
+- [Pythonic remote execution](http://www.fabfile.org/)
+
 
 **Links**
 

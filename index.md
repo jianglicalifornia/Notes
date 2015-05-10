@@ -41,12 +41,15 @@ DM/ML/NLP/CV
 Engineering
 ------
 - [Algorithm](eng_algorithm.md)
+- [Amazon Web Service](eng_aws.md)
+- [Crawler](eng_crawler.md)
 - [Backend](eng_backend.md)
 - [Debug](eng_debug.md)
 - [DesignPattern](eng_designpattern.md)
 - [DevTools](eng_devtools.md)
 - [Git](eng_git.md)
 - [Java](eng_java.md)
+- [MongoDB](eng_mongodb.md)
 - [OpenSource](eng_opensource.md)
 - [Python](eng_python.md)
 - [Shell](eng_shell.md)
@@ -60,13 +63,3 @@ Misc
 - [Resource Links](misc_res_links.md)
 - [Duanzishou](misc_duanzishou.md)
 - [Useful tools](misc_tools.md)
-
-Where on earth is me
---------
-
-> Sunnyvale, CA, USA
-
-[gimmick:GoogleMaps (zoom: 13)](Sunnyvale, CA, USA)
-
-
-

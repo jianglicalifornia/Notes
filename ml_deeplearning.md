@@ -42,6 +42,8 @@ Deep learning
 - [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python)
 - [Introduction to Deep Learning with Python - Theano](https://www.youtube.com/watch?v=S75EdAcXHKk&hd=1)
 - [Chinese student's summary](http://blog.csdn.net/abcjennifer/article/details/42493493#0-tsina-1-19647-397232819ff9a47a7b7e80a40613cfe1)
+- [DEEP LEARNING: Methods and Applications from microsoft](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf)
+- [Online course in NYU](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start)
 
 **Todo**
 

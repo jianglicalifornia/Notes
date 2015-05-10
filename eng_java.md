@@ -16,5 +16,8 @@ create a maven android library project
 ```mvn dependency:tree```
 
 
+##### Maven JNI
+- [Project template](https://github.com/gkubisa/jni-maven)
+
 
 

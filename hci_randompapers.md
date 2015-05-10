@@ -18,6 +18,12 @@ HCI_Papers
 
 ## Done list
 
+- [AnnoTone: Record-time Audio Watermarking for Context-aware Video Editing](http://www.slideshare.net/quolc/annotone-chi2015)
+
+- [ReGroup: Interactive Machine Learning
+for On-Demand Group Creation in Social Networks](http://www.cs.washington.edu/ai/pubs/amershiCHI2012_ReGroup.pdf)
+	- End-user interactive machine learning system
+
 - [RSA Key Extraction via Low-Bandwidth Acoustic Cryptanalysis](https://www.youtube.com/watch?v=DU-HruI7Q30)
 
 - [Flock: Hybrid Crowd-Machine Learning Classifiers](http://hci.stanford.edu/publications/2015/Flock/flock_paper.pdf)

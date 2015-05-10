@@ -1,6 +1,10 @@
 Sound
 ===========
 
+## Data set
+
+- [VocalSketch: Vocally Imitating Audio Concepts](https://static1.squarespace.com/static/552210bae4b0c19f89444531/t/55261514e4b080e2d1bc28ec/1428559124627/CartwrightPardo_2015.pdf)
+
 ## Inaudible sound
 
 
@@ -16,7 +20,4 @@ Sound
 - [Audacity](http://audacity.sourceforge.net/)
 - [PortAudio - cross-platform Audio I/O](http://www.portaudio.com/)
 
-（1）声音的三个特征分别是：音调、响度、音色；
-（2）音调的高低由发声体的频率（即振动的快慢）决定；
-（3）响度是由声源的振幅（即振动的幅度）决定；
-故答案为：音调；响度；音色；频率；振幅
+

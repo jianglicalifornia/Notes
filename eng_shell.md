@@ -1,6 +1,9 @@
 Shell commands
 ===========
 
+## Common Aws shells
+
+- check available disk space on aws: `df -h`
 
 
 
