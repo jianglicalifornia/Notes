@@ -7,7 +7,7 @@ Mobile
 
 - [General - Audio](mobile_audio.md)
 - [General - Bluetooth](mobile_bluetooth.md)
-- [General - Mobile IDE](mobile_ide.md)
+<!--- - [General - Mobile IDE](mobile_ide.md) -->
 - [General - Mobile Security](mobile_security.md)
 - [General - Sensors](mobile_sensors.md)
 - [General - Speech Recognition](mobile_speech.md)
