@@ -25,7 +25,7 @@ Vision
 
 - Code that write text on images
 
-	<pre><code>
+<pre><code>
 	import os
 	from PIL import Image
 	from PIL import ImageFont
@@ -82,7 +82,7 @@ Vision
 			counter += 1
 		img.save('output/' + key)
 		print key, tagSet
-	</code></pre>
+</code></pre>
 
 - ffmpeg -framerate 6 -i nfl_commercials_%*.jpg  -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4
 
