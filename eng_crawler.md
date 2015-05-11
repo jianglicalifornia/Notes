@@ -17,7 +17,11 @@ Crawler
 		
 - There is no big difference between BFS and DFS. Choose based on the specific needs.
 	
+- Cache: Redis
+	- Be careful about the cache size. Since the two queues increasing exponentially, it may take lots of memories.
+	
 ## Storage
+
 
 
 ## Overview
