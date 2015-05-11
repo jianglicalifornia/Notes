@@ -22,7 +22,9 @@ Crawler
 	
 ## Storage
 
-
+- MongoDB
+	- replicate set is very useful, since sometime the aws machine can be unreachable.
+	
 
 ## Overview
 
