@@ -39,6 +39,8 @@ AWS
 
 - download files: `	scp -i ***.pem ubuntu@54.165.124.0:/var/lib/redis/dump.rdb /var/lib/redis/`
 
+- start a service: `sudo service redis-server stop`
+
 ## Tips
 - Don't start redis at startup. 
 	- Sometimes redis need to load a large dump file, this will take a long time. As a result, the machine would be unreachable at that moment. 
@@ -48,6 +50,7 @@ AWS
 - [Getting started with Amazon EC2 API Tools](http://blog.kenyang.net/2014/05/getting-started-with-amazon-ec2-api.html)
 - [Add EBS volumn](http://www.cnblogs.com/huang0925/p/3879542.html)
 	- For error: `mount: mount point /data does not exist`, run `sudo mkdir /data`
+	- Boot volumn path: /dev/sda1 
 - [Mongodb on AWS EC2](http://docs.mongodb.org/ecosystem/platforms/amazon-ec2/)
 - [Common commands in MongoDB](http://sling2007.blog.163.com/blog/static/847327132012911113042620/)
 
