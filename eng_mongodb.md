@@ -25,3 +25,17 @@ logpath=/var/log/mongodb/mongod.log
  [initandlisten] exception in initAndListen: 98 Unable to create/open lock file: /data/db/mongod.lock errno:13 Permission denied Is a mongod instance already running?, terminating
 
 sudo chown -R mongodb:mongodb /data/db
+
+- [Mongodb cluster configuration](http://www.cnblogs.com/huangxincheng/archive/2012/03/04/2379755.html)
+- [MongoDB configuration](https://ruby-china.org/topics/454)
+
+## Commands in Mongo
+
+```
+show dbs
+use one_db
+db
+db.collection
+db.collection.count()
+db.collection.find()
+```

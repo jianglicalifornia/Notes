@@ -11,6 +11,7 @@ redis
 - read the list data value: `LRANGE keyname 0 -1`
 - print the length of list: `LLEN keyname`
 - print the element of the list: `LINDEX keyname 0`
+- show all dbs: `info keyspace`
 
 ## Install Redis
 

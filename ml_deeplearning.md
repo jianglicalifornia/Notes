@@ -1,6 +1,17 @@
 Deep learning
 ===================
 
+## Deep learning Hardware
+
+- [A Full Hardware Guide to Deep Learning](https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/)
+	- [Comments from HackNews](https://news.ycombinator.com/item?id=9172048)
+- [Existing machine configuration](http://www.findlaptopdriver.com/dell-0nw73c-mainboard-specifications/)
+	- CPU: i7-3770 @ 3.40 GHz * (8 cpus)
+	- Memory: 32 gb
+	- Graphic card: GT640
+	- Power: [Existing power supply is not good enough](http://www.tomshardware.com/answers/id-1744460/dell-xps-8500-gpu-250-budget.html)
+	- SSD: 256GB + HD: 3TB
+
 ## Prior reading
 
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
