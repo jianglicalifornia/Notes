@@ -1,8 +1,11 @@
 Deep learning
 ===================
 
+
+
 ## Deep learning Hardware
 
+- [Which gpu for deep learning](https://timdettmers.wordpress.com/2014/08/14/which-gpu-for-deep-learning/)
 - [A Full Hardware Guide to Deep Learning](https://timdettmers.wordpress.com/2015/03/09/deep-learning-hardware-guide/)
 	- [Comments from HackNews](https://news.ycombinator.com/item?id=9172048)
 - [Existing machine configuration](http://www.findlaptopdriver.com/dell-0nw73c-mainboard-specifications/)
@@ -11,6 +14,11 @@ Deep learning
 	- Graphic card: GT640
 	- Power: [Existing power supply is not good enough](http://www.tomshardware.com/answers/id-1744460/dell-xps-8500-gpu-250-budget.html)
 	- SSD: 256GB + HD: 3TB
+
+
+## Caffee
+
+- [Caffe 深度学习框架上手教程](http://suanfazu.com/t/caffe-shen-du-xue-xi-kuang-jia-shang-shou-jiao-cheng/281)
 
 ## Prior reading
 
