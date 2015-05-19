@@ -80,7 +80,7 @@ Crawler
 	cd pin_spider/
 	virtualenv venv
 	. venv/bin/activate   
-	scrapy genspider pinterest http://www.pinterest.com/
+	scrapy genspider ** **
 	```
 - [PyCharm configuration](http://www.cnblogs.com/lgphp/p/3841098.html)
 

@@ -1,6 +1,20 @@
 python
 ===========
 
+## Python virtual environment
+
+- python virtual environment
+	```
+	mkdir myproject
+	cd myproject
+	virtualenv venv
+	. venv/bin/activate   
+	deactivate
+	```
+- common library dependancy : http://gestaltrevision.be/pdfs/workshops/python_summer_school_Mac.pdf
+
+- `pip install -U numpy scipy scikit-learn` [scikit-learn](http://scikit-learn.org/stable/install.html)
+
 
 ## Coding style
 - [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)

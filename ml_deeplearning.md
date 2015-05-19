@@ -1,7 +1,7 @@
 Deep learning
 ===================
 
-
+- https://beta.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm
 
 ## Deep learning Hardware
 
@@ -15,11 +15,19 @@ Deep learning
 	- Power: [Existing power supply is not good enough](http://www.tomshardware.com/answers/id-1744460/dell-xps-8500-gpu-250-budget.html)
 	- SSD: 256GB + HD: 3TB
 
+- Possible solutions
+- Get one more SSD and a new graphic card.
+- New power supply, new mother board and possibly new fan.
 
 ## Caffee
 
 - [Caffe 深度学习框架上手教程](http://suanfazu.com/t/caffe-shen-du-xue-xi-kuang-jia-shang-shou-jiao-cheng/281)
+- [ATLAS + NumPy + SciPy + Theano 的python科学计算环境搭建 ](http://blog.sina.com.cn/s/blog_6cb8e53d0101keak.html)
+- Download atlas: 
+	`wget http://downloads.sourceforge.net/project/math-atlas/Stable/3.10.2/atlas3.10.2.tar.bz2`
 
+- [Ubuntu+CUDA6.5+Caffe安装配置汇总](http://blog.sciencenet.cn/blog-1583812-841855.html)
+- [Centos,caffe 及 caffe cudnn 的编译安装及测试](http://www.rthpc.com/plus/view.php?aid=351)
 ## Prior reading
 
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)

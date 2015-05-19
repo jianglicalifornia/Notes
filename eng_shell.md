@@ -1,6 +1,13 @@
 Shell commands
 ===========
 
+## Brew shells
+
+- list the brew packages: `brew list`
+- [reinstall a package with homebrew](http://superuser.com/questions/324980/how-do-you-re-install-a-package-with-homebrew-mac)
+- Check all available options for ffmpeg with: `brew options ffmpeg`
+- Check if your Homebrew installation is up to date and working with `brew doctor`
+
 ## Common Aws shells
 
 - check available disk space on aws: `df -h`
@@ -39,6 +46,14 @@ bg //running in background
 fg //running in foreground
 ps //print running process
 ```
+
+```
+ctrl + z //stop
+bg //running in background
+disown -h [job-spec] where [job-spec] is the job number (like %1 for the first running job; find about your number with the jobs command) so that the job isn't killed when the terminal closes.
+ps //print running process
+```
+
 
 ```
 history | tail
