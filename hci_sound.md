@@ -22,6 +22,7 @@ Sound
 - [audio segmentation](https://gforge.inria.fr/projects/audioseg): AudioSeg is a toolkit dedicated to audio segmentation and
 classification of audio streams
 - [aubio](http://aubio.org/): aubio is a tool designed for the extraction of annotations from audio signals.
+- [The SoX of Silence](http://digitalcardboard.com/blog/2009/08/25/the-sox-of-silence/)
 
 ## Demo
 - [python implementation](https://github.com/Katee/quietnet)

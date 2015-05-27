@@ -3,6 +3,13 @@ Vision
 
 ##FFmpeg
 
+- convert videos to images and convert back:
+```
+ffmpeg -r 23.98 -start_number 1 -f image2 -i "img_series_%06d.png" -vcodec mpeg4  ../back_video.avi
+ffmpeg -i video.avi "img_series_%06d.png"
+```
+
+
 - separate the audio and video
 	<pre>
 		1. Extract video stream
@@ -19,7 +26,8 @@ Vision
 		audio stream:
 		ffmpeg -i output.h264 -i output.aac new.flv
 
-	</pre>
+	</pre>	
+－ [split video into specific length](http://superuser.com/questions/525210/splitting-an-audio-file-into-chunks-of-a-specified-length)
 	
 - [FFMPEG extract intra-frames I,P,B frames](http://superuser.com/questions/604858/ffmpeg-extract-intra-frames-i-p-b-frames)
 	- export the image of the change in motion
@@ -44,7 +52,7 @@ Vision
 - [Create a video slideshow from images](https://trac.ffmpeg.org/wiki/Create%20a%20video%20slideshow%20from%20images)
 
 - install ffmpeg through brew:
-	- `brew install ffmpeg --with-fdk-aac --with-ffplay --with-freetype --with-frei0r --with-libass --with-libvo-aacenc --with-libvorbis --with-libvpx --with-opencore-amr --with-openjpeg --with-opus --with-rtmpdump --with-schroedinger --with-speex --with-theora --with-tools --with-openssl`
+	- `brew install ffmpeg --with-fdk-aac --with-ffplay --with-freetype --with-frei0r --with-libass --with-libvo-aacenc --with-libvorbis --with-libvpx --with-opencore-amr --with-openjpeg --with-opus --with-rtmpdump --with-schroedinger --with-speex --with-theora --with-tools --with-openssl  --with-libx264 `
 
 - default frame rate
 	```
@@ -58,72 +66,12 @@ Vision
 - ffmpeg -framerate 6 -i nfl_commercials_%*.jpg  -c:v libx264 -r 30 -pix_fmt yuv420p out.mp4
 
 
-- download video:
+- download video from a common url:
 	<pre>
 		ffmpeg -i "https://ci-49b6510e88-42e4a238.http.atlas.cdn.yimg.com/sincitysaints/4/6/dbc16b22-d5f4-4bc6-9ab8-447484a5e2a3_QuQjX_8hXJJ62g-FESrr3tAvEjPvqX3d_gz4XmJ09dt1IfaoUQgDa_62LV2ztADQUG9OfSpb7do-_3_0.m3u8?a=sincitysaints&b=4950&ib=sapi&m=application%2fvnd.apple.mpegurl&mr=0&ns=ps&ps=31ncrahal4ltq&x=1432064571&s=3160060f9c94a8d0de8b3263d915bca5"  -c copy "myvideo.ts"
 	</pre>
 
-- Code that write text on images
-
-
-<pre><code>
-	import os
-	from PIL import Image
-	from PIL import ImageFont
-	from PIL import ImageDraw 
-
-	def list_files(path):
-	    # returns a list of names (with extension, without full path) of all files 
-	    # in folder path
-	    files = []
-	    for name in os.listdir(path):
-	        if os.path.isfile(os.path.join(path, name)):
-	            files.append(name)
-	    return files
-	
-	tagmap = {}
-	# load labeled data
-	f = open('../nfl_commercials/jia_result')
-	for line in f:
-		array = line.split("\t")
-		tagContentStr = array[2].strip()[1:-1]
-		tagContent = tagContentStr.split(",")
-		tags = {};
-		for singletagstr in tagContent:
-			tag_score = singletagstr.strip()[1:]
-			if len(tag_score.split(":")) != 2:
-				# print singletagstr, tag_score, len(tag_score.split(":"))
-				continue
-			tag   = tag_score.split(":")[0]
-			score = tag_score.split(":")[1].strip()[:6]
-			# print tag, score
-			tags[tag] = score
-		tagmap[ array[0] ] = tags
-		# print array[0]
-		# print array[0], tagContent[0].strip()[1:], tagContent[1].strip()[1:], tagContent[2].strip()[1:]
-	f.close()
-
-	# images = list_files("../nfl_commercials")
-	# for singleimage in images:
-	# 	if singleimage.endswith(".jpg"):
-	# 		print singleimage
-	for key, tagSet in tagmap.items():
-		img = Image.open("../nfl_commercials/" + key)
-		draw = ImageDraw.Draw(img)
-		font = ImageFont.truetype("Roboto-Regular.ttf", 20)
-		yheight = 10
-		counter = 0;
-		# print tagSet, type(tagSet)
-		for tag, score in tagSet.items():
-			width, height = font.getsize(tag)
-			draw.text((10, yheight), tag + ' : ' + score, (255,0,0),font=font)
-			yheight += height * 1.1
-			if counter > 3:
-				break
-			counter += 1
-		img.save('output/' + key)
-		print key, tagSet
-</code></pre>
+- [Write text on images](https://gist.github.com/haojian/4f5183db8739de5eadf0)
 
 ## OpenCV
 
