@@ -8,7 +8,11 @@ Vision
 ffmpeg -r 23.98 -start_number 1 -f image2 -i "img_series_%06d.png" -vcodec mpeg4  ../back_video.avi
 ffmpeg -i video.avi "img_series_%06d.png"
 ```
-
+- convert video for web
+```
+ffmpeg -i $uploaded_file -ss 00:00:01.000 -vframes 1 output.png #generate thumbnail
+ffmpeg2theora -o video_out_file.ogv video_out_file.mp4			#Firefox compatible Ogg video
+```
 
 - separate the audio and video
 	<pre>
@@ -28,7 +32,7 @@ ffmpeg -i video.avi "img_series_%06d.png"
 
 	</pre>	
 － [split video into specific length](http://superuser.com/questions/525210/splitting-an-audio-file-into-chunks-of-a-specified-length)
-	
+- [Debugging Macroblocks and Motion Vectors](https://trac.ffmpeg.org/wiki/Debug/MacroblocksAndMotionVectors)
 - [FFMPEG extract intra-frames I,P,B frames](http://superuser.com/questions/604858/ffmpeg-extract-intra-frames-i-p-b-frames)
 	- export the image of the change in motion
 	- [Understanding H.264 Encoding Parameters - I, P and B-frames](http://www.streaminglearningcenter.com/articles/producing-h264-video-for-flash-an-overview.html?page=4)

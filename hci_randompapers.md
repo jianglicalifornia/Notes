@@ -18,6 +18,9 @@ HCI_Papers
 
 ## Done list
 
+- [Real-Time Screen-Camera Communication Behind Any Scene](http://www.cs.dartmouth.edu/~xia/papers/mobisys15-hilight.pdf)
+	- neat idea. hide information behind the image through alpha channel.
+
 - [AnnoTone: Record-time Audio Watermarking for Context-aware Video Editing](http://www.slideshare.net/quolc/annotone-chi2015)
 
 - [ReGroup: Interactive Machine Learning
