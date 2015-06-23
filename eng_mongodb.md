@@ -25,14 +25,36 @@ mongodb
 2. where to log: `logpath=/var/log/mongodb/mongod.log`
 3. [Mongodb cluster configuration](http://www.cnblogs.com/huangxincheng/archive/2012/03/04/2379755.html)
 4. [MongoDB configuration](https://ruby-china.org/topics/454)
+5. Re-init mondogb replicate set. 
+    - [更换复制集节点](http://docs.mongoing.com/manual-zh/tutorial/replace-replica-set-member.html)
+    - [移除复制集的节点](http://docs.mongoing.com/manual-zh/tutorial/remove-replica-set-member.html)
+    - [Change Hostnames in a Replica Set](http://docs.mongodb.org/manual/tutorial/change-hostnames-in-a-replica-set/)
+
+6. Default configuration file: 
+    - `/etc/mongod.conf`
 
 ## MongoDB data query
 
-```
-show dbs
-use one_db
-db
-db.collection
-db.collection.count()
-db.collection.find()
-```
+- enter "mongo" to enter interactive terminal.
+
+    ```
+    rs.slaveOk()
+    show dbs
+    use one_db
+    db
+    db.collection
+    db.collection.count()
+    db.collection.find()
+    ```
+
+- data check and backup. [chinese guidance](http://www.jb51.net/article/40285.htm)
+
+- check replicate set configurations. 
+    - rs.status()
+   
+   
+- Backup data.
+    - [import and export](http://docs.mongodb.org/manual/core/import-export/)
+    - export data:
+        - f
+    - import data:

@@ -18,6 +18,9 @@ HCI_Papers
 
 ## Done list
 
+- [SpeechJammer: A System Utilizing Artificial Speech Disturbance with Delayed Auditory Feedback](http://arxiv.org/abs/1202.6106)
+    - Counter sound wave
+
 - [Real-Time Screen-Camera Communication Behind Any Scene](http://www.cs.dartmouth.edu/~xia/papers/mobisys15-hilight.pdf)
 	- neat idea. hide information behind the image through alpha channel.
 
