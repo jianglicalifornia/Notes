@@ -23,8 +23,9 @@ mongodb
 
 1. dbpath:     `dbpath=/var/lib/mongodb`
 2. where to log: `logpath=/var/log/mongodb/mongod.log`
-3. [Mongodb cluster configuration](http://www.cnblogs.com/huangxincheng/archive/2012/03/04/2379755.html)
-4. [MongoDB configuration](https://ruby-china.org/topics/454)
+3. Install mongodb on aws:
+    - need to configure the dbpath to EBS
+4. Install mongodb locally: [MongoDB configuration](https://ruby-china.org/topics/454)
 5. Re-init mondogb replicate set. 
     - [更换复制集节点](http://docs.mongoing.com/manual-zh/tutorial/replace-replica-set-member.html)
     - [移除复制集的节点](http://docs.mongoing.com/manual-zh/tutorial/remove-replica-set-member.html)
@@ -54,7 +55,22 @@ mongodb
    
    
 - Backup data.
-    - [import and export](http://docs.mongodb.org/manual/core/import-export/)
-    - export data:
-        - f
-    - import data:
+    - [import and export](http://docs.mongodb.org/manual/core/import-export/) one handy way is do it through json. (it's actually bson rather than json)
+    - use the bson package inside pymongo. pip install pymongo
+    
+
+- create text search index
+    - > db.ttlsa_com.ensureIndex({"song":"text", "lyrics":"text"})
+    - > db.ttlsa_com.ensureIndex({"$**": "text"})   
+        - $**表示在所有的字符串字段上创建一个全文索引。
+    - > db.ttlsa_com.ensureIndex({"song":"text"},{"weights":{"song": 2, "$**": 3}}) 也可以指定权重
+
+- text search
+    - db.command('text', 'collection', search='lamps')
+
+
+## Pymongo interface
+
+- https://pypi.python.org/pypi/pymongo/
+- [full text search](https://www.youtube.com/watch?v=Wk6sucAgC8k)
+- db.command('text', 'pin_details', search='lamps')

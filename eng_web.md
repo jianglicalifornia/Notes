@@ -13,21 +13,12 @@ Web
 - [Nice note regarding config](http://note.rpsh.net/posts/2013/11/27/osx-10-9-apache-server-php-mysql)
 
 
-##Django
-- debug test: `python manage.py runserver 0.0.0.0:8000`
-- Start a server at backend: 
-	- start command: `nohup python manage.py runserver 0.0.0.0:8000`
-	- stop command: check the process id of python related to to django and kill it
-
-	```ps -ef|grep python
-	kill -9 Process_id_no.```
 
 
 ##PHP
 -[Write Post data to file with PHP](http://stackoverflow.com/questions/4742898/write-post-data-to-file-with-php)
 
 
-**Django**
 
 
 

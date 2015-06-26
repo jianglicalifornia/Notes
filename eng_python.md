@@ -20,7 +20,16 @@ python
 - [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 - [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
+
 ## Django
+- [Install Django](https://docs.djangoproject.com/en/1.8/topics/install/#install-python)
+- debug test: `python manage.py runserver 0.0.0.0:8000`
+- Start a server at backend: 
+	- start command: `nohup python manage.py runserver 0.0.0.0:8000`
+	- stop command: check the process id of python related to to django and kill it
+
+	```ps -ef|grep python
+	kill -9 Process_id_no.```
 
 ##Coding tricks
 

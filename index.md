@@ -51,6 +51,7 @@ Engineering
 - [MongoDB](eng_mongodb.md)
 - [OpenSource](eng_opensource.md)
 - [Python](eng_python.md)
+- [Redis](eng_redis.md)
 - [Shell](eng_shell.md)
 - [Web](eng_web.md)
 
