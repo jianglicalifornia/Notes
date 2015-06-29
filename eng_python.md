@@ -22,7 +22,7 @@ python
 
 
 ## Django
-- [Install Django](https://docs.djangoproject.com/en/1.8/topics/install/#install-python)
+- [Install Django]()
 - debug test: `python manage.py runserver 0.0.0.0:8000`
 - Start a server at backend: 
 	- start command: `nohup python manage.py runserver 0.0.0.0:8000`

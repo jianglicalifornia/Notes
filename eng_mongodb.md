@@ -71,6 +71,6 @@ mongodb
 
 ## Pymongo interface
 
-- https://pypi.python.org/pypi/pymongo/
+- [example](https://pypi.python.org/pypi/pymongo/)
 - [full text search](https://www.youtube.com/watch?v=Wk6sucAgC8k)
 - db.command('text', 'pin_details', search='lamps')
