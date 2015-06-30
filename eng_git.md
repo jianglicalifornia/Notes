@@ -104,3 +104,16 @@ Commit your changes (git commit -am 'Added some feature')
 Push to the branch (git push origin my-new-feature)
 Create new Pull Request
 ```
+
+**fork and pull**
+
+```
+假设你fork的项目原始地址是http://github.com/abc/rep.git, 你自己的是http://github.com/you/rep.git 
+
+$ git add remote upstream http://github.com/abc/rep.git # 你本地的origin应该跟了自己的remote，前且假设当前本地branch是master。 
+$ git fetch upstream 
+$ git merge upstream/master # merge可能会有冲突，手工解决掉并commit 
+$ git push origin/master # push到你自己的fork上 
+
+然后向原始项目提交一个pull request。
+```
