@@ -18,6 +18,12 @@ HCI_Papers
 
 ## Done list
 
+- [Human Sensing Using Visible Light Communication](http://www.cs.dartmouth.edu/~xia/)
+	- Using the ambient light as the sensor
+
+- [Real-Time Screen-Camera Communication Behind Any Scene](http://dartnets.cs.dartmouth.edu/hilight)
+	- Hide information inside the picture through alpha chanel.
+
 - [SpeechJammer: A System Utilizing Artificial Speech Disturbance with Delayed Auditory Feedback](http://arxiv.org/abs/1202.6106)
     - Counter sound wave
 
@@ -86,11 +92,12 @@ for On-Demand Group Creation in Social Networks](http://www.cs.washington.edu/ai
 	
 	
 	
-	
-	
 Demos (not research side)
 =============
 - [Magnetic Marionette: Magnetically Driven Elastic Controller on Mobile Device](https://www.youtube.com/watch?v=J9GtgyzoZmM)
 - [MIT Invention Could Replace Air Conditioning](http://www.youtube.com/watch?v=kvUMCip-r4A)
 - [How Giant Mirrors Brought Sunlight Back to Rjukan, Norway](http://www.youtube.com/watch?v=xdvA8X9PJuo)
 - [Disney's 'Frozen' Could Have Been Very Different](http://www.youtube.com/watch?v=DnpMchietKg&list=TLNHG0KX4RwZ9nHKgqjWYX_--BOCt0eD17)
+
+
+
