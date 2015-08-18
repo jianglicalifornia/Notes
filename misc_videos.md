@@ -10,3 +10,4 @@ Video Collection
 =====
 ##LEARNING
 - [LEARNING](http://www.xsteach.com/)
+- [Drawing ideas from Mark Baskinger, CMU recommended by Cheng Xu](https://vimeo.com/7339214)
