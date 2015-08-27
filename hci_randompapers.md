@@ -15,8 +15,16 @@ HCI_Papers
 - [What Caused that Touch? Expressive Interaction with a Surface through Fiduciary-Tagged Gloves](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6881C18F471335384DB38674E6E0C280?doi=10.1.1.174.8368&rep=rep1&type=pdf)
 - [Real Time Object Scanning Using a Mobile Phone and Cloud-based Visual Search Engine](http://www.cs.cmu.edu/~jbigham/pubs/pdfs/2013/objectscanning.pdf)
 - [Industrial Light & Magic](http://www.ilm.com/)
+- [Word to vector](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
 ## Done list
+
+- [VISTouch](https://vimeo.com/108695964)
+	- Neat! Infer the relative view port through the gyro and touch screnn.
+
+- [RichReview: blending ink, speech, and gesture to support collaborative document review
+](http://dl.acm.org/citation.cfm?id=2647390)
+	- Neat way to differentiate left hand and right hand.
 
 - [Human Sensing Using Visible Light Communication](http://www.cs.dartmouth.edu/~xia/)
 	- Using the ambient light as the sensor
