@@ -1,6 +1,11 @@
 Shell commands
 ===========
 
+## text processing shell
+
+- `echo -e 'hello\nworld' | sed ':a;N;$!ba;s/\n/\\n/g'`
+
+
 ## Brew shells
 
 - list the brew packages: `brew list`
