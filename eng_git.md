@@ -4,6 +4,10 @@ Git commands
 
 @[git | dev]
 
+
+**merge conflicts**
+- [merge conflicts](https://rtcamp.com/tutorials/git/git-resolve-merge-conflicts/)
+
 **version control**
 - discard unstaged changes in git: ` git stash save --keep-index` 
 - discard local commit: `git reset --hard origin/master`

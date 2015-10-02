@@ -1,6 +1,10 @@
 InfoVis 
 ==============
 
+
+## Probabilistic
+- [Years You Have Left to Live, Probably](http://flowingdata.com/2015/09/23/years-you-have-left-to-live-probably/)
+
 ## For signal processing
 - [Reference](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/More_Fourier_Transform.ipynb)
 - [How to plot the frequency spectrum with scipy](http://glowingpython.blogspot.com/2011/08/how-to-plot-frequency-spectrum-with.html)
