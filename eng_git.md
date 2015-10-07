@@ -6,7 +6,29 @@ Git commands
 
 
 **merge conflicts**
-- [merge conflicts](https://rtcamp.com/tutorials/git/git-resolve-merge-conflicts/)
+- [merge conflicts](https://rtcamp.com/tutorials/git/git-resolve-merge-conflicts/) : theirs and ours
+- [undo a "git push"](http://stackoverflow.com/questions/1270514/undoing-a-git-push) 
+	``` git reset version_code
+		git push -f origin 
+	 ```
+	 
+- [use rebase to squeash commits](http://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit)  Recommended!!
+	- in case there is a conflict. [git merge](https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/)
+- [squeash commits](http://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git?rq=1)
+	- this one works most time, but has an issue about losing some file trackings. The history would be dirtier than the rebase one.
+	```
+	# Reset the current branch to the commit just before the last 12:
+	git reset --hard HEAD~12
+
+	# HEAD@{1} is where the branch was just before the previous command.
+	# This command sets the state of the index to be as it would just
+	# after a merge from that commit:
+	git merge --squash HEAD@{1}
+
+	# Commit those squashed changes.  The commit message will be helpfully
+	# prepopulated with the commit messages of all the squashed commits:
+	git commit
+	```
 
 **version control**
 - discard unstaged changes in git: ` git stash save --keep-index` 
