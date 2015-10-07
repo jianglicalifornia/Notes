@@ -6,10 +6,26 @@ Git commands
 
 
 **merge conflicts**
+
+- [squash the commits in one pull request](http://blog.steveklabnik.com/posts/2012-11-08-how-to-squash-commits-in-a-github-pull-request)
+	```
+    550  git remote add upstream git@XXXXXXXXXXXXX.git
+    551  git fetch upstream
+    552  git branch
+    553  git rebase -i upstream/master
+    554  git status
+    555  git add filepath
+    556  git rebase --continue
+    557  git status
+    558  git add  filepath
+    559  git rebase --continue
+	```
+:%s/pick/squash/gc
 - [merge conflicts](https://rtcamp.com/tutorials/git/git-resolve-merge-conflicts/) : theirs and ours
 - [undo a "git push"](http://stackoverflow.com/questions/1270514/undoing-a-git-push) 
-	``` git reset version_code
-		git push -f origin 
+	 ``` 
+	 git reset version_code
+	 git push -f origin 
 	 ```
 	 
 - [use rebase to squeash commits](http://makandracards.com/makandra/527-squash-several-git-commits-into-a-single-commit)  Recommended!!
