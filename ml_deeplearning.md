@@ -1,6 +1,13 @@
 Deep learning
 ===================
 
+
+##Word2Vec
+
+- [Deeplearning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
+
+
+
 - https://beta.oreilly.com/learning/an-illustrated-introduction-to-the-t-sne-algorithm
 
 ## Deep learning Hardware
