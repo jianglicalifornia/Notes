@@ -16,6 +16,7 @@ I collected some interesting websites here.
 - [vgod's blog](http://blog.vgod.tw/)
 - [mmdays](http://mmdays.com/)
 - [暖乎乎](http://www.nuanhuhu.net/)
+- [Google Protyping engineer](http://smus.com/blog/)
 
 ##Research
 
