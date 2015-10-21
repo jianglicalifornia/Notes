@@ -159,3 +159,7 @@ $ git push origin/master # push到你自己的fork上
 
 然后向原始项目提交一个pull request。
 ```
+
+
+**upload local key to the server**
+`scp ~/.ssh/id_rsa xxxxx.corp.gq1.yahoo.com:~/.ssh/id_rsa`

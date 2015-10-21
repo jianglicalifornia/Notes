@@ -6,8 +6,5 @@ Video Collection
 - [TESLA - "Modern Spaceship" Commercial](https://www.youtube.com/watch?v=KKbRAazkiWc)
 - [telling your students to make a homepage](https://youtu.be/mHLMsZ20LI8)
 
-
-=====
-##LEARNING
 - [LEARNING](http://www.xsteach.com/)
-- [Drawing ideas from Mark Baskinger, CMU recommended by Cheng Xu](https://vimeo.com/7339214)
+- [Drawing ideas from Mark Baskinger, CMU recommended by Cheng Xu](https://vimeo.com/7339214) drawing idea for non-design people.
