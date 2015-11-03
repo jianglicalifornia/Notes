@@ -1,6 +1,11 @@
 Links worth my time
 =================
 
+##Nice visualization
+
+- [research resume visualization](http://www.inputdesignoutput.com/gonzalo/documents/gonzalo.ramos.pdf)
+
+
 ## Something I am working on currently:
 - [兵书十二卷](http://book.douban.com/subject/1290449/)
 - [万物生长](http://book.douban.com/subject/3018339/)
@@ -10,6 +15,7 @@ I collected some interesting websites here.
 
 ##Blogs
 
+- [Kuan Luo. designer at etsy](http://www.kuanluo.com/)
 - [Google Research Project](http://googleresearch.blogspot.com/)
 - [Karen X. CHENG 's blog](http://www.karenx.com/)
 - [王思琴](http://www.sisiwalkingaway.com/SisiWalkingAwayChinese/CNHomePage/CN_HomePage.htm)

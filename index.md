@@ -52,6 +52,7 @@ Engineering
 - [OpenSource](eng_opensource.md)
 - [Python](eng_python.md)
 - [Redis](eng_redis.md)
+- [Security](eng_security.md)
 - [Shell](eng_shell.md)
 - [Web](eng_web.md)
 
