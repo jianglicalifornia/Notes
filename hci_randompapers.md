@@ -6,6 +6,7 @@ HCI_Papers
 
 
 ##To do list
+- [Ways of Knowing in HCI](http://www.amazon.com/Ways-Knowing-HCI-Judith-Olson/dp/1493903772)
 - [Local Label Descriptor for Example based Semantic Image Labeling
 ](http://pages.cs.wisc.edu/~lizhang/projects/labeldesc/)
 - [Ensemble of Examplar-SVMs for Object Detection and Beyond](http://www.cs.cmu.edu/~tmalisie/projects/iccv11/)
