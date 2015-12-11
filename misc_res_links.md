@@ -10,3 +10,7 @@ Links
 - [find your color](http://colourco.de/)
 - [nice website - cs professor](http://www.cs.arizona.edu/~collberg/#home)
 - [Visualization: careers of the founders](https://fleximize.com/careers-of-the-founders)
+
+
+- [Teleport: Get your friends delivered](https://itunes.apple.com/app/apple-store/id1010768272)
+- [Printing posters on fabric](https://postersmith.com/poster)
