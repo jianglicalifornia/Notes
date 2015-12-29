@@ -23,6 +23,10 @@ HCI_Papers
 
 ## Done list
 
+
+- [Robert Lang: The math and magic of origami](https://www.youtube.com/watch?v=NYKcOFQCeno)
+	- looking forward for my projects in origami
+
 - [AfterMath: Seeing the Future through Augmented Reality](https://vimeo.com/118561938)
 	- MIT media lab
 

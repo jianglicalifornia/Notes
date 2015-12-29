@@ -8,3 +8,6 @@ Links
 - [Design pattern examples](http://codepen.io/patterns/)
 - [find your color](http://colourco.de/)
 - [nice website - cs professor](http://www.cs.arizona.edu/~collberg/#home)
+
+
+- [Hiring Part from the professor's perspective](http://sciencelablife.com/hiring-part-iii-the-candidates-visit-job-talk-and-interview/)
