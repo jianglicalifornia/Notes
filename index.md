@@ -55,6 +55,7 @@ Engineering
 - [Security](eng_security.md)
 - [Shell](eng_shell.md)
 - [Web](eng_web.md)
+- [Video editing](eng_videoediting.md)
 
 Misc
 ------
