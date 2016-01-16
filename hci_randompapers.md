@@ -23,6 +23,9 @@ HCI_Papers
 
 ## Done list
 
+- [Spin-It: Optimizing Moment of Inertia for Spinnable Objects](https://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH14_paper1.pdf)
+	- bravo work.
+
 - [AfterMath: Seeing the Future through Augmented Reality](https://vimeo.com/118561938)
 	- MIT media lab
 

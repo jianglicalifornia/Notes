@@ -23,6 +23,7 @@ I collected some interesting websites here.
 - [mmdays](http://mmdays.com/)
 - [暖乎乎](http://www.nuanhuhu.net/)
 - [Google Protyping engineer](http://smus.com/blog/)
+- [Li-Yi Wei's blog - graphic research](http://blog.liyiwei.org/)
 
 ##Research
 
