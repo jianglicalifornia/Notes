@@ -40,6 +40,7 @@ I collected some interesting websites here.
 - [Microsoft researcher Bill Buxton and Perceptive Pixel founder Jeff Han discuss the death and resurrection of 3D](http://blogs.technet.com/b/firehose/archive/2014/02/26/microsoft-researcher-bill-buxton-and-perceptive-pixel-founder-jeff-han-discuss-the-death-and-resurrection-of-3d.aspx)
 - [Why Pursue A Ph.D.? Three Practical Reasons (12-minute video)](http://vimeo.com/80236275)
 - [Man's physical transformation](http://v.youku.com/v_show/id_XNjMyNDA1ODI4.html)
+- [make a doraemon animation with 3 bottles](http://video.weibo.com/show?fid=1034:478439a9b6a5620679f158498e11a33f)
 
 ##Cute Gifs
 - [Light physics](http://ww2.sinaimg.cn/bmiddle/64c91882gw1efpo7xgp6qg207y078e83.gif)
