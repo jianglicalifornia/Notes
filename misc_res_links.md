@@ -1,6 +1,9 @@
 Links 
 ==============
 
+
+- [SEMINAR ON SEMINARS](http://www.scs.illinois.edu/suslick/seminars.html)
+
 - [music for video](http://freemusicarchive.org)
 - [soundcloud](https://soundcloud.com)
 - [Search the best free stock photo websites in one place](http://www.sitebuilderreport.com/stock-up)
