@@ -1,6 +1,18 @@
 GDB commands
 ===========
 
+## remote debugging for code coverage
+
+- mount the remote directory to a local directory: 
+	- `sshfs username@domain:remote_directory local_directory`
+	- enter that directory through "go to folder"
+	- recommend to install sshfs through `brew install`
+	- `umount local_directory` after usage.
+	
+## Java code coverage
+
+- clover
+
 
 ## multithread debugging:
 
