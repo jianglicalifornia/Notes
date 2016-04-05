@@ -16,4 +16,6 @@ Links
 - [Hiring Part from the professor's perspective](http://sciencelablife.com/hiring-part-iii-the-candidates-visit-job-talk-and-interview/)
 
 
-###Academia
+###Life
+
+- [GoogleEmailCopy](http://www.goodemailcopy.com/)
