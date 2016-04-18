@@ -23,6 +23,8 @@ HCI_Papers
 
 ## Done list
 
+- [Spin-It: Optimizing Moment of Inertia for Spinnable Objects](https://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH14_paper1.pdf)
+	- bravo work.
 
 - [Robert Lang: The math and magic of origami](https://www.youtube.com/watch?v=NYKcOFQCeno)
 	- looking forward for my projects in origami

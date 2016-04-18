@@ -22,6 +22,7 @@ HCI
 - [Kalman Filter](hci_kalmanfilter.md)
 - [Math](hci_math.md)
 - [Matlab](hci_matlab.md)
+- [Latex](hci_latex.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
