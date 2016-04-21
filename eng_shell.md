@@ -1,6 +1,11 @@
 Shell commands
 ===========
 
+
+## Remote debugging
+- Mounting a remote folder on OS X over SSH:
+	`sshfs username@hostname:/remote/directory/path /local/mount/point`
+
 ## text processing shell
 
 - `echo -e 'hello\nworld' | sed ':a;N;$!ba;s/\n/\\n/g'`
