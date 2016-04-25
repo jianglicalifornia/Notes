@@ -15,6 +15,7 @@ python
 
 - `pip install -U numpy scipy scikit-learn` [scikit-learn](http://scikit-learn.org/stable/install.html)
 
+- `pip install -U -r requirements.txt `
 
 ## Coding style
 - [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)

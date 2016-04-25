@@ -1,7 +1,14 @@
 AWS
 ============================
 
+## New AWS init
+- add public ssh key to remote server
+	`cat ~/.ssh/id_rsa.pub | ssh user@hostname 'cat >> .ssh/authorized_keys'`
+- copy all the ssh keys to remote server
+	`scp -i XXXXXX.pem -r  ~/.ssh/  user@hostname:~/` (brute force method seems the best and simplest method)
+
 ## Common commands
+
 - check available disk space on aws: `df -h`
 - check current directory available disk space: `df -k .`
 - make an application start since boot
