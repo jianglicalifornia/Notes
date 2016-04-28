@@ -23,6 +23,8 @@ HCI_Papers
 
 ## Done list
 
+- [How We Type: Movement Strategies and Performance in Everyday Typing](http://userinterfaces.aalto.fi/how-we-type/)
+
 - [Spin-It: Optimizing Moment of Inertia for Spinnable Objects](https://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH14_paper1.pdf)
 	- bravo work.
 

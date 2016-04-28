@@ -4,7 +4,6 @@ Git commands
 
 @[git | dev]
 
-
 **merge conflicts**
 
 - [squash the commits in one pull request](http://blog.steveklabnik.com/posts/2012-11-08-how-to-squash-commits-in-a-github-pull-request)
@@ -163,3 +162,8 @@ $ git push origin/master # push到你自己的fork上
 
 **upload local key to the server**
 `scp ~/.ssh/id_rsa xxxxx.corp.gq1.yahoo.com:~/.ssh/id_rsa`
+
+
+**advanced tricks**
+
+- [How to fork a github repository in bitbucket](https://gist.github.com/jcaraballo/1982605)

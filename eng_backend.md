@@ -1,6 +1,46 @@
 backend
 ====================
 
+
+**Database**
+
+- [Trouble shotting PostgreSQL](http://stackoverflow.com/questions/29937378/django-db-utils-operationalerror-could-not-connect-to-server)
+	```
+	It can be some issues:
+
+	PostgreSQL is not running. Check it with sudo service postgresql status
+	Your PostgresSQl is not running on port 5432. You can check it typing sudo netstat -nl | grep postgres
+	You have something wrong trying to connect to your db like the username, the password or the databasename. Check that they are what postgres ask for you to connect it and that is the db_name that you want to access to.
+	Problems with postmaster.pid in postgres. It can happen because of a shutdown unproperly done. It makes to remind a pid alive that doesn't allow your server start. To fix it you have to:
+
+	 * rm /usr/local/var/postgres/postmaster.pid 
+	 * pg_resetxlog -f /usr/local/var/postgres
+	After this it should run properly if you make the runserver of postgres
+	Help in Mac OSX: how to start postgresql server on mac os x
+	```
+
+**PostgreSQL**
+
+- intallation on mac
+	```
+	For MAC:
+
+	Install Homebrew
+	brew install postgres
+	initdb /usr/local/var/postgres
+	/usr/local/Cellar/postgresql/<version>/bin/createuser -s postgres
+	To start server at startup
+
+	mkdir -p ~/Library/LaunchAgents
+	ln -sfv /usr/local/opt/postgresql/*.plist ~/Library/LaunchAgents
+	launchctl load ~/Library/LaunchAgents/homebrew.mxcl.postgresql.plist
+	Now, it is set up, login using psql -U postgres -h localhost or use PgAdmin for GUI.
+
+	By default user postgres will not have any login password.
+
+	Check this site for more articles like this: https://sites.google.com/site/nitinpasumarthy/blog/installingpostgresonmac
+	```
+
 ** Multiple machine deployment **
 
 - [Pythonic remote execution](http://www.fabfile.org/)
