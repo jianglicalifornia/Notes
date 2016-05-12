@@ -7,6 +7,10 @@ AWS
 - copy all the ssh keys to remote server
 	`scp -i XXXXXX.pem -r  ~/.ssh/  user@hostname:~/` (brute force method seems the best and simplest method)
 
+## AWS toolkit
+
+- [S3 sync tool](http://s3tools.org/s3cmd-sync)
+
 ## Common commands
 
 - check available disk space on aws: `df -h`

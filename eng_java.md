@@ -20,9 +20,11 @@ create a maven android library project
 - [Project template](https://github.com/gkubisa/jni-maven)
 
 ####Code coverage
-- Maven, Surefire: `mvn surefire-report:report  `
-	the report is very simple
+- Maven, Surefire: `mvn surefire-report:report  `. Don't use that.
+	
 - Maven, Clover: `mvn clover2:instrument clover2:clover` [reference](https://confluence.atlassian.com/display/CLOVER/Clover-for-Maven+2+and+3+Quick+Start+Guide)
+
+- Use JMockit: [tutorial in chinese](http://blog.csdn.net/chjttony/article/details/17838693)
 
 
 ###Server hosting
