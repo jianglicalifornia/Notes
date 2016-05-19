@@ -10,6 +10,7 @@ AWS
 ## AWS toolkit
 
 - [S3 sync tool](http://s3tools.org/s3cmd-sync)
+	- download the library, configure the keys and pem file, use the command ```./s3cmd sync local  s3://bucketname``` to sync.
 
 ## Common commands
 
