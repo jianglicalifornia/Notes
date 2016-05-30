@@ -1,9 +1,17 @@
 video editing
 =================
 
+### FFMPEG
+
+- Get the first 100 seconds from a video: ```ffmpeg -i  /Users/haojian/projects/testvideo/S01E01.mkv  -t 100   S01E01_scaled.mp4```
+
 
 - [How Content-Aware Fill can help with Video](http://tv.adobe.com/watch/short-and-suite/how-contentaware-fill-can-help-with-video/)
 
+
+### Build animated gifs from video
+
+- [pymovie](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/)
 
 
 ### Performance in video decoding
@@ -30,4 +38,20 @@ Use the video in mkv or similar format will also reduce the fps. (say 30fps with
 - [Fastest way to extract frames using ffmpeg?](http://stackoverflow.com/questions/10957412/fastest-way-to-extract-frames-using-ffmpeg)
 	- ```
 	time for i in {0..39} ; do ffmpeg -accurate_seek -ss `echo $i*60.0 | bc` -i input.mp4   -frames:v 1 period_down_$i.bmp ; done
+	time for i in 1 5 6 7 9 90; do ffmpeg -accurate_seek -ss `echo $i*60.0 | bc` -i S01E01_scaled.mp4   -frames:v 1 period_down_$i.jpg ; done
+	
+	```
+	
+	
+### Extract video meta information
+
+- through opencv
+	```
+    videoCapture = cv2.VideoCapture(scaledvideo)
+    fps1 = videoCapture.get(cv2.cv.CV_CAP_PROP_FPS)
+    framecount2 = videoCapture.get(cv2.cv.CV_CAP_PROP_FRAME_COUNT)
+    print duration1 * fps1, framecount2, fps1
+
+    size = (int(videoCapture.get(cv2.cv.CV_CAP_PROP_FRAME_WIDTH)),
+            int(videoCapture.get(cv2.cv.CV_CAP_PROP_FRAME_HEIGHT)))
 	```

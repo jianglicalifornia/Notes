@@ -1,6 +1,17 @@
 AWS
 ============================
 
+
+## DOCKER
+
+- [Docker容器和主机如何互相拷贝传输文件](http://xiaorui.cc/2015/04/12/docker%E5%AE%B9%E5%99%A8%E5%92%8C%E4%B8%BB%E6%9C%BA%E5%A6%82%E4%BD%95%E4%BA%92%E7%9B%B8%E6%8B%B7%E8%B4%9D%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6/)
+
+- Cannot connect to the Docker daemon : `eval "$(docker-machine env default)"`
+## GHOST install guide
+- [如何在亚马逊EC2上安装Ghost？](https://www.wikimilk.org/installing-ghost-amazon-ec2/)
+- to start the ghost server in developer mode: 
+	```sudo GHOST_NODE_VERSION_CHECK=false  npm start --production```
+
 ## Configure VPN
 - [EC2 Ubuntu服务器上的PPTPD安装和配置](http://allenzhang.iteye.com/blog/1720214)
 - [with client configuration](http://sunweiwei.com/1863/)
