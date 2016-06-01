@@ -1,6 +1,14 @@
 python
 ===========
 
+## Python Setup.py
+
+```
+python setup.py build
+python setup.py install
+```
+
+
 ## Python virtual environment
 
 - python virtual environment
