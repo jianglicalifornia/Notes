@@ -1,6 +1,14 @@
 Shell commands
 ===========
 
+## Avoid password during the login
+
+```
+ssh-keygen -t dsa
+cd ~/.ssh
+cat id_dsa.pub | ssh ubuntu@ip 'cat - >> ~/.ssh/authorized_keys'
+```
+
 
 ## Remote debugging
 - Mounting a remote folder on OS X over SSH:

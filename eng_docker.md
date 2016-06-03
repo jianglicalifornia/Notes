@@ -20,11 +20,27 @@
 - failed: port is already allocated.
 	- `sudo service docker restart`
 	
+- Is the docker daemon running on this host
+	- `sudo usermod -aG docker ubuntu` for aws ubuntu.
 	
+- AWS run a python3 docker:
+	- benefits over the virtualenv: no worries about lxml libraries & python-dev.
+	- `docker run -i -t micktwomey/python3.4 ` [reference](https://github.com/micktwomey/docker-python3.4)
+	
+	
+- To delete all the docker containers: `docker rm $(docker ps -a -q)`
+- To delete all the images: `docker rmi $(docker images)`
 	
 - [cheat sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md)
 
 # Commands short cut
+
+### Frequent commands
+
+- `docker run -v /Users/haojian/:/data -t -i pyannote-video /bin/bash`
+- `docker run -v /Users/haojian/projects/:/data -t -i pyannote-video /bin/bash `
+- ` docker run -t  -v  /Users/haojian/projects/testvideo/:/data -i pyannote-video /bin/bash ` create a new container and start it with a bash and a mounted directory.
+
 ## Containers
 
 [Your basic isolated Docker process](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/).  Containers are to Virtual Machines as threads are to processes.  Or you can think of them as chroots on steroids.
