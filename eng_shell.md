@@ -1,6 +1,32 @@
 Shell commands
 ===========
 
+## Use screen for nohup session
+
+You want to be using GNU Screen. It is super awesome!
+
+```
+ssh me@myserver.com
+screen               #start a screen session
+run-a-long-process
+```
+
+CTRL+a , d to detatch from your screen session
+```
+exit                 #disconnect from the server, while run-a-long-process continues
+```
+
+When you come back to your laptop:
+
+```
+ssh me@myserver.com
+screen -ls  # list the running screen session
+screen -r            #resume the screen session
+```
+Then check out the progress of your long-running process!
+
+
+
 ## Avoid password during the login
 
 ```

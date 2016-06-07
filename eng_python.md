@@ -8,6 +8,7 @@ python setup.py build
 python setup.py install
 ```
 
+- [JSON Editor](http://cloudwall.me/etc/json-editor.html)
 
 ## Python virtual environment
 
@@ -29,6 +30,9 @@ python setup.py install
 - [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 - [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [Open Sourcing a Python Project the Right Way - project structure](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/)
+
+- [python project template](https://github.com/audreyr/cookiecutter)
+	- [A minimal template](https://github.com/wdm0006/cookiecutter-pipproject)
 
 ## Django
 - [Install Django]()

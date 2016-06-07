@@ -9,7 +9,7 @@
 		
 - install docker on aws ubuntu 
 	- [Docker install on EC2 Ubuntu 14.04](http://www.bogotobogo.com/DevOps/Docker/Docker_Install_On_EC2_Ubuntu.php)
-	- [Official guidance](https://docs.docker.com/linux/step_one/)
+	- [Official guidance](https://docs.docker.com/linux/step_one/) **works better**
 	
 	
 - To start Docker in Mac
@@ -21,7 +21,9 @@
 	- `sudo service docker restart`
 	
 - Is the docker daemon running on this host
-	- `sudo usermod -aG docker ubuntu` for aws ubuntu.
+	- `sudo usermod -aG docker ubuntu` for aws ubuntu. 
+	- It's mainly because of the user permission issue. need to check if "sudo" access works well. [Reference][https://docs.docker.com/v1.5/installation/ubuntulinux/]
+	
 	
 - AWS run a python3 docker:
 	- benefits over the virtualenv: no worries about lxml libraries & python-dev.
@@ -32,6 +34,18 @@
 - To delete all the images: `docker rmi $(docker images)`
 	
 - [cheat sheet](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md)
+
+- To keep the docker running at the background in the server 
+	- use screen before start a container and then start a container with an interactive bash.
+	
+- Enter a running docker container:
+	- 
+	```
+	$ sudo docker exec -i -t 665b4a1e17b6 /bin/bash #by ID
+	or
+	$ sudo docker exec -i -t loving_heisenberg /bin/bash #by Name
+	$ root@665b4a1e17b6:/#
+	```
 
 # Commands short cut
 

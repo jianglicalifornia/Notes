@@ -8,6 +8,11 @@ video editing
 
 - [How Content-Aware Fill can help with Video](http://tv.adobe.com/watch/short-and-suite/how-contentaware-fill-can-help-with-video/)
 
+- FFMPEG additional libraries in Ubuntu: 
+	- 
+	```
+	sudo sudo apt-get install -y     libavformat-dev libavcodec-dev libavdevice-dev     libavutil-dev libswscale-dev libavresample-dev
+	```
 
 ### Build animated gifs from video
 
