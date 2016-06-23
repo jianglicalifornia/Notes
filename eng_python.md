@@ -1,6 +1,35 @@
 python
 ===========
 
+## python project design
+- [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/)
+- Reference to a sibiling directory: 
+	- method 1: relative import through the relative path. this method doesn't work if you run the file separately rather than as a package.
+	- method 2 (recommended): the IDE doesn't support well for the intelligent typing. 
+			```
+			import os
+			parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+			os.sys.path.insert(0,parentdir)
+			```
+
+
+## default parameter with list
+
+
+```
+def generate_new_list_with(my_list=None, element=None):
+    if my_list is None:
+        my_list = []
+    my_list.append(element)
+    return my_list
+```
+
+
+## Enum in python
+
+In a quick prototype project, using enum in the project is not really the best choice. As it will introduce issues in json encoding and decoding.
+One easy hack is just define these enums in constant string. The string values maintain the readlibity and makes it easy to do json en/decoding.
+
 ## Python Setup.py
 
 ```
