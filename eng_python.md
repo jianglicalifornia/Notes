@@ -5,12 +5,13 @@ python
 - [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/)
 - Reference to a sibiling directory: 
 	- method 1: relative import through the relative path. this method doesn't work if you run the file separately rather than as a package.
-	- method 2 (recommended): the IDE doesn't support well for the intelligent typing. 
+	- method 2: the IDE doesn't support well for the intelligent typing. 
 			```
 			import os
 			parentdir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 			os.sys.path.insert(0,parentdir)
 			```
+	- Better design: [import through package](http://blog.csdn.net/luo123n/article/details/49849649)
 
 
 ## default parameter with list
