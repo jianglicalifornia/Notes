@@ -27,6 +27,11 @@ Then check out the progress of your long-running process!
 
 
 
+## 
+
+- get the total size of files: `du -ch debug/* | grep total`
+
+
 ## Avoid password during the login
 
 ```

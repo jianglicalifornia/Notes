@@ -1,6 +1,7 @@
 video editing
 =================
 
+
 ### FFMPEG
 
 - Get the first 100 seconds from a video: ```ffmpeg -i  /Users/haojian/projects/testvideo/S01E01.mkv  -t 100   S01E01_scaled.mp4```
@@ -13,6 +14,13 @@ video editing
 	```
 	sudo sudo apt-get install -y     libavformat-dev libavcodec-dev libavdevice-dev     libavutil-dev libswscale-dev libavresample-dev
 	```
+
+- Count the number of output frames: 
+	- `ffmpeg  -ss 182.25 -t 9.699   -i /Users/haojian/projects/testvideo/raw/S01E01_scaled.mp4  -r 5 %3d.jpg`
+		- the number of output images would around `round(duration * r + 2)`
+		- However, the exact number depends on the starting point and if the last frame falls inside the range. 
+		- Still no good way to resolve that yet.
+
 
 ### Build animated gifs from video
 

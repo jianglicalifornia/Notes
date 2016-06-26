@@ -16,7 +16,7 @@ AWS
 - [EC2 Ubuntu服务器上的PPTPD安装和配置](http://allenzhang.iteye.com/blog/1720214)
 - [with client configuration](http://sunweiwei.com/1863/)
 - [shadowsocks configuration](https://wiki.archlinux.org/index.php/Shadowsocks) best solution. easy to deploy, sustainable and fast.
-	- 
+	- Make it a backgroun process. http://askubuntu.com/questions/228304/how-do-i-run-a-script-at-start-up
 
 
 ## New AWS init
