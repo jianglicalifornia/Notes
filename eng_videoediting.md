@@ -17,10 +17,11 @@ video editing
 
 - Count the number of output frames: 
 	- `ffmpeg  -ss 182.25 -t 9.699   -i /Users/haojian/projects/testvideo/raw/S01E01_scaled.mp4  -r 5 %3d.jpg`
-		- the number of output images would around `round(duration * r + 2)`
+		- the number of output images would be around `round(duration * r + 2)`
 		- However, the exact number depends on the starting point and if the last frame falls inside the range. 
 		- Still no good way to resolve that yet.
 
+- [ImageCompression format](http://www.imagemagick.org/script/command-line-options.php#compress)
 
 ### Build animated gifs from video
 

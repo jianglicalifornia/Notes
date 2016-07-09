@@ -1,6 +1,18 @@
 Web
 ===========
 
+## Lightweight webserver.
+- `python -m SimpleHTTPServer` The local directory would be the web directory.
+	- super simple and fast. but doesn't support audio/video streaming.
+- nodejs solution: `npm install http-server -g`; `http-server -p 8000`
+- `twistd -no web --path=.`
+
+
+## programmable CSS
+
+- tool: Koala
+- [SASS用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html)
+
 ##Security
 
 ##Jetty
