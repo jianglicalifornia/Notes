@@ -1,6 +1,13 @@
 python
 ===========
 
+## naming rules
+- 文件名，包名，模块名，全小写字母，单词间用下划线连接。
+- 类名 CapWords 约定。
+- 函数名, 函数名应该是小写的，有必要的话用下划线来分隔单词提高可读性。
+- self作为实例方法的第一个参数。cls作为类方法的第一个参数。
+- 常量通常是模块级的定义，全部大写，单词之间以下划线分隔。例如MAX_OVERFLOW和TOTAL。
+
 ## python project design
 - [Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure/)
 - Reference to a sibiling directory: 

@@ -11,6 +11,7 @@ AWS
 - [如何在亚马逊EC2上安装Ghost？](https://www.wikimilk.org/installing-ghost-amazon-ec2/)
 - to start the ghost server in developer mode: 
 	```sudo GHOST_NODE_VERSION_CHECK=false  npm start --production```
+- my recent try: [Deploy Ghost to EC2](https://github.com/TryGhost/Ghost/wiki/Deploy-Ghost-to-EC2)
 
 ## Configure VPN
 - [EC2 Ubuntu服务器上的PPTPD安装和配置](http://allenzhang.iteye.com/blog/1720214)
@@ -86,3 +87,8 @@ AWS
 
 ## Money money me
 - [free aws credit](http://mooc.guokr.com/post/611730/)
+
+
+## UCloud
+- `socket: too many open files`
+	- solution: `ulimit -n 4096` [reference](http://stackoverflow.com/questions/880557/socket-accept-too-many-open-files)
