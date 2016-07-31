@@ -25,6 +25,21 @@ AWS
 	`cat ~/.ssh/id_rsa.pub | ssh user@hostname 'cat >> .ssh/authorized_keys'`
 - copy all the ssh keys to remote server
 	`scp -i XXXXXX.pem -r  ~/.ssh/  user@hostname:~/` (brute force method seems the best and simplest method)
+	
+- frequent command set for new aws
+	```
+	sudo apt-get update
+	sudo apt-get install python-dev
+	sudo pip install --upgrade setuptools
+	sudo apt-get install python-numpy
+	sudo apt-get build-dep python-numpy
+	pip install numpy
+	sudo apt-get install libffi-dev libssl-dev
+	sudo apt-get install git-core
+	git config --global user.name "haojian"
+	git config --global user.email "haojian.jin@gmail.com"
+	
+	```
 
 ## AWS toolkit
 

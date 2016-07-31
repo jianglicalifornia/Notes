@@ -50,6 +50,7 @@ Engineering
 - [Docker](eng_docker.md)
 - [Git](eng_git.md)
 - [Java](eng_java.md)
+- [Javascript](eng_javascript.md)
 - [MongoDB](eng_mongodb.md)
 - [OpenSource](eng_opensource.md)
 - [Python](eng_python.md)
