@@ -1,6 +1,11 @@
 Shell commands
 ===========
 
+## common shells
+
+- [what process has open linux port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
+
+
 ## Use screen for nohup session
 
 You want to be using GNU Screen. It is super awesome!

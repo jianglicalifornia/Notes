@@ -23,6 +23,15 @@ video editing
 
 - [ImageCompression format](http://www.imagemagick.org/script/command-line-options.php#compress)
 
+- [HTML5 video converting](https://www.imarc.com/blog/ffmpeg)
+	- `ffmpeg -i original.mp4 -c:v libx264  homepage.mp4`
+	
+	
+### Paper demo video generation
+
+1. premiere export. set the bps to around 1.
+2. run a ffmpeg to convert the video into lib264 so it's web friendly. `ffmpeg -i  tutorial_internetbps.mp4  -c:v libx264   tutorial_internetbps_html5.mp4`
+
 ### Build animated gifs from video
 
 - [pymovie](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/)

@@ -23,6 +23,13 @@ HCI_Papers
 
 ## Done list
 
+- [Video, Audio, Vibration, Motion and Frequency](http://www.abedavis.com/research.html)
+	- Author: [ABE DAVIS](http://www.abedavis.com/index.html)
+	- List: 
+		- [Interactive Dynamic Video](http://www.interactivedynamicvideo.com/)
+		- [The Visual Microphone: Passive Recovery of Sound from Video](http://people.csail.mit.edu/mrub/VisualMic/)
+		- [TED talk: vibration](https://www.youtube.com/watch?v=npNYP2vzaPo)
+
 - [How We Type: Movement Strategies and Performance in Everyday Typing](http://userinterfaces.aalto.fi/how-we-type/)
 
 - [Spin-It: Optimizing Moment of Inertia for Spinnable Objects](https://www.disneyresearch.com/wp-content/uploads/Project_SpinIt_SIGGRAPH14_paper1.pdf)
