@@ -6,6 +6,7 @@ HCI_Papers
 
 
 ##To do list
+- [A Black-Box approach to machine learning](https://www.google.com/search?q=A+Black-Box+approach+to+machine+learning)
 - [Ways of Knowing in HCI](http://www.amazon.com/Ways-Knowing-HCI-Judith-Olson/dp/1493903772)
 - [Local Label Descriptor for Example based Semantic Image Labeling
 ](http://pages.cs.wisc.edu/~lizhang/projects/labeldesc/)
@@ -22,7 +23,14 @@ HCI_Papers
 - [Word to vector](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
 ## Done list
-
+- [Stories of mathematician](http://www.math.ucla.edu/~wuty11/Heroes%20in%20my%20heart.pdf)
+- [Are you living in a computer simulation?](https://www.fat.bme.hu/student/pub/Programozas3/SimulationArgument.pdf)
+	- 1. humans go extince before we can develop advanced simulation techniques.
+	- 2. humans choose not to run simulations for ethical considerations.
+	- 3. we are living in a simulation.
+- [Twech: a mobile platform to search and share visuo-tactile experiences](https://www.youtube.com/watch?v=6QDF0OjMcJM)
+- [Interactive fog display](https://www.youtube.com/watch?v=v0bXuCIwtJo)
+- [what makes chair a chair](http://ieeexplore.ieee.org/document/5995327/?arnumber=5995327&tag=1)
 - [Video, Audio, Vibration, Motion and Frequency](http://www.abedavis.com/research.html)
 	- Author: [ABE DAVIS](http://www.abedavis.com/index.html)
 	- List: 
