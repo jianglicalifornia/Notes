@@ -4,6 +4,9 @@ Git commands
 
 @[git | dev]
 
+
+- [Git LFS](https://git-lfs.github.com/)
+
 **merge conflicts**
 
 - [squash the commits in one pull request](http://blog.steveklabnik.com/posts/2012-11-08-how-to-squash-commits-in-a-github-pull-request)

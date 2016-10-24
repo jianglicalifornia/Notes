@@ -1,5 +1,21 @@
 ###Docker
 
+##### FAQ on MAC:
+- Host is not running.
+```
+bogon:tensorflow haojian$ eval "$(docker-machine env default)"
+Error checking TLS connection: Host is not running
+```
+Solutions: 
+```
+it seems need to start docker-machine again.
+
+$ docker-machine start default
+$ docker-machine env default
+$ eval $(docker-machine env default)
+works for me
+```
+
 - for projects with dockerfile already:
 	- `docker build -t  pyannote-video .`  #pyannote-video is the docker image name
 	- `sudo docker run -d -p 8090:8080 pyannote-video`
