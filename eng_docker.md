@@ -16,6 +16,12 @@ $ eval $(docker-machine env default)
 works for me
 ```
 
+- [Save vs Export in Docker](https://my.oschina.net/zjzhai/blog/225112)
+
+- [Docker port mapping](https://opskumu.gitbooks.io/docker/content/chapter5.html)
+- Website hosting
+	- `docker run -p 8080:8080` -> django: "python manage.py runserver 0.0.0.0:8000" -> can be visit at: {docker-machine ip default} = 192.168.99.100` -> http://192.168.99.100:8000/
+
 - for projects with dockerfile already:
 	- `docker build -t  pyannote-video .`  #pyannote-video is the docker image name
 	- `sudo docker run -d -p 8090:8080 pyannote-video`
