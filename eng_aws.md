@@ -2,6 +2,11 @@ AWS
 ============================
 
 
+## Common S3 cmd
+
+- [toolkit](https://github.com/s3tools/s3cmd)
+
+
 ## DOCKER
 
 - [Docker容器和主机如何互相拷贝传输文件](http://xiaorui.cc/2015/04/12/docker%E5%AE%B9%E5%99%A8%E5%92%8C%E4%B8%BB%E6%9C%BA%E5%A6%82%E4%BD%95%E4%BA%92%E7%9B%B8%E6%8B%B7%E8%B4%9D%E4%BC%A0%E8%BE%93%E6%96%87%E4%BB%B6/)
@@ -107,3 +112,18 @@ AWS
 ## UCloud
 - `socket: too many open files`
 	- solution: `ulimit -n 4096` [reference](http://stackoverflow.com/questions/880557/socket-accept-too-many-open-files)
+	
+	
+	
+## Google Cloud
+
+#### Google Cloud Speech Recognition
+
+- [Best practice](https://cloud.google.com/speech/docs/best-practices)
+- flac format is preffered. For audio longer than 1 minute, it needs to be stored on google cloud. 
+- For audio inputs longer than 1 min, please use LINEAR16 encoding."
+- [Method for audio reencoding](https://cloud.google.com/speech/support)
+- [Covert audio to LINEAR16](https://groups.google.com/forum/#!msg/cloud-speech-discuss/tbQHoaTTNH8/MQjQUaifAQAJ;context-place=forum/cloud-speech-discuss)
+	- ffmpeg -i 1.mp4 test.wav
+	- sox test.wav  --channels=1 --rate 16k --bits 16 audio.raw
+	

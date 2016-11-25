@@ -6,6 +6,9 @@ Shell commands
 - [what process has open linux port](http://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
 
 
+
+sudo chown -R $(whoami) /data
+
 ## Use screen for nohup session
 
 You want to be using GNU Screen. It is super awesome!

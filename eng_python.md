@@ -1,6 +1,14 @@
 python
 ===========
 
+
+## python gui
+
+- to install vispy: the best way is through anaconda. 
+- [how to install pyqt4](http://pyqt.sourceforge.net/Docs/PyQt4/installation.html)
+	- [installing qt on mac osx](http://www.codeproject.com/Tips/740041/Installing-Qt-on-Mac-OS-X)
+
+
 ## naming rules
 - 文件名，包名，模块名，全小写字母，单词间用下划线连接。
 - 类名 CapWords 约定。
