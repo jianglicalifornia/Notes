@@ -13,6 +13,7 @@ Reading notes
 - "Who owns that data, what else can you do with it beyond?"
 
 [Library of Trantor](https://en.wikipedia.org/wiki/Library_of_Trantor)
+
 ---
 
 
