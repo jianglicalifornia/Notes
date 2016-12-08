@@ -20,7 +20,7 @@ works for me
 
 - [Docker port mapping](https://opskumu.gitbooks.io/docker/content/chapter5.html)
 - Website hosting
-	- `docker run -p 8080:8080` -> django: "python manage.py runserver 0.0.0.0:8000" -> can be visit at: {docker-machine ip default} = 192.168.99.100` -> http://192.168.99.100:8000/
+	- `docker run -p 8080:8080` -> django: "python manage.py runserver 0.0.0.0:8080" -> can be visit at: {docker-machine ip default} = 192.168.99.100` -> http://192.168.99.100:8080/
 
 - for projects with dockerfile already:
 	- `docker build -t  pyannote-video .`  #pyannote-video is the docker image name
@@ -62,12 +62,11 @@ works for me
 	
 - Enter a running docker container:
 	- 
-	```
 	$ sudo docker exec -i -t 665b4a1e17b6 /bin/bash #by ID
 	or
 	$ sudo docker exec -i -t loving_heisenberg /bin/bash #by Name
 	$ root@665b4a1e17b6:/#
-	```
+	
 
 # Commands short cut
 

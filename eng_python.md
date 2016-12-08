@@ -153,6 +153,14 @@ sudo pip install hg+http://bitbucket.org/pygame/pygame
 
 ## Upgrade python version
 
+- [through apt-get](http://askubuntu.com/questions/725171/update-python-2-7-to-latest-version-of-2-x)
+	"""
+	sudo add-apt-repository ppa:fkrull/deadsnakes-python2.7
+	sudo apt-get update
+	sudo apt-get install python2.7
+	python --version
+	"""
+
 [Install / update to Python 2.7 and latest Pip on EC2 Amazon Linux](http://www.lecloud.net/post/61401763496/install-update-to-python-2-7-and-latest-pip-on-ec2)
 
 ```
