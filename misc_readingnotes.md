@@ -47,8 +47,7 @@ Nov 25, 2016
 
 * [Library of Trantor](https://en.wikipedia.org/wiki/Library_of_Trantor)
 
----
-
+----
 
 ##### Imported from my Quip Archive
 
