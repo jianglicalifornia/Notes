@@ -6,7 +6,7 @@ Reading notes
 Dec. 8, 2016
 
 * [How ‘Minority Report’ Trapped Us In A World Of Bad Interfaces](https://theawl.com/how-minority-report-trapped-us-in-a-world-of-bad-interfaces-d8d2d2af41da#.79d9sxe99)
-	* I somehow disagree with some arguments in this article. But it's still an insightful one.
+	* I somehow disagree with some arguments. But it's still an insightful article.
 * [Future Tech: Seventeen Microsoft Researchers On The Technology of 2017 And 2027](http://www.forbes.com/sites/kevinmurnane/2016/12/07/future-tech-seventeen-microsoft-researchers-on-the-technology-of-2017-and-2027/#525c0ced160e)
 
 Dec. 7, 2016
