@@ -32,7 +32,6 @@ Dec 2, 2016
 
 * [The coming age of calm technology](http://www.cs.ucsb.edu/~ebelding/courses/284/papers/calm.pdf) 
 
-
 Nov 26, 2016
 
 * [Let's ignore the ethics of AI. Here's Why.](https://www.linkedin.com/pulse/lets-ignore-ethics-ai-heres-why-kartik-hosanagar)
