@@ -1,6 +1,27 @@
 Crawler
 =============================
 
+
+## Crawl the website with button click simulation
+
+```
+from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium.webdriver.support.ui import Select
+
+%% brew install chromedriver
+driver = webdriver.Chrome()
+driver.get("https://en.wikipedia.org/w/index.php?title=Special%3ACourses")
+
+status_selector = Select(driver.find_element_by_id('status'))
+status_selector.select_by_value('current')
+status_selector.select_by_value('planned')
+navigation = driver.find_element_by_class_name('ep-pager-go')
+navigation.click()
+
+print (driver.page_source.encode('utf-8') )
+```
+
 ## Scheduler
 
 - Bloomfilter v.s. HashFilter

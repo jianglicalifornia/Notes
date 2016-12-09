@@ -8,6 +8,11 @@ Dec. 8, 2016
 * [How ‘Minority Report’ Trapped Us In A World Of Bad Interfaces](https://theawl.com/how-minority-report-trapped-us-in-a-world-of-bad-interfaces-d8d2d2af41da#.79d9sxe99)
 	* I somehow disagree with some arguments. But it's still an insightful article.
 * [Future Tech: Seventeen Microsoft Researchers On The Technology of 2017 And 2027](http://www.forbes.com/sites/kevinmurnane/2016/12/07/future-tech-seventeen-microsoft-researchers-on-the-technology-of-2017-and-2027/#525c0ced160e)
+* [foget-crowdsourcing](https://blog.coding.net/blog/forget-crowdsourcing)
+	* another biased bottom-up insight building
+* [an independent musician's earnings reports from all the music distribution platforms](https://www.reddit.com/r/Music/comments/5h2lmk/i_am_an_independent_musician_i_publicly_published/?st=iwg089bx&sh=3959450a)
+	* Vulfpeck put up an album of complete silence and told their fans to listen to it on repeat overnight. And then they paid their fans back with a free concert + free beer AND.....each fan received $1 on their way out in appreciation of streaming the silence. I know because I was there. They rock.
+* [a cool gif bot](http://imgur.com/a/ue4Ax)
 
 Dec. 7, 2016
 
