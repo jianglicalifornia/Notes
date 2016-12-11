@@ -1,8 +1,14 @@
 Reading notes
 ==============
 
+Dec. 9, 2016
 
-
+* [Machine Bias - There’s software used across the country to predict future criminals. And it’s biased against blacks.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+	* i still feel it's hard to handle such a sensitive problem. as mentioned by the article in "war of math destruction", a collective success doesn't guarantee an individual fairness. 
+	* i think the better way to approach that problem is the advertising targeting story.
+	* what the algorithm provides seem just a recommendation rather than a final decision.
+	* this looks suspicious: "Northpointe’s core product is a set of scores derived from 137 questions that are either answered by defendants or pulled from criminal records. Race is not one of the questions.". proxy?
+	
 Dec. 8, 2016
 
 * [How ‘Minority Report’ Trapped Us In A World Of Bad Interfaces](https://theawl.com/how-minority-report-trapped-us-in-a-world-of-bad-interfaces-d8d2d2af41da#.79d9sxe99)
