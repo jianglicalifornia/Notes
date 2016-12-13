@@ -44,7 +44,7 @@ $$ d(\sqrt{x^2+y^2+z^2})/dy = \frac{y}{\sqrt{(x^2+y^2+z^2}} $$
 $$ d(\sqrt{x^2+y^2+z^2})/dz = \frac{z}{\sqrt{(x^2+y^2+z^2}} $$  
 
 [wolfram](http://www.wolframalpha.com/input/?i=d%28y%2F%5Csqrt%7Bx%5E2%2By%5E2%2Bz%5E2%7D%29%2Fdx):
-$$ d(y/\sqrt{x^2+y^2+z^2})/dx = -\frac{x y}{{(x^2+y^2+z^2)}^{3/2}} $$  
+<!-- $$ d(y/\sqrt{x^2+y^2+z^2})/dx = -\frac{x y}{{(x^2+y^2+z^2)}^{3/2}} $$   -->
 
 $$ d(y/\sqrt{x^2+y^2+z^2})/dy = \frac{x^2 + z^2}{{(x^2+y^2+z^2)}^{3/2}} $$
 
