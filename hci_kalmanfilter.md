@@ -20,18 +20,13 @@ $$ u_k = [\Delta x, \Delta y, \Delta z]^T$$
 [Slides about sensor details](http://www.slideshare.net/paller/motion-recognition-with-android-devices)
 
 ## Extended Kalman Filfter v2
-$$ B_lA = \sqrt{(a_5+x-a_1)^2+(b_5+y-b_1)^2 + (c_5+z-c_1)^2}  $$
-$$ B_rA = \sqrt{(a_6+x-a_1)^2+(b_6+y-b_1)^2+(c_6+z-c_1)^2}  $$
-
-$$ A_lB = \sqrt{(a_4+x-a_2)^2+(b_4+y-b_2)^2+(c_4+z-c_2)^2}  $$
-$$ A_rB = \sqrt{(a_4+x-a_3)^2+(b_4+y-b_3)^2+(c_4+z-c_3)^2}  $$
-
-[wolfram](http://www.wolframalpha.com/input/?i=d%7B%7B%5Csqrt%7B%28a6%2Bx-a1%29%5E2%2B%28b6%2By-b1%29%5E2%2B%28c6%2Bz-c1%29%5E2%7D+-+%5Csqrt%7B%28a5%2Bx-a1%29%5E2%2B%28b5%2By-b1%29%5E2+%2B+%28c5%2Bz-c1%29%5E2%7D+%7D%7D%2Fdx):
-$$ \cos \theta = (A_rB - A_lB)/w = \frac{\sqrt{(a_4+x-a_3)^2+(b_4+y-b_3)^2+(c_4+z-c_3)^2} - \sqrt{(a_4+x-a_2)^2+(b_4+y-b_2)^2+(c_4+z-c_2)^2} }{w} $$
 
 
 [wolfram](http://www.wolframalpha.com/input/?i=d%7B%7B%5Csqrt%7B%28a6%2Bx-a1%29%5E2%2B%28b6%2By-b1%29%5E2%2B%28c6%2Bz-c1%29%5E2%7D+-+%5Csqrt%7B%28a5%2Bx-a1%29%5E2%2B%28b5%2By-b1%29%5E2+%2B+%28c5%2Bz-c1%29%5E2%7D+%7D%7D%2Fdx):
-$$ \cos \phi = (B_rA- B_lA)/w = \frac{\sqrt{(a_6+x-a_1)^2+(b_6+y-b_1)^2+(c_6+z-c_1)^2} - \sqrt{(a_5+x-a_1)^2+(b_5+y-b_1)^2 + (c_5+z-c_1)^2} }{w} $$
+
+
+[wolfram](http://www.wolframalpha.com/input/?i=d%7B%7B%5Csqrt%7B%28a6%2Bx-a1%29%5E2%2B%28b6%2By-b1%29%5E2%2B%28c6%2Bz-c1%29%5E2%7D+-+%5Csqrt%7B%28a5%2Bx-a1%29%5E2%2B%28b5%2By-b1%29%5E2+%2B+%28c5%2Bz-c1%29%5E2%7D+%7D%7D%2Fdx):
+
 
 
 ## Extended Kalman filter for Tracko
