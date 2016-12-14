@@ -1,6 +1,13 @@
 Reading notes
 ==============
 
+Dec. 14, 2016
+
+* [Potential Risks from Advanced Artificial Intelligence](http://www.openphilanthropy.org/research/cause-reports/ai-risk#Organizations_working_in_this_space)
+
+* [promising startup list](https://breakoutlist.com/)
+	* feel inspiring when i view it from the academia perspective.
+
 Dec. 9, 2016
 
 * [Machine Bias - There’s software used across the country to predict future criminals. And it’s biased against blacks.](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
