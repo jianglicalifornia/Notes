@@ -37,39 +37,20 @@ $$ \cos \phi = (B_rA- B_lA)/w = \frac{\sqrt{(a_6+x-a_1)^2+(b_6+y-b_1)^2+(c_6+z-c
 ## Extended Kalman filter for Tracko
 
 [wolfram](http://www.wolframalpha.com/input/?i=d%28%5Csqrt%7Bx%5E2%2By%5E2%2Bz%5E2%7D%29%2Fdx):
-<!-- $$ d(\sqrt{x^2+y^2+z^2})/dx = \frac{x}{\sqrt{(x^2+y^2+z^2}} $$
 
-$$ d(\sqrt{x^2+y^2+z^2})/dy = \frac{y}{\sqrt{(x^2+y^2+z^2}} $$
-
-$$ d(\sqrt{x^2+y^2+z^2})/dz = \frac{z}{\sqrt{(x^2+y^2+z^2}} $$   -->
 
 [wolfram](http://www.wolframalpha.com/input/?i=d%28y%2F%5Csqrt%7Bx%5E2%2By%5E2%2Bz%5E2%7D%29%2Fdx):
-<!-- $$ d(y/\sqrt{x^2+y^2+z^2})/dx = -\frac{x y}{{(x^2+y^2+z^2)}^{3/2}} $$   -->
-
-<!-- $$ d(y/\sqrt{x^2+y^2+z^2})/dy = \frac{x^2 + z^2}{{(x^2+y^2+z^2)}^{3/2}} $$
-
-$$ d(y/\sqrt{x^2+y^2+z^2})/dz = -\frac{x z}{{(x^2+y^2+z^2)}^{3/2}} $$ -->
 
 
 IF $$$ \cos \phi > 0 $$$:
 
 [wolfram](http://www.wolframalpha.com/input/?i=d%28%5Cfrac%7B%5Csqrt%7Bax%2B+by+%2B+cz%7D%7D%7B%5Csqrt%7Bx%5E2+%2B+y%5E2+%2B+z%5E2%7D%7D%29%2Fdx):
-<!-- $$ d(\frac{\sqrt{ax+ by + cz}}{\sqrt{x^2 + y^2 + z^2}})/dx =  \frac{-2 x (b y + c z) + a (-x^2 + y^2 + z^2)}{2 \sqrt{a x + b y + c z} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
 
-$$ d(\frac{\sqrt{ax+ by + cz}}{\sqrt{x^2 + y^2 + z^2}})/dy =  \frac{-2 y (a x + c z) + b (x^2 - y^2 + z^2)}{2 \sqrt{a x + b y + c z} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
-
-
-$$ d(\frac{\sqrt{ax+ by + cz}}{\sqrt{x^2 + y^2 + z^2}})/dz =  \frac{-2 z (a x + b y) + c (x^2 + y^2 - z^2)}{2 \sqrt{a x + b y + c z} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$ -->
 
 IF $$$ \cos \phi < 0 $$$:
 
 [wolfram](http://www.wolframalpha.com/input/?i=d%28%5Cfrac%7B-%5Csqrt%7B-%28ax%2B+by+%2B+cz%29%7D%7D%7B%5Csqrt%7Bx%5E2+%2B+y%5E2+%2B+z%5E2%7D%7D%29%2Fdx):
 
-<!-- $$ d(\frac{-\sqrt{-(ax+ by + cz)}}{\sqrt{x^2 + y^2 + z^2}})/dx =  \frac{-2 x (b y + c z) + a (-x^2 + y^2 + z^2)}{2 \sqrt{-(a x + b y + c z)} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
-
-$$ d(\frac{-\sqrt{-(ax+ by + cz)}}{\sqrt{x^2 + y^2 + z^2}})/dy =  \frac{-2 y (a x + c z) + b (x^2 - y^2 + z^2)}{2 \sqrt{-(a x + b y + c z)} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$
-
-$$ d(\frac{-\sqrt{-(ax+ by + cz)}}{\sqrt{x^2 + y^2 + z^2}})/dz =  \frac{-2 z (a x + b y) + c (x^2 + y^2 - z^2)}{2 \sqrt{-(a x + b y + c z)} \cdot {(x^2 + y^2 + z^2)}^{3/2}} $$ -->
 
 ## Extended Kalman filter code
 [java implementation](http://gicl.cs.drexel.edu/index.php/An_Extended_Kalman_Filter_2010)
