@@ -1,6 +1,6 @@
 Signal processing
 ===========
-[gimmick: math]()
+<!-- [gimmick: math]() -->
 
 
 ## Tracko Model final writing
