@@ -7,6 +7,8 @@ Dec. 14, 2016
 
 * [promising startup list](https://breakoutlist.com/)
 	* feel inspiring when i view it from the academia perspective.
+	
+* [Hyper reality](http://hyper-reality.co/)
 
 Dec. 9, 2016
 
