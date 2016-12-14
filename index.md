@@ -27,6 +27,7 @@ HCI
 - [LOVELY RESEARCH!](hci_randompapers.md)
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
+- [Speech](hci_speechrec.md)
 - [Vision](hci_vision.md)
 - [Misc](hci_misc.md)
 
