@@ -1,6 +1,23 @@
 Reading notes
 ==============
 
+To do list:
+
+* [an introduction to feature selection](http://machinelearningmastery.com/an-introduction-to-feature-selection/)
+* [Feature selection from berkley eecs](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/feature/)
+* [Building Successful Online Communities: Evidence-Based Social Design by Bob Kraut]
+	- chapter 3: encoraging commitment in online communities.
+* [Building a machine learning product – Data and features](https://nudgr.io/blog/building-a-machine-learning-product-data-and-features/)
+* [Submodularity](http://submodularity.org/)
+* [Artificial Intelligence: Representation and Problem Solving at CMU](http://www.cs.cmu.edu/~15781/)
+
+Dec. 15, 2016
+
+* Submodular
+	* [submodular in machine learning](http://submodularity.org/submodularity-icml-part1-slides-prelim.pdf)
+	* [submodular function maximization](https://las.inf.ethz.ch/files/krause12survey.pdf)
+* [Understanding Trust amid Delays in Crowdfunding - CSCW'17](http://users.eecs.northwestern.edu/~hq/papers/cftrust-CSCW2017.pdf)
+
 Dec. 14, 2016
 
 * [Potential Risks from Advanced Artificial Intelligence](http://www.openphilanthropy.org/research/cause-reports/ai-risk#Organizations_working_in_this_space)
