@@ -11,6 +11,14 @@ To do list:
 * [Submodularity](http://submodularity.org/)
 * [Artificial Intelligence: Representation and Problem Solving at CMU](http://www.cs.cmu.edu/~15781/)
 
+
+Dec. 17, 2016
+
+* modular phones: it's very interesting to view the visionary technologies in years 
+	* [phone blocks](https://phonebloks.com/journey)
+		* [analyzing the feasibility](http://www.forbes.com/sites/quora/2013/10/30/analyzing-the-ara-project-of-googles-motorola-subdivision/#6d1d3a293156)
+		* [Goodbye moonshot](https://davehakkens.nl/phonebloks/goodbye-moonshot/)
+
 Dec. 15, 2016
 
 * Submodular
