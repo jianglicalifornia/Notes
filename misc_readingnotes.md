@@ -17,6 +17,7 @@ Dec. 20, 2016
 
 * [Developing a risk model for residences without smoke alarms](http://blog.enigma.io/risk-model-for-residences-without-smoke-alarms/)
 	* a very concrete example
+	* The model also indicates that race, the age of a house, poverty, and education-level seem to be most strongly correlated with not having a smoke alarm on a national level.
 * [Proxy (statistics)](https://en.wikipedia.org/wiki/Proxy_(statistics))
 * [Proxy Variables: The Good Twin of Confounding Variables](http://blog.minitab.com/blog/adventures-in-statistics-2/proxy-variables-the-good-twin-of-confounding-variables)
 * [Confounding variables in machine learning](http://www.rbeesoft.com/blog/?p=153)
@@ -25,6 +26,11 @@ Dec. 20, 2016
 * [Machine Learning and Econometrics](http://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf)
 	* very thoughtful discussion. insight or applications
 * [Making Federal Data Local: Merging the American Housing Survey to the American Community Survey](http://blog.enigma.io/making-federal-data-local-merging-the-american-housing-survey-to-the-american-community-survey/)
+* [Automatic Feature Engineering: Learning to Detect Malware by Mining the Scientific Literature](https://www.umiacs.umd.edu/~tdumitra/blog/2016/10/16/automatic-feature-engineering-learning-how-to-detect-malware-by-mining-the-scientific-literature/)
+* [Google aims to prevent machine learning discrimination (with the possible exception of age)](https://thestack.com/world/2016/10/11/google-brain-machine-learning-discrimination/)
+	* for example, if the applicant is a single parent, and 82% of single parents are female, there is a high probability that the applicant is female.
+	* This is called ‘redundant encoding’ – even if a specific data marker is not included in the data set, it may be included by proxy in a combination of other, relevant data.
+* [Big Picture](https://research.google.com/bigpicture/)
 
 Dec. 18, 2016
 
