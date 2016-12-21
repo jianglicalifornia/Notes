@@ -14,6 +14,11 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+Dec. 21, 2016
+
+* [Equality of Opportunity in Supervised Learning - NIPS 2016](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
+	* regarding the machine learning bias, people doesn't really care about true negative. 
+
 Dec. 20, 2016
 
 * [Developing a risk model for residences without smoke alarms](http://blog.enigma.io/risk-model-for-residences-without-smoke-alarms/)
