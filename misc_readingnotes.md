@@ -11,6 +11,7 @@ To do list:
 * [Submodularity](http://submodularity.org/)
 * [Artificial Intelligence: Representation and Problem Solving at CMU](http://www.cs.cmu.edu/~15781/)
 * [ccSVM: correcting Support Vector Machines for confounding factors in biological data classification](http://bioinformatics.oxfordjournals.org/content/27/13/i342.full.pdf+html)
+* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
 Dec. 20, 2016
@@ -30,6 +31,7 @@ Dec. 20, 2016
 * [Google aims to prevent machine learning discrimination (with the possible exception of age)](https://thestack.com/world/2016/10/11/google-brain-machine-learning-discrimination/)
 	* for example, if the applicant is a single parent, and 82% of single parents are female, there is a high probability that the applicant is female.
 	* This is called ‘redundant encoding’ – even if a specific data marker is not included in the data set, it may be included by proxy in a combination of other, relevant data.
+	* Before anyone starts a flame war, please read carefully! “At the heart of our approach is the idea that individuals who qualify for a desirable outcome should have an equal chance of being correctly classified for this outcome." That means they are NOT going for some sort of "affirmative action" type of logic.
 * [Big Picture](https://research.google.com/bigpicture/)
 
 Dec. 18, 2016
