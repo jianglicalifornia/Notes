@@ -10,7 +10,27 @@ To do list:
 * [Building a machine learning product – Data and features](https://nudgr.io/blog/building-a-machine-learning-product-data-and-features/)
 * [Submodularity](http://submodularity.org/)
 * [Artificial Intelligence: Representation and Problem Solving at CMU](http://www.cs.cmu.edu/~15781/)
+* [ccSVM: correcting Support Vector Machines for confounding factors in biological data classification](http://bioinformatics.oxfordjournals.org/content/27/13/i342.full.pdf+html)
 
+
+Dec. 20, 2016
+
+* [Developing a risk model for residences without smoke alarms](http://blog.enigma.io/risk-model-for-residences-without-smoke-alarms/)
+	* a very concrete example
+* [Proxy (statistics)](https://en.wikipedia.org/wiki/Proxy_(statistics))
+* [Proxy Variables: The Good Twin of Confounding Variables](http://blog.minitab.com/blog/adventures-in-statistics-2/proxy-variables-the-good-twin-of-confounding-variables)
+* [Confounding variables in machine learning](http://www.rbeesoft.com/blog/?p=153)
+	* Imagine that you are mostly interested in predicting something and that you don’t care so much about identifying true cause-and-effect relationships. Fortunately, prediction doesn’t always require a causal relationship between predictor and response. Instead, a proxy variable that is simply correlated to the response, and is easier to obtain than a causally connected variable, might well do the job.
+* [Lessons for Machine Learning from Econometrics](http://machinelearningmastery.com/lessons-for-machine-learning-from-econometrics/)
+* [Machine Learning and Econometrics](http://web.stanford.edu/class/ee380/Abstracts/140129-slides-Machine-Learning-and-Econometrics.pdf)
+	* very thoughtful discussion. insight or applications
+* [Making Federal Data Local: Merging the American Housing Survey to the American Community Survey](http://blog.enigma.io/making-federal-data-local-merging-the-american-housing-survey-to-the-american-community-survey/)
+
+Dec. 18, 2016
+
+* [Uncertainty in Deep Learning (PhD Thesis)](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)
+* [How kinect works](http://pages.cs.wisc.edu/~ahmad/kinect.pdf)
+* [Clear explanation on random decision forest](https://www.youtube.com/watch?v=loNcrMjYh64)
 
 Dec. 17, 2016
 
@@ -18,6 +38,8 @@ Dec. 17, 2016
 	* [phone blocks](https://phonebloks.com/journey)
 		* [analyzing the feasibility](http://www.forbes.com/sites/quora/2013/10/30/analyzing-the-ara-project-of-googles-motorola-subdivision/#6d1d3a293156)
 		* [Goodbye moonshot](https://davehakkens.nl/phonebloks/goodbye-moonshot/)
+* "Working Code Trumps All Hype" 
+* [Blockchain open source implementation](https://chain.com/)
 
 Dec. 15, 2016
 
