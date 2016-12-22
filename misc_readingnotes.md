@@ -14,6 +14,10 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+Dec. 22, 2016
+
+* [MUSIC and Improved MUSIC algorithm to Estimate Direction of Arrival](https://www.mathworks.com/matlabcentral/answers/uploaded_files/48180/gupta2015.pdf)
+
 Dec. 21, 2016
 
 * [Equality of Opportunity in Supervised Learning - NIPS 2016](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
