@@ -5,6 +5,7 @@
 	*  built on the HTK (HMM toolkit) speech recognition software
 	
 
+
 ##### Sphinx
 
 * to configure sphinx project through intelliJ

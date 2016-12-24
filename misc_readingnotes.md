@@ -14,9 +14,19 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+Dec. 24, 2016
+
+* [Video: Ang Lee - Pushing the Limits of Cinema - Full Version](https://www.youtube.com/watch?v=x7jnDD1v4P0)
+
+Dec. 23, 2016
+
+* [the ai story about google, jun rekimoto, jeff dean, hinton, deepmind](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=1)
+
 Dec. 22, 2016
 
 * [MUSIC and Improved MUSIC algorithm to Estimate Direction of Arrival](https://www.mathworks.com/matlabcentral/answers/uploaded_files/48180/gupta2015.pdf)
+
+* [十年一觉电影梦 - Ang Lee](https://book.douban.com/subject/21361157/)
 
 Dec. 21, 2016
 

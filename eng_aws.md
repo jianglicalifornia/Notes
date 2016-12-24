@@ -119,6 +119,9 @@ AWS
 
 #### Google Cloud Speech Recognition
 
+- [Authenticating to a Cloud API Service](https://cloud.google.com/speech/docs/common/auth)
+	- download json file and configure the json file.
+	- For "AccessDeniedException: 403 Forbidden" error, run "gcloud auth login"
 - [Best practice](https://cloud.google.com/speech/docs/best-practices)
 - flac format is preffered. For audio longer than 1 minute, it needs to be stored on google cloud. 
 - For audio inputs longer than 1 min, please use LINEAR16 encoding."
