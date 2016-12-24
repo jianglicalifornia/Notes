@@ -1,19 +1,29 @@
 for things I don't want to put into my brain, I put them here.
 ==========
 
-
-Mobile
+Engineering
 ------
 
-- [General - Audio](mobile_audio.md)
-- [General - Bluetooth](mobile_bluetooth.md)
-- [General - Mobile Security](mobile_security.md)
-- [General - Sensors](mobile_sensors.md)
-- [General - Speech Recognition](mobile_speech.md)
-- [Android - Misc](mobile_android_misc.md)
-- [Android - NDK](mobile_android_ndk.md)
-- [Android - OpenGL](mobile_android_opengl.md)
-- [iOS - misc](mobile_ios_misc.md)
+- [Algorithm](eng_algorithm.md)
+- [Amazon Web Service](eng_aws.md)
+- [Architecture](eng_architecture.md)
+- [Crawler](eng_crawler.md)
+- [Backend](eng_backend.md)
+- [Debug](eng_debug.md)
+- [DesignPattern](eng_designpattern.md)
+- [DevTools](eng_devtools.md)
+- [Docker](eng_docker.md)
+- [Git](eng_git.md)
+- [Java](eng_java.md)
+- [Javascript](eng_javascript.md)
+- [MongoDB](eng_mongodb.md)
+- [OpenSource](eng_opensource.md)
+- [Python](eng_python.md)
+- [Redis](eng_redis.md)
+- [Security](eng_security.md)
+- [Shell](eng_shell.md)
+- [Web](eng_web.md)
+- [Video editing](eng_videoediting.md)
 
 HCI
 ------
@@ -39,28 +49,18 @@ DM/ML/NLP/CV
 - [Computer Vision](ml_vision.md)
 - [Deep Learning](ml_deeplearning.md)
 
-Engineering
+Mobile
 ------
 
-- [Algorithm](eng_algorithm.md)
-- [Amazon Web Service](eng_aws.md)
-- [Crawler](eng_crawler.md)
-- [Backend](eng_backend.md)
-- [Debug](eng_debug.md)
-- [DesignPattern](eng_designpattern.md)
-- [DevTools](eng_devtools.md)
-- [Docker](eng_docker.md)
-- [Git](eng_git.md)
-- [Java](eng_java.md)
-- [Javascript](eng_javascript.md)
-- [MongoDB](eng_mongodb.md)
-- [OpenSource](eng_opensource.md)
-- [Python](eng_python.md)
-- [Redis](eng_redis.md)
-- [Security](eng_security.md)
-- [Shell](eng_shell.md)
-- [Web](eng_web.md)
-- [Video editing](eng_videoediting.md)
+- [General - Audio](mobile_audio.md)
+- [General - Bluetooth](mobile_bluetooth.md)
+- [General - Mobile Security](mobile_security.md)
+- [General - Sensors](mobile_sensors.md)
+- [General - Speech Recognition](mobile_speech.md)
+- [Android - Misc](mobile_android_misc.md)
+- [Android - NDK](mobile_android_ndk.md)
+- [Android - OpenGL](mobile_android_opengl.md)
+- [iOS - misc](mobile_ios_misc.md)
 
 Misc
 ------

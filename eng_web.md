@@ -1,6 +1,11 @@
 Web
 ===========
 
+## web deployment.
+
+- [使用Tornado+Nginx部署Django的一种尝试](http://fendou.org/post/2012/06/01/tornad-nginx-django/)
+
+
 ## Lightweight webserver.
 - `python -m SimpleHTTPServer` The local directory would be the web directory.
 	- super simple and fast. but doesn't support audio/video streaming.
@@ -17,7 +22,7 @@ Web
 
 ##Jetty
 
-##Apatch
+##Apache
 
 - [How to install apache and php on Mac](http://machiine.com/2013/how-to-install-apache-and-php-on-a-mac-with-osx-10-8-mamp-part-1/)
 - [在OS X 10.8 Mountain Lion上配置Web服务器（Apache+PHP）](http://blog.shengbin.me/posts/os-x-10.8-mountain-lion-setup-web-server-apache-php/)
