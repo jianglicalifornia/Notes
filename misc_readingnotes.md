@@ -14,8 +14,22 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+Dec. 27, 2016
+
+* [CP-Miner: A Tool for Finding Copy-paste and Related Bugs in Operating System Code](http://opera.ucsd.edu/paper/OSDI04-CPMiner.pdf)
+* [aeroMorph - Heat-sealing Inflatable Shape-change Materials for Interaction Design](http://tmg-trackr.media.mit.edu/publishedmedia/Papers/628-aeroMorph%20%20Heatsealing%20Inflatable/Published/PDF)
+
+Dec. 26, 2016
+
+* [The glossary of human computer interaction: information foraging theory](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/information-foraging-theory)
+
+Dec. 25, 2016
+
+* [RFID Explained: A Primer on Radio Frequency Identification Technologies](http://www.morganclaypool.com/doi/abs/10.2200/S00040ED1V01Y200602MPC001)
+
 Dec. 24, 2016
 
+* [15-821/18-843: Mobile and Pervasive Computing](https://www.cs.cmu.edu/~15-821/)
 * [Video: Ang Lee - Pushing the Limits of Cinema - Full Version](https://www.youtube.com/watch?v=x7jnDD1v4P0)
 
 Dec. 23, 2016
