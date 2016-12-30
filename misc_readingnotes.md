@@ -14,6 +14,11 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+Dec. 28, 2016
+
+* [Introduction to Semi-Supervised Learning by Xiaojin Zhu](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf)
+* [SpotFi: Decimeter Level Localization Using WiFi](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p269.pdf)
+
 Dec. 27, 2016
 
 * [CP-Miner: A Tool for Finding Copy-paste and Related Bugs in Operating System Code](http://opera.ucsd.edu/paper/OSDI04-CPMiner.pdf)
