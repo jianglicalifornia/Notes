@@ -4,7 +4,9 @@ Web
 ## Content publish platform
 
 - Ghost configuration on ubuntu
-	- [install node.js](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/)
+	- [install node.js with Node Version Manager](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/)
+	- [official ghost installation](http://support.ghost.org/installing-ghost-linux/)
+	- [change the directory permission](http://askubuntu.com/questions/162866/correct-permissions-for-var-www-and-wordpress)
 
 
 ## web deployment.
