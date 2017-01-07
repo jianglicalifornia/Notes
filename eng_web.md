@@ -6,7 +6,17 @@ Web
 - Ghost configuration on ubuntu
 	- [install node.js with Node Version Manager](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/)
 	- [official ghost installation](http://support.ghost.org/installing-ghost-linux/)
+		- for network error: `npm config set registry https://registry.npmjs.org/`
 	- [change the directory permission](http://askubuntu.com/questions/162866/correct-permissions-for-var-www-and-wordpress)
+	- [deployment](http://support.ghost.org/getting-started/)
+		- [deploy ghost through init script](http://support.ghost.org/deploying-ghost/#init-script)
+		- [nginx guide](http://support.ghost.org/basic-nginx-config/)
+			- [test nginx in localhost](http://stackoverflow.com/questions/10095219/how-to-test-nginx-subdomains-on-localhost)
+				- (/etc/hosts in *nix).
+- Ghost development
+	- [private ap](https://api.ghost.org/docs/getting-started)
+	
+- idea image host: [aws s3 + amazon cloud front cdn](http://stackoverflow.com/questions/12148390/how-do-i-use-aws-s3-to-store-user-uploaded-pictures)
 
 
 ## web deployment.
