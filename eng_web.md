@@ -1,6 +1,12 @@
 Web
 ===========
 
+## Content publish platform
+
+- Ghost configuration on ubuntu
+	- [install node.js](http://www.hostingadvice.com/how-to/install-nodejs-ubuntu-14-04/)
+
+
 ## web deployment.
 
 - [使用Tornado+Nginx部署Django的一种尝试](http://fendou.org/post/2012/06/01/tornad-nginx-django/)
