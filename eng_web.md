@@ -13,10 +13,14 @@ Web
 		- [nginx guide](http://support.ghost.org/basic-nginx-config/)
 			- [test nginx in localhost](http://stackoverflow.com/questions/10095219/how-to-test-nginx-subdomains-on-localhost)
 				- (/etc/hosts in *nix).
+			- make it work in through ip directly: modify the remote machine's /etc/hosts
 - Ghost development
-	- [private ap](https://api.ghost.org/docs/getting-started)
+	- [private api](https://api.ghost.org/docs/getting-started)
+	- [all the endpoints](https://github.com/TryGhost/Ghost/wiki/%5BWIP%5D-API-Documentation#endpoints)
 	
 - idea image host: [aws s3 + amazon cloud front cdn](http://stackoverflow.com/questions/12148390/how-do-i-use-aws-s3-to-store-user-uploaded-pictures)
+
+- ghost localization: i18n for ghost;  [Transifex code injection approach](https://docs.transifex.com/integrations/ghost/)
 
 
 ## web deployment.
