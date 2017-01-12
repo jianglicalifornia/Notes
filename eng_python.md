@@ -71,6 +71,14 @@ python setup.py install
 
 - `pip install -U -r requirements.txt `
 
+
+- [virtual environment for conda](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
+	- conda has a centralized virtual environment management. so make sure to find a unique name for the virtual environment.
+	- `conda create -n venvname python=3.5.2 anaconda`
+	- `source activate venvname`
+	- `source deactivate venvname`
+	
+
 ## Coding style
 - [Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 - [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
