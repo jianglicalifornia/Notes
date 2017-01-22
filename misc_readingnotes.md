@@ -14,6 +14,20 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+Jan. 21, 2016
+
+* [Tiny Transactions on Computer Science (TinyToCS)](http://tinytocs.org/)
+* [Machine Learning bias at Princeton](https://www.cs.princeton.edu/news/bias-machine-internet-algorithms-reinforce-harmful-stereotypes)
+* [How to pick your first research project](https://33bits.org/2013/11/01/how-to-pick-your-first-research-project/)
+
+Jan. 20, 2016
+
+* [Vanishing Points; How to Compute Camera Orientation](https://www.coursera.org/learn/robotics-perception/lecture/flqF4/vanishing-points-how-to-compute-camera-orientation)
+
+Jan. 12, 2016
+
+* [MUSIC Algorithm in Chinese](http://zhangzhenyuan163.blog.163.com/blog/static/85819389201581343331233/)
+
 Dec. 28, 2016
 
 * [Introduction to Semi-Supervised Learning by Xiaojin Zhu](http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf)
