@@ -23,10 +23,12 @@ Jan. 21, 2016
 Jan. 20, 2016
 
 * [Vanishing Points; How to Compute Camera Orientation](https://www.coursera.org/learn/robotics-perception/lecture/flqF4/vanishing-points-how-to-compute-camera-orientation)
+* [The hero with a thousand faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
 
 Jan. 12, 2016
 
 * [MUSIC Algorithm in Chinese](http://zhangzhenyuan163.blog.163.com/blog/static/85819389201581343331233/)
+
 
 Dec. 28, 2016
 
