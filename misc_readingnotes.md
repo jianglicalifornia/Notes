@@ -14,6 +14,24 @@ To do list:
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 
 
+In progress:
+[Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
+
+Feb. 2, 2016
+
+* [How Machines Learn to Discriminate](http://infosci.cornell.edu/events/colloquia/information-science-colloquium-videos/solon-barocas-colloquium-video-%E2%80%93-february-17)
+
+
+Feb. 1, 2016
+
+* [Linguistic resistance](http://blogs.umass.edu/pspeas/2017/02/01/linguistic-resistance/)
+* [How technology is changing language and the way we think about the world](http://theconversation.com/how-technology-is-changing-language-and-the-way-we-think-about-the-world-35856)
+
+Jan. 29, 2016
+
+* [Rise of the Machines: A Cybernetic History](https://www.amazon.com/Rise-Machines-Cybernetic-Thomas-Rid/dp/0393286002)
+* [Cargo Cult](http://calteches.library.caltech.edu/51/2/CargoCult.pdf)
+
 Jan. 21, 2016
 
 * [Tiny Transactions on Computer Science (TinyToCS)](http://tinytocs.org/)

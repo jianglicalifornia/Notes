@@ -9,3 +9,9 @@ security
 - [Secure WebSockets with Jetty](http://amilamanoj.blogspot.com/2013/06/secure-websockets-with-jetty.html)
 - [Adding SSL Support to an Embedded Jetty Server](http://java.dzone.com/articles/adding-ssl-support-embedded)
 	
+
+
+
+#### Decompile Android APKs
+
+- [详解Androguard静态分析APK方法](http://blog.csdn.net/ybdesire/article/details/52629142)
