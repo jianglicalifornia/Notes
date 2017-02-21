@@ -17,33 +17,53 @@ To do list:
 In progress:
 [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
 
-Feb. 2, 2016
+Feb. 20, 2017
+
+* [Data and Algorithmic Bias in the Web by Richardo Baeza-Yates](https://www.youtube.com/watch?v=PgBkZiggNUk)
+
+Feb. 17, 2017
+
+* [Bradley-Terry model](https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model)
+
+
+Feb. 9, 2017
+
+* [Randy Pausch Lecture: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)
+
+Feb. 3, 2017
+
+* [The Man Who Invented Intelligent Traffic Control a Century Too Early](http://spectrum.ieee.org/geek-life/history/the-man-who-invented-intelligent-traffic-control-a-century-too-early)
+* [AI is getting smarter; Microsoft researchers want to ensure it’s also getting more accurate](https://www.microsoft.com/en-us/research/blog/ai-getting-smarter-microsoft-researchers-ensure-ai-accuracy/)
+* [Identifying Unknown Unknowns in the Open World: Representations and Policies for Guided Exploration](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/unknown_unknowns_identify_algo.pdf)
+
+
+Feb. 2, 2017
 
 * [How Machines Learn to Discriminate](http://infosci.cornell.edu/events/colloquia/information-science-colloquium-videos/solon-barocas-colloquium-video-%E2%80%93-february-17)
 
 
-Feb. 1, 2016
+Feb. 1, 2017
 
 * [Linguistic resistance](http://blogs.umass.edu/pspeas/2017/02/01/linguistic-resistance/)
 * [How technology is changing language and the way we think about the world](http://theconversation.com/how-technology-is-changing-language-and-the-way-we-think-about-the-world-35856)
 
-Jan. 29, 2016
+Jan. 29, 2017
 
 * [Rise of the Machines: A Cybernetic History](https://www.amazon.com/Rise-Machines-Cybernetic-Thomas-Rid/dp/0393286002)
 * [Cargo Cult](http://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 
-Jan. 21, 2016
+Jan. 21, 2017
 
 * [Tiny Transactions on Computer Science (TinyToCS)](http://tinytocs.org/)
 * [Machine Learning bias at Princeton](https://www.cs.princeton.edu/news/bias-machine-internet-algorithms-reinforce-harmful-stereotypes)
 * [How to pick your first research project](https://33bits.org/2013/11/01/how-to-pick-your-first-research-project/)
 
-Jan. 20, 2016
+Jan. 20, 2017
 
 * [Vanishing Points; How to Compute Camera Orientation](https://www.coursera.org/learn/robotics-perception/lecture/flqF4/vanishing-points-how-to-compute-camera-orientation)
 * [The hero with a thousand faces](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)
 
-Jan. 12, 2016
+Jan. 12, 2017
 
 * [MUSIC Algorithm in Chinese](http://zhangzhenyuan163.blog.163.com/blog/static/85819389201581343331233/)
 
