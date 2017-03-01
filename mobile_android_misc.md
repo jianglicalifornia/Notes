@@ -1,7 +1,7 @@
 Misc - Android 
 ==============
 
-- [OpenCV configuration in Android Studio](http://stackoverflow.com/questions/27406303/opencv-in-android-studio)
+- [OpenCV configuration in Android Studio](https://github.com/haojian/haojian.github.io/blob/master/resources/Instructions%20for%20installing%20OpenCV%20in%20Android%20Studio.pdf)
 
 
 ## MultiDex application compiling
