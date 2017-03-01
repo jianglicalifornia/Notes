@@ -1,6 +1,9 @@
 Misc - Android 
 ==============
 
+- [OpenCV configuration in Android Studio](http://stackoverflow.com/questions/27406303/opencv-in-android-studio)
+
+
 ## MultiDex application compiling
 
 - [guidance in chinese. describe the way to get multidex.jar](http://blog.csdn.net/t12x3456/article/details/40837287)
