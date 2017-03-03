@@ -17,6 +17,11 @@ To do list:
 In progress:
 [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
 
+
+Mar. 1, 2017
+
+* [Where are you going, where have you been?](http://www.cusd200.org/cms/lib7/IL01001538/Centricity/Domain/361/oates_going.pdf)
+
 Feb. 20, 2017
 
 * [Data and Algorithmic Bias in the Web by Richardo Baeza-Yates](https://www.youtube.com/watch?v=PgBkZiggNUk)
