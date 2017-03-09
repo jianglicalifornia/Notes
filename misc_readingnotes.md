@@ -18,6 +18,11 @@ In progress:
 [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
 
 
+Mar. 5, 2017
+
+* [Fairness and Bias](https://www.siop.org/_Principles/pages31to34.pdf)
+
+
 Mar. 1, 2017
 
 * [Where are you going, where have you been?](http://www.cusd200.org/cms/lib7/IL01001538/Centricity/Domain/361/oates_going.pdf)

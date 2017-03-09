@@ -26,6 +26,7 @@ Web
 ## web deployment.
 
 - [使用Tornado+Nginx部署Django的一种尝试](http://fendou.org/post/2012/06/01/tornad-nginx-django/)
+- [Idiomatic Django Deployment - The Definitely Definitive Guide](http://rogueleaderr.com/post/65157477648/the-idiomatic-guide-to-deploying-django-in)
 
 
 ## Lightweight webserver.
