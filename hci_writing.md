@@ -1,0 +1,5 @@
+## Writing notes for non-native speakers
+
+1. In related work, use past tense for XX et al. and use current tense for project name.
+2. Don't use the same word twice in the same sentence.
+3. Don't use abbrevations (e.g. "don't") in the paper writing.

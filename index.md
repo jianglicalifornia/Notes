@@ -33,13 +33,15 @@ HCI
 - [Math](hci_math.md)
 - [Matlab](hci_matlab.md)
 - [Mechanical Turk](hci_mechanicalturk.md)
+- [Misc](hci_misc.md)
 - [Latex](hci_latex.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
 - [Speech](hci_speechrec.md)
 - [Vision](hci_vision.md)
-- [Misc](hci_misc.md)
+- [Writing](hci_writing.md)
+
 
 DM/ML/NLP/CV
 ------
