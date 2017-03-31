@@ -22,6 +22,20 @@ Web
 
 - ghost localization: i18n for ghost;  [Transifex code injection approach](https://docs.transifex.com/integrations/ghost/)
 
+- common ghost commands
+	- `sudo service ghost restart`
+	
+- host multiple ghost on the same machine.
+	- [How To Serve Multiple Ghost Blogs on One VPS Using Nginx Server Blocks](https://www.digitalocean.com/community/tutorials/how-to-serve-multiple-ghost-blogs-on-one-vps-using-nginx-server-blocks)
+		- P.S. 1. pay attention to the user access. the default user access for upstart script is root users. However, by default root users have no access to node or npm.
+			- two ways to hack this problem. 1. add node package and npm to root users. 2. specify the user id in the upstart script or the original System V script.
+		- P.S. soft link the files in nginx configuration (sites-available and sites-enabled.)
+		- `init-checkconf ghost-main.conf `
+		- install npm for root users. `sudo apt-get install npm`
+		- install node for root users. `sudo ln -s /home/ubuntu/.nvm/versions/node/v4.2.6/bin/node /usr/bin/node`
+
+- [ghost-sqlite3-to-mysql](http://blog.benoitblanchon.fr/ghost-sqlite3-to-mysql/)
+- [MySQL: How to clone a database](https://makandracards.com/makandra/1605-mysql-how-to-clone-a-database) *working version*
 
 ## web deployment.
 

@@ -37,6 +37,11 @@ video editing
 - [pymovie](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/)
 
 
+### Shot detection configuration
+
+- when the environment doesn't met, try aptitude instead of "apt-get"
+	- don't accept the initial solution and then choose downgrade. 
+
 ### Performance in video decoding
 
 There are multiple ways to extract frames from a video. However the speed varies significantly.

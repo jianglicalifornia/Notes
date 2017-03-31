@@ -18,6 +18,22 @@ In progress:
 [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
 
 
+Mar. 30, 2017
+
+* [Sociable Robots and the Future of Social Relations](https://books.google.com/books?hl=en&lr=&id=RUAoBgAAQBAJ&oi=fnd&pg=PA5&dq=info:9vDMe0prkBIJ:scholar.google.com&ots=kMTEVc5Gok&sig=XTnYd-Y_CF6lI_eB7wCCUZ95Rl4#v=onepage&q&f=false)
+
+Mar. 24, 2017
+
+* [We Media: How audiences are shaping the future of news and information](http://www.hypergene.net/wemedia/download/we_media.pdf)
+
+Mar. 19, 2017
+
+* [The phd movie](http://www.acfun.cn/v/ac2006629)
+
+Mar. 18, 2017
+
+* [Machine learning hasn't been commoditized yet, but that doesn't mean you need a PhD](http://www.fast.ai/2017/03/17/not-commoditized-no-phd/)
+
 Mar. 5, 2017
 
 * [Fairness and Bias](https://www.siop.org/_Principles/pages31to34.pdf)
