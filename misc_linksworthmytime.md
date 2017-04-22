@@ -24,6 +24,7 @@ I collected some interesting websites here.
 - [暖乎乎](http://www.nuanhuhu.net/)
 - [Google Protyping engineer](http://smus.com/blog/)
 - [Li-Yi Wei's blog - graphic research](http://blog.liyiwei.org/)
+- [Research, Academics, Life from Sauvik](http://makewritelearn.com/lesson-learned-from-proposing-my-thesis-presenting)
 
 ##Research
 

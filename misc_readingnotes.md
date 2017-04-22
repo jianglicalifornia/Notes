@@ -2,7 +2,7 @@ Reading notes
 ==============
 
 To do list:
-
+* [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925)
 * [an introduction to feature selection](http://machinelearningmastery.com/an-introduction-to-feature-selection/)
 * [Feature selection from berkley eecs](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/feature/)
 * [Building Successful Online Communities: Evidence-Based Social Design by Bob Kraut]
@@ -15,8 +15,20 @@ To do list:
 
 
 In progress:
+
 [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
 
+Apr. 21, 2017
+
+* [How Uber surge pricing really works](https://www.washingtonpost.com/news/wonk/wp/2015/04/17/how-uber-surge-pricing-really-works/?utm_term=.8355b34a2946)
+
+Apr. 7, 2017
+
+* [Reallife Reinforcement Learning](http://www.cs.cmu.edu/~ebrun/15889e/index.html)
+
+Apr. 4, 2017
+
+* [John Maeda on the three types of design, the four quarters of life, and diversity](https://www.youtube.com/watch?v=LU3y-5Peh9A)
 
 Mar. 30, 2017
 

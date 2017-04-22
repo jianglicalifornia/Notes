@@ -10,6 +10,12 @@ Math
 - [Multiple Column Histogram](http://www.mathworks.com/matlabcentral/fileexchange/35275-matlab-plot-gallery-histogram-plot/content/html/Histogram_Plot.html)
 
 
+
+## Human Motion Tracking
+
+- [Human Motion Analysis](http://www.cs.toronto.edu/~urtasun/courses/ETH10/lecture1.pdf)
+- [Human Body Representation](http://www.cs.toronto.edu/~urtasun/courses/ETH10/lecture2.pdf)
+
 ##3D Coordination
 
 ** Overview **
