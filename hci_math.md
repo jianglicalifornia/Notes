@@ -1,6 +1,28 @@
 Math
 ===========
 
+## Math
+
+- [Spherical coordinate system](https://en.wikipedia.org/wiki/Spherical_coordinate_system)
+- [Horizontal coordinate system](https://en.wikipedia.org/wiki/Horizontal_coordinate_system)
+	- azimuth and elevation
+	- Two angles on perpendicular planes are sufficient to define a vector in 3D space. You could calculate the angle of the projection on the third plane (in this example, XY) using the first two angles. 
+	```
+	x = Math.cos(alpha)*Math.cos(beta);
+	z = Math.sin(alpha)*Math.cos(beta);
+	y = Math.sin(beta);
+	```
+- Rotation problems: 
+	1. two types of rotation: rotate the vector, rotate the axes.
+
+- [left/right hand coordination](http://www.euclideanspace.com/maths/geometry/space/coordinates/index.htm)
+
+## Satellite 
+
+- [azimuth and elevation (antenna look angle)](http://www.sattvengg.com/2013/10/azimuth-and-elevation-angle-antenna.html)
+
+
+
 ##MathJax
 
 - [Grammer reference](http://iori.sinaapp.com/17.html)

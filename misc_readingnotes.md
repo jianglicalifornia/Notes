@@ -18,8 +18,11 @@ In progress:
 
 [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
 
+- [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
+
 Apr. 21, 2017
 
+* [Ordering Pizza in the Future](https://www.youtube.com/watch?v=RNJl9EEcsoE)
 * [How Uber surge pricing really works](https://www.washingtonpost.com/news/wonk/wp/2015/04/17/how-uber-surge-pricing-really-works/?utm_term=.8355b34a2946)
 
 Apr. 7, 2017

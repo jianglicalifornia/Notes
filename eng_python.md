@@ -1,6 +1,19 @@
 python
 ===========
 
+## anaconda
+
+- [python2 and python3 at the same time](https://conda.io/docs/py2or3.html)
+	- 
+	```
+	conda create -n py35 python=3.5 anaconda
+	conda create -n py27 python=2.7 anaconda
+	```
+- Conda environment management
+	`conda env list`
+	`conda create --name flowers --clone snowflakes`
+	`source activate peppermint`
+
 
 ## python gui
 
