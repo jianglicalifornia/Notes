@@ -17,6 +17,14 @@ Math
 
 - [left/right hand coordination](http://www.euclideanspace.com/maths/geometry/space/coordinates/index.htm)
 
+- [Given vector of one axis, how do I find vectors of other two axes?](http://stackoverflow.com/questions/3049509/given-vector-of-one-axis-how-do-i-find-vectors-of-other-two-axes)
+	- 
+	```
+	Given: Two axes in an arbitrary-basis 3D coordinate system
+	To do this, find the cross product.
+	[a,b,c] x [d,e,f] = [ b*f - c*e, c*d - a*f, a*e - b*d ]
+	```
+
 ## Satellite 
 
 - [azimuth and elevation (antenna look angle)](http://www.sattvengg.com/2013/10/azimuth-and-elevation-angle-antenna.html)
