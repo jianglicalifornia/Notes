@@ -20,6 +20,16 @@ In progress:
 
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 
+
+May. 10, 2017
+
+* [What's interaction by Kasper Hornbak, SIGCHI 2017](http://www.kasperhornbaek.dk/presentations/CHI2017-WhatIsInteraction.pdf)
+	- Webster defines ‘interaction’ as ’mutual or reciprocal action or influence’. Clearly, humans act on computers and computers influence humans. But how? In what dimensions?
+
+May. 8, 2017
+
+* [Google and Facebook aren't fighting fake news with the right weapons](http://www.latimes.com/opinion/op-ed/la-oe-baum-lazer-how-to-fight-fake-news-20170508-story.html)
+
 Apr. 21, 2017
 
 * [Ordering Pizza in the Future](https://www.youtube.com/watch?v=RNJl9EEcsoE)

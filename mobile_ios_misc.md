@@ -1,6 +1,11 @@
 Mobile ios misc 
 ==============
 
+
+## deployment
+
+- [beta test without uuid](https://subodhnpushpak.wordpress.com/2015/01/05/deploying-ios-apps-without-udid-to-beta-testers-using-testflight-beta-testing/)
+
 ## Network
 - NSOutputStream 
 	- (NSInteger)write:(const uint8_t *)buffer maxLength:(NSUInteger)len;

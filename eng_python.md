@@ -1,6 +1,19 @@
 python
 ===========
 
+## tricks
+
+- [Multi-level defaultdict with variable depth?](http://stackoverflow.com/questions/5369723/multi-level-defaultdict-with-variable-depth)
+	```
+	from collections import defaultdict
+
+	l=lambda:defaultdict(l)
+	table=l()
+
+	table[0][1][2][3][4][5]=6
+	```
+
+
 ## anaconda
 
 - [python2 and python3 at the same time](https://conda.io/docs/py2or3.html)
