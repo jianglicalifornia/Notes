@@ -21,6 +21,25 @@ In progress:
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 
 
+May. 26, 2017
+
+* [MOSSBERG: THE DISAPPEARING COMPUTER](https://www.theverge.com/2017/5/25/15686870/walt-mossberg-final-column-the-disappearing-computer)
+
+* [How to Predict If a Borrower Will Pay You Back](http://nymag.com/scienceofus/2017/05/what-the-words-you-use-in-a-loan-application-reveal.html?mid=twitter-share-scienceofus): "debt-free, lower interest rate, after-tax, minimum payment, graduate." v.s. "God, promise, will pay, thank you, hospital."
+
+* [Want a Loan in China? Keep Your Phone Charged](https://www.wsj.com/articles/want-a-loan-in-china-keep-your-phone-charged-1491474250)
+
+May. 23, 2017
+
+* Price discrimination: [The Tiger Mom Tax: Asians Are Nearly Twice as Likely to Get a Higher Price from Princeton Review](https://www.propublica.org/article/asians-nearly-twice-as-likely-to-get-higher-price-from-princeton-review)
+
+
+May. 22, 2017
+
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://pathak22.github.io/noreward-rl/)
+* [Uber Starts Charging What It Thinks You’re Willing to Pay](https://www.bloomberg.com/news/articles/2017-05-19/uber-s-future-may-rely-on-predicting-how-much-you-re-willing-to-pay)
+
+
 May. 10, 2017
 
 * [What's interaction by Kasper Hornbak, SIGCHI 2017](http://www.kasperhornbaek.dk/presentations/CHI2017-WhatIsInteraction.pdf)
