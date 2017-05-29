@@ -24,7 +24,7 @@ In progress:
 May. 28, 2017
 
 * [Success through social physics | Alex 'Sandy' Pentland](https://www.youtube.com/watch?v=C-wHdSJM_GI)
-
+* [How social networks make us smarter | Alex 'Sandy' Pentland ](https://www.youtube.com/watch?v=XAGBBt9RNbc)
 
 May. 27, 2017
 
