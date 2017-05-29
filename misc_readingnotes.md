@@ -21,6 +21,16 @@ In progress:
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 
 
+May. 28, 2017
+
+* [Success through social physics | Alex 'Sandy' Pentland](https://www.youtube.com/watch?v=C-wHdSJM_GI)
+
+
+May. 27, 2017
+
+* [Interacting with an Inferred World: The Challenge of Machine Learning for Humane Computer Interaction](file:///Users/haojian/Downloads/21197-50541-1-PB.pdf)
+
+
 May. 26, 2017
 
 * [MOSSBERG: THE DISAPPEARING COMPUTER](https://www.theverge.com/2017/5/25/15686870/walt-mossberg-final-column-the-disappearing-computer)
