@@ -21,6 +21,13 @@ In progress:
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 
 
+May. 30, 2017
+
+* [Fei Fang, "Game-Theoretic Approaches for "real-world" Sustainability Challenges"](https://www.youtube.com/watch?v=OqV_JGPUtbc)
+* [Human Behavior Models for Virtual Agents in Repeated Decision Making under Uncertainty](http://people.seas.harvard.edu/~myin/AAMAS-15/fp355-yin.pdf)
+* [Reflections of an "Old" Programmer](http://bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
+* [Human Input to Computer Systems:  Theories, Techniques and Technology](http://www.billbuxton.com/inputManuscript.html)
+
 May. 28, 2017
 
 * [Success through social physics | Alex 'Sandy' Pentland](https://www.youtube.com/watch?v=C-wHdSJM_GI)
