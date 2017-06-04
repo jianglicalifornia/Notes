@@ -12,7 +12,8 @@ python
 
 	table[0][1][2][3][4][5]=6
 	```
-
+	
+- [Cython](https://moonlet.gitbooks.io/cython-document-zh_cn/content/ch3-using_c_libraries.html)
 
 ## anaconda
 

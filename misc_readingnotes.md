@@ -21,6 +21,11 @@ In progress:
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 - [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf)
 
+June. 2, 2017
+
+* [Secure sharing of geospatial wildlife data](http://dl.acm.org/citation.cfm?id=3080550)
+* [Reality Mining of Mobile Communications: Toward a New Deal on Data](http://hd.media.mit.edu/wef_globalit.pdf)
+
 May. 30, 2017
 
 * [Fei Fang, "Game-Theoretic Approaches for "real-world" Sustainability Challenges"](https://www.youtube.com/watch?v=OqV_JGPUtbc)

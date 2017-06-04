@@ -29,6 +29,7 @@ Engineering
 HCI
 ------
 
+- [3D math](hci_3dmath.md)
 - [Infomation Visualization](hci_infovis.md)
 - [Kalman Filter](hci_kalmanfilter.md)
 - [Math](hci_math.md)
