@@ -21,6 +21,12 @@ In progress:
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 - [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf)
 
+
+June. 3, 2017
+
+* [Get Ready for the Next Big Privacy Backlash Against Facebook](https://www.wired.com/2017/05/welcome-next-phase-facebook-backlash/)
+* [User Identity Linkage across Online Social Networks: A Review](http://www.public.asu.edu/~skai2/files/kdd_exp_kai.pdf)
+
 June. 2, 2017
 
 * [Secure sharing of geospatial wildlife data](http://dl.acm.org/citation.cfm?id=3080550)

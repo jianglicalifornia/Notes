@@ -27,6 +27,8 @@ Signal Processing
 - [Online filter generation](http://www-users.cs.york.ac.uk/~fisher/mkfilter/) 
 	- [How to use it](http://stackoverflow.com/questions/664877/i-need-to-implement-a-butterworth-filter-in-c-is-it-easier-get-a-library-with-t)  
 	
+- [Kalman Filter](http://nbviewer.jupyter.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
+	
 	
 ## Signal Smoothing
 
