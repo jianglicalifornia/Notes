@@ -18,22 +18,15 @@
 
 ##### Blender
 
-- [run external code](https://stackoverflow.com/questions/11604548/running-python-script-in-blender)
-You can also execute the following code in the python console to execute an external script without opening it up in the text editor:
-
-filename = "/full/path/to/myscript.py"
-exec(compile(open(filename).read(), filename, 'exec'))
-The above code comes from the following link:
-
-- [Blender debugging in pycharm](https://code.blender.org/2015/10/debugging-python-code-with-pycharm/)
-
-- Default Blender python path:
-	- Mac: 
-		cd /Applications/blender/blender.app/Contents/Resources/2.78/python/bin
-		python3.5m -m pip install flask
-	- Windows
-	
 - [The best way to setup blender environment](https://blender.stackexchange.com/questions/41258/install-python-module-for-blender)
 
+- [run external code](https://stackoverflow.com/questions/11604548/running-python-script-in-blender)
 
-- [Start Blender from terminal]: "/Applications/blender/blender.app/Contents/MacOS/blender"
+- Alternative approaches: 
+	- [Blender debugging in pycharm](https://code.blender.org/2015/10/debugging-python-code-with-pycharm/)
+
+- Default Blender Python path: 
+	- Mac: `/Applications/blender/blender.app/Contents/Resources/2.78/python/bin/python3.5m`
+
+- Start blender from the terminal, so we can see the printout commands.
+	- `/Applications/blender/blender.app/Contents/MacOS/blender`
