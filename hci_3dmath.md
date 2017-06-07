@@ -15,6 +15,9 @@
 
 - [Character creation](https://www.youtube.com/watch?v=DiIoWrOlIRw)
 
+- VPython:
+	- the right one is from visual import *
+	- 
 
 ##### Blender
 
@@ -30,3 +33,5 @@
 
 - Start blender from the terminal, so we can see the printout commands.
 	- `/Applications/blender/blender.app/Contents/MacOS/blender`
+
+

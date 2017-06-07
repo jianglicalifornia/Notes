@@ -14,6 +14,12 @@ python
 	```
 	
 - [Cython](https://moonlet.gitbooks.io/cython-document-zh_cn/content/ch3-using_c_libraries.html)
+- [Cython comprehensive view](http://docs.cython.org/en/latest/)
+
+- [cpython example](https://equatorialmaths.wordpress.com/2010/10/16/python-extensions-with-c-libraries-made-easy-by-cython/)
+
+- To generate matlab coder exported code: [link](https://stackoverflow.com/questions/37044984/how-to-use-generated-code-from-matla)
+	- `make -f music_estimate_simple_rtw.mk`
 
 ## anaconda
 

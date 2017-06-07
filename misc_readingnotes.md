@@ -22,6 +22,16 @@ In progress:
 - [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf)
 
 
+
+June. 6, 2017
+
+* [AI predicts outcomes of human rights trials](http://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials)
+* [Effective documentation and exposure are vital factors in the fight against human rights violations.](http://www.videreonline.org/)
+* [The panama papers](https://panamapapers.icij.org/)
+* [Your Weekly Constitutional STEWART HARRIS - NEWS & POLITICS](http://podbay.fm/show/439735399)
+* [Erik Demaine's Folding and Unfolding Page](http://erikdemaine.org/folding/)
+
+
 June. 3, 2017
 
 * [Get Ready for the Next Big Privacy Backlash Against Facebook](https://www.wired.com/2017/05/welcome-next-phase-facebook-backlash/)
