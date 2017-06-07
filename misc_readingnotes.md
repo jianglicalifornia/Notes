@@ -21,6 +21,10 @@ In progress:
 - [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
 - [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf)
 
+- [Kiln People](https://en.wikipedia.org/wiki/Kiln_People)
+	- set in a future where cameras are everywhere and anyone can access the public ones and, for a fee, the private ones.
+
+- [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
 June. 6, 2017
