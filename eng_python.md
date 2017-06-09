@@ -21,6 +21,27 @@ python
 - To generate matlab coder exported code: [link](https://stackoverflow.com/questions/37044984/how-to-use-generated-code-from-matla)
 	- `make -f music_estimate_simple_rtw.mk`
 
+
+## Matlab and python
+
+- Multiple ways to interface matlab and python:
+	- matlab engine api
+	- export the code (matlab coder) => c code 
+
+
+- Matlab coder => C code => python (OSX version)
+	- generate dynamic library through matlab coder.
+	- modify the mk file and change the production file into ".so" file (only need to change one place).
+	- [cpython example](https://equatorialmaths.wordpress.com/2010/10/16/python-extensions-with-c-libraries-made-easy-by-cython/)
+
+
+- Matlab coder => C code => python (Windows version)
+	- Generate dynamic library in Matlab
+	- prepare a directory with setup.py, test.py, and m.pyx, 
+	- copy all the files from the dynmiac library generated from Matlab (dll)
+
+
+
 ## anaconda
 
 - [python2 and python3 at the same time](https://conda.io/docs/py2or3.html)
