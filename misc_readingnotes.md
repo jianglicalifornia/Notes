@@ -27,6 +27,10 @@ In progress:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+June. 8, 2017
+
+* [How To Choose a Good Scientific Problem](http://www.sciencedirect.com/science/article/pii/S1097276509006418?via%3Dihub)
+
 June. 6, 2017
 
 * [AI predicts outcomes of human rights trials](http://www.ucl.ac.uk/news/news-articles/1016/241016-AI-predicts-outcomes-human-rights-trials)

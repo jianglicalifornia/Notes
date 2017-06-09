@@ -37,8 +37,10 @@ python
 
 - Matlab coder => C code => python (Windows version)
 	- Generate dynamic library in Matlab
+	- toolchain use the "automatically" => make sure the test works.
 	- prepare a directory with setup.py, test.py, and m.pyx, 
 	- copy all the files from the dynmiac library generated from Matlab (dll)
+	- If cannot find "stdlib" (e.g. malloc, free), use the numpy array instead. [example](http://www.jianshu.com/p/1918e580581d)
 
 
 
