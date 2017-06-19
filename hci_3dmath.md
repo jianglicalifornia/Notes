@@ -1,6 +1,16 @@
 3D Math
 ==============
 
+
+##### Coord Transform
+
+- [from 2d to 3d](http://www.continuummechanics.org/coordxforms.html)
+	- cordination transform
+	
+- [绕坐标轴的旋转变换](http://blog.sina.com.cn/s/blog_6163bdeb0102dujs.html)
+
+- [How GPS works](http://gclie.users.sonic.net/gclie/GPS.pdf)
+
 ##### 2dof rotation matrix
 
 

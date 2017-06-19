@@ -27,6 +27,38 @@ In progress:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+June. 15, 2017
+
+* [American time use survey](https://pbs.twimg.com/media/DBvwryNXYAM11tW.jpg:large)
+* [Unearthing Hidden Biases in SAT Exam Scores](http://ritvikmath.com/SAT_Analysis/)
+* [Making Humans a Multi-Planetary Species](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
+
+June. 14, 2017
+
+* [Sweetness and Power: The Place of Sugar in Modern History](https://www.amazon.com/Sweetness-Power-Place-Modern-History/dp/0140092331)
+* [Forces of Habits - cn](http://ir.fy.edu.tw/ir/bitstream/987654321/7334/1/%E4%B8%8A%E7%99%AE%E4%BA%94%E7%99%BE%E5%B9%B4-%E9%82%B1%E6%99%BA%E8%97%BB(%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%B8%E9%A1%9E).pdf)
+
+
+June. 12, 2017
+
+* [Jeff Schechtman's "Specific Gravity"](http://specific-gravity.blogspot.com/)
+
+* [What Stays In Vegas, the world of Personal Data-Lifeblood of Big Business-and the End of Privacy as we know it](https://www.youtube.com/watch?v=8Q18dNgkgqM)
+	- [amazon link](https://www.amazon.com/dp/B00JNYDHVS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) need to find a time to read it.
+
+June. 11, 2017
+
+* [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
+* [Program Committees and Paper Selection
+](https://greatresearch.org/2013/10/25/program-committees-and-paper-selection/). A nice and detailed article introduces the way PC meeting works.
+
+Economics and Policy: 
+
+* [BitStore: An Incentive-Compatible Solution for Blocked
+Downloads in BitTorrent](https://www.researchgate.net/profile/Nick_Feamster/publication/228847595_BitStore_An_incentive-compatible_solution_for_blocked_downloads_in_Bittorrent/links/02e7e520f3119b5785000000.pdf) Micropayment for bittorrent downloads and negotiation.
+
+* [Towards a cost model for network traffic](http://www.caida.org/publications/papers/2012/cost_model_network_traffic/cost_model_network_traffic.pdf)
+
 June. 8, 2017
 
 * [How To Choose a Good Scientific Problem](http://www.sciencedirect.com/science/article/pii/S1097276509006418?via%3Dihub)
