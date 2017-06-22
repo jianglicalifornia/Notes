@@ -1,6 +1,10 @@
 Links worth my time
 =================
 
+## Chinese Media 
+
+- [《贰时代》评论专栏](http://news.ifeng.com/opinion/zhuanlan/pancaifu/list_0/0.shtml)
+
 ##Nice visualization
 
 - [research resume visualization](http://www.inputdesignoutput.com/gonzalo/documents/gonzalo.ramos.pdf)
@@ -51,6 +55,7 @@ I collected some interesting websites here.
 - [Drone it yourself](http://jaspervanloenen.com/diy/)
 - [DIY Photo origami](http://foldplay.com/foldplay.action)
 - [我爱模型](http://www.5imx.com/)
+
 
 ##Novels
 - [The Unincorporated Man](http://www.amazon.com/The-Unincorporated-Man-Dani-Kollin/dp/B005DI93O8#customerReviews)

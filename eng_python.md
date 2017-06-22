@@ -41,6 +41,8 @@ python
 	- prepare a directory with setup.py, test.py, and m.pyx, 
 	- copy all the files from the dynmiac library generated from Matlab (dll)
 	- If cannot find "stdlib" (e.g. malloc, free), use the numpy array instead. [example](http://www.jianshu.com/p/1918e580581d)
+	- run "python setup.py build_ext -i" to compile the c code into pyd file
+	- run the test code through "python test.py" 
 
 
 
