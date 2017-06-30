@@ -11,14 +11,6 @@ $$ S_k = [P_x, P_y, P_z]^T$$
 Besides, we define the movements inferred from IMU as the control model. 
 $$ u_k = [\Delta x, \Delta y, \Delta z]^T$$
 
-
-
-
-## DeadReckoning
-
-[Multi-sensor fusion in Kalman Filter with different data rates](http://www.rcgroups.com/forums/showthread.php?t=1215585)
-[Slides about sensor details](http://www.slideshare.net/paller/motion-recognition-with-android-devices)
-
 ## Extended Kalman Filfter v2
 
 

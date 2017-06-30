@@ -12,6 +12,12 @@ Signal Processing
 - [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) 
 	- a very good top-down learning tutorial
 
+## Dead reckoning
+
+- [Multi-sensor fusion in Kalman Filter with different data rates](http://www.rcgroups.com/forums/showthread.php?t=1215585)
+
+- [Slides about sensor details](http://www.slideshare.net/paller/motion-recognition-with-android-devices)
+
 
 ## Tracking toolkit
 - [1€ Filter](http://www.lifl.fr/~casiez/1euro/)
