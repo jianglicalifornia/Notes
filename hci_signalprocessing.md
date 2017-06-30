@@ -1,6 +1,18 @@
 Signal Processing
 ===========
 
+## Kalman filter
+
+- [pykalman](https://pykalman.github.io/)
+	- easy to use, install and apply.
+	
+- [Some Python Implementations of the Kalman Filter](https://github.com/balzer82/Kalman)
+	- lots of good application examples
+	
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) 
+	- a very good top-down learning tutorial
+
+
 ## Tracking toolkit
 - [1€ Filter](http://www.lifl.fr/~casiez/1euro/)
 

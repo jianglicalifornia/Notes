@@ -27,8 +27,33 @@ In progress:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+June. 30, 2017
+
+* [interesting research on future traffic infrastructure](http://www.wucathy.com/blog/?page_id=2345)
+	- they view the whole society as a dynamic control system!
+	
+* [On-demand high-capacity ride-sharing via dynamic trip-vehicle assignment](http://www.pnas.org/content/114/3/462.abstract)
+
+* [smart city from the civil and environmental engineering perspectives](http://cee.cornell.edu/samitha/publist.html)
+
+June. 29, 2017
+
+* [What works in e-commerce - a meta-analysis of 6700 online experiments](http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf)
+* [Estimating the Return to College Selectivity over the Career Using Administrative Earnings Data](https://link.zhihu.com/?target=http%3A//www.nber.org/papers/w17159)
+* [Access to Elite Education, Wage Premium, and Social Mobility: The Truth and Illusion of China’s College Entrance Exam](http://scid.stanford.edu/sites/default/files/publications/577wp_1.pdf)
+
+June. 28, 2017
+
+* [HOW TO THINK LIKE AN MIT MEDIA LAB INVENTOR | RAMESH RASKAR](http://www.tedxbeaconstreet.com/ramesh-raskar/)
+
+June. 26, 2017
+
+* [The computer scientist as toolsmith 2](http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf)
+	- The scientist builds in order to study; the engineer studies in order to build. 
+
 June. 15, 2017
 
+* [Video streaming quality results for Pittsburgh, PA](https://www.google.com/get/videoqualityreport/?v=OLwxrPiGLXs)
 * [American time use survey](https://pbs.twimg.com/media/DBvwryNXYAM11tW.jpg:large)
 * [Unearthing Hidden Biases in SAT Exam Scores](http://ritvikmath.com/SAT_Analysis/)
 * [Making Humans a Multi-Planetary Species](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
