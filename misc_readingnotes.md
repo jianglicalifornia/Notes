@@ -27,6 +27,10 @@ In progress:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+July. 6, 2017
+
+* [https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/](https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/)
+
 June. 30, 2017
 
 * [interesting research on future traffic infrastructure](http://www.wucathy.com/blog/?page_id=2345)
