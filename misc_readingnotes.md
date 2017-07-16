@@ -27,6 +27,23 @@ In progress:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+July. 15, 2017
+
+* [Self-Folding Crawler: A Transformer-style Origami Robot](http://thekidshouldseethis.com/post/self-folding-crawler-a-transformer-style-origami-robot)
+* [Haruki Nakamura's adorable creative papertoys](http://golem13.fr/haruki-nakamura/)
+	- LOVE IT!
+* [materail deformations and internal rearrangements](https://bertoldi.seas.harvard.edu/files/bertoldi/files/bas_nature.pdf)
+
+
+July. 11, 2017
+
+* [the 4 types of innovation and the problems they solve](https://hbr.org/2017/06/the-4-types-of-innovation-and-the-problems-they-solve)
+	- diagram helps. 
+	- i want to build a skill that i can fill in content in any quadrant and make the theory more scientific. seriously!
+* [“I wake up in cold sweats every so often thinking, what did we bring to the world?” ](https://www.fastcodesign.com/90132364/nest-founder-i-wake-up-in-cold-sweats-thinking-what-did-we-bring-to-the-world)
+	- not fully agree but still worth a documentation.
+
+
 July. 6, 2017
 
 * [https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/](https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/)
