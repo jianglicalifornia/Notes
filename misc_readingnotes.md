@@ -1,33 +1,54 @@
 Reading notes
 ==============
 
-To do list:
-* [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925)
+
+In progress and to do list:
+
+- [The Language of Food: A Linguist Reads the Menu](https://web.stanford.edu/~jurafsky/thelanguageoffood.html) - 5
+	- from a stanford prof. keynote speaker in cvpr.
+	- there is an interesting course in stanford: [Food Talks: The Language of Food](https://web.stanford.edu/class/think53/)
+	- Haha: Intellectually engage with an important part of their lives and develop a reflective dimension that will enrich their current and future lives.
+- [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Popular-Science/dp/0192860925) - 4 
+- [Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548) - 4
+- [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf) - 4
+- [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf) - 4
+- [Kiln People](https://en.wikipedia.org/wiki/Kiln_People)
+	- set in a future where cameras are everywhere and anyone can access the public ones and, for a fee, the private ones.
+- [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
+
+
+July. 23, 2017
+
 * [an introduction to feature selection](http://machinelearningmastery.com/an-introduction-to-feature-selection/)
 * [Feature selection from berkley eecs](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/feature/)
 * [Building Successful Online Communities: Evidence-Based Social Design by Bob Kraut]
 	- chapter 3: encoraging commitment in online communities.
 * [Building a machine learning product – Data and features](https://nudgr.io/blog/building-a-machine-learning-product-data-and-features/)
-* [Submodularity](http://submodularity.org/)
-* [Artificial Intelligence: Representation and Problem Solving at CMU](http://www.cs.cmu.edu/~15781/)
-* [ccSVM: correcting Support Vector Machines for confounding factors in biological data classification](http://bioinformatics.oxfordjournals.org/content/27/13/i342.full.pdf+html)
-* [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+	- a good tutorial to tell people what's features in ml.
+
+July. 21, 2017
+
+* [Heilmeier's standard set of questions](http://www.design.caltech.edu/erik/Misc/Heilmeier_Questions.html)
+	- Everyone in HCII likes that set of questions so much!!!
+
+* iterative art definition:  "Art" at time tt is defined by the "artists" of time t−1.t−1.  "Artists" at time tt are people who produced the "art" of time t−1.t−1.
+
+* [The world has become obsessed with elites](https://www.economist.com/news/books-and-arts/21711859-obsession-meaningless-without-proper-focus-world-has-become-obsessed?fsrc=scn/fb/te/bl/ed/theworldhasbecomeobsessedwithelites)
+
+July. 18, 2017
+
+* [Is This Time Different? The Opportunities and Challenges of Artificial Intelligence](https://obamawhitehouse.archives.gov/sites/default/files/page/files/20160707_cea_ai_furman.pdf)
 
 
-In progress:
+July. 17, 2017
 
-[Virtual Words: Language on the edge of science and technology](https://www.amazon.com/Virtual-Words-Language-Science-Technology/dp/0195398548)
+* [Data Discrimination Means the Poor May Experience a Different Internet](https://www.technologyreview.com/s/520131/data-discrimination-means-the-poor-may-experience-a-different-internet/)
+	- a thoughtful article in the chaotic topic.
+	
+* [Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2325784)
 
-- [On Bullshit by Harry G. Frankfurt](https://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)
-- [The Road to Serfdom - cn version](http://bjzc.org/lib/61/ts061099.pdf)
-
-- [Kiln People](https://en.wikipedia.org/wiki/Kiln_People)
-	- set in a future where cameras are everywhere and anyone can access the public ones and, for a fee, the private ones.
-
-- [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
-
-
-July. 15, 2017
+* Need to time technology well: 2007 was good time to launch iPhone; but not 1993 (Apple Newton) since battery/screen/chip tech not there.
+	 * James Landay Retweeted Andrew Ng Size and over-selling bad handwriting rec were a problem. Yes, much tech issues but **design mistakes** as well
 
 * [Self-Folding Crawler: A Transformer-style Origami Robot](http://thekidshouldseethis.com/post/self-folding-crawler-a-transformer-style-origami-robot)
 * [Haruki Nakamura's adorable creative papertoys](http://golem13.fr/haruki-nakamura/)
