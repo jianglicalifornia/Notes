@@ -17,8 +17,20 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
-July. 23, 2017
+July. 26, 2017
 
+* [“Tire Tracks” poster and brochure – “Continuing Innovation in Information Technology”](http://www.cccblog.org/2012/12/02/tire-tracks-poster-and-brochure-continuing-innovation-in-information-technology/)
+* [Dip Transform for 3D Shape Reconstruction](http://irc.cs.sdu.edu.cn/3dshape/)
+	- bravo idea! it should be the best of 2017 for me.
+* [3D Printing A Fabulous Lion](http://i.imgur.com/4pMqVUV.gifv)
+* [Oculus Glove](https://www.facebook.com/HCI.Research/videos/1383665318338015/)
+
+July. 25, 2017
+
+* [我功利，可是我公平——经济学家真的不在乎公平吗？](https://zhuanlan.zhihu.com/p/28081986)
+
+July. 23, 2017
+* [](https://www.worldpulse.com/en/community/users/kujamac12/posts/74996)
 * [an introduction to feature selection](http://machinelearningmastery.com/an-introduction-to-feature-selection/)
 * [Feature selection from berkley eecs](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/feature/)
 * [Building Successful Online Communities: Evidence-Based Social Design by Bob Kraut]
