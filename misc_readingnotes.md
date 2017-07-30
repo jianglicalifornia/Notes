@@ -17,6 +17,19 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+July. 30, 2017
+
+July. 29, 2017
+
+* [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html)
+	* Get out sooner, rather than later.
+* [See what the internet was doing 10 years ago](http://tenyearsago.io/)
+
+July. 27, 2017
+
+* [Is This Time Different? The Opportunities and Challenges of Artificial Intelligence](https://obamawhitehouse.archives.gov/sites/default/files/page/files/20160707_cea_ai_furman.pdf)
+
+
 July. 26, 2017
 
 * [“Tire Tracks” poster and brochure – “Continuing Innovation in Information Technology”](http://www.cccblog.org/2012/12/02/tire-tracks-poster-and-brochure-continuing-innovation-in-information-technology/)
@@ -30,7 +43,8 @@ July. 25, 2017
 * [我功利，可是我公平——经济学家真的不在乎公平吗？](https://zhuanlan.zhihu.com/p/28081986)
 
 July. 23, 2017
-* [](https://www.worldpulse.com/en/community/users/kujamac12/posts/74996)
+
+* [You're Not Late! You're Not Early](https://www.worldpulse.com/en/community/users/kujamac12/posts/74996)
 * [an introduction to feature selection](http://machinelearningmastery.com/an-introduction-to-feature-selection/)
 * [Feature selection from berkley eecs](https://people.eecs.berkeley.edu/~jordan/courses/294-fall09/lectures/feature/)
 * [Building Successful Online Communities: Evidence-Based Social Design by Bob Kraut]
