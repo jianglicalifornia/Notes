@@ -17,7 +17,14 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
-July. 30, 2017
+Aug. 16, 2017
+
+* [Social Cybersecurity, or, A Computer Scientist's View of HCI and Theory, at HCIC 2015](https://www.slideshare.net/jas0nh0ng/social-cybersecurity-applying-social-psychology-to-cybersecurity-or)
+	- very nice one.
+
+Aug. 6, 2017
+
+* [Bill Thies, Mac Author Genius Award, Microsoft Research India](https://www.youtube.com/watch?v=o-3hXG7vV7Y)
 
 July. 29, 2017
 
