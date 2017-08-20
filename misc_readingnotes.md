@@ -17,6 +17,10 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+Aug. 19, 2017
+
+* [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?smid=tw-share)
+
 Aug. 16, 2017
 
 * [Social Cybersecurity, or, A Computer Scientist's View of HCI and Theory, at HCIC 2015](https://www.slideshare.net/jas0nh0ng/social-cybersecurity-applying-social-psychology-to-cybersecurity-or)
