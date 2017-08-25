@@ -17,6 +17,12 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+Aug. 23, 2017
+
+* [machine intelligence makes human morals more important](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important)
+	- open question. not single answer question.
+	- we cannot outsource the moral responsibility to machines.
+
 Aug. 19, 2017
 
 * [How Uber Uses Psychological Tricks to Push Its Drivers’ Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?smid=tw-share)
