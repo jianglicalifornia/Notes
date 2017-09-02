@@ -4,6 +4,10 @@
 
 ----
 
+
+
+
+
 Sept. 2, 2017:
 
 Jason's favorite diagrams
@@ -17,3 +21,9 @@ Pasteur's Quadrant: Good science + good applications
 
 <img src="photos/diagrams/pasteur.jpg" width = "400px"/>
 
+
+June. 15, 2017:
+
+American time use survey
+
+<img src="photos/diagrams/americantimesurvey.jpg" width = "400px"/>

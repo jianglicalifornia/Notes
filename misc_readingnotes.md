@@ -51,7 +51,7 @@ July. 26, 2017
 
 * [“Tire Tracks” poster and brochure – “Continuing Innovation in Information Technology”](http://www.cccblog.org/2012/12/02/tire-tracks-poster-and-brochure-continuing-innovation-in-information-technology/)
 * [Dip Transform for 3D Shape Reconstruction](http://irc.cs.sdu.edu.cn/3dshape/)
-	- bravo idea! it should be the best of 2017 for me.
+	- bravo idea! the best of 2017.
 * [3D Printing A Fabulous Lion](http://i.imgur.com/4pMqVUV.gifv)
 * [Oculus Glove](https://www.facebook.com/HCI.Research/videos/1383665318338015/)
 
@@ -110,7 +110,7 @@ July. 11, 2017
 
 July. 6, 2017
 
-* [https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/](https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/)
+* ["Pursuing transparency and accountability for both humans and machines"](https://www.listbox.com/member/archive/247/2017/07/sort/time_rev/page/1/entry/16:25/20170703170443:3A99079E-6033-11E7-858C-A9015F44CD70/)
 
 June. 30, 2017
 
