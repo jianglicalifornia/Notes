@@ -8,7 +8,7 @@ Sept. 2, 2017:
 
 Jason's favorite diagrams
 
-<img src="jason_fav_diagrams.jpg" width = "400px"/>
+<img src="photos/diagrams/jason_fav_diagrams.jpg" width = "400px"/>
 
 
 Aug. 16, 2017: 
