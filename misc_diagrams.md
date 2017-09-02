@@ -26,4 +26,4 @@ June. 15, 2017:
 
 American time use survey
 
-<img src="photos/diagrams/americantimesurvey.jpg" width = "400px"/>
+<img src="photos/diagrams/americantimesurvey.jpeg" width = "400px"/>
