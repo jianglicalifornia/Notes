@@ -1,6 +1,4 @@
-## Diagrams
-
-### Hoard these insightful diagrams.
+## Hoard these insightful diagrams.
 
 ----
 
