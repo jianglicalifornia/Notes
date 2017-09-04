@@ -17,6 +17,11 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+
+Sept. 3, 2017
+
+* [Targeted Ads Don’t Just Make You More Likely to Buy — They Can Change How You Think About Yourself](https://hbr.org/2016/04/targeted-ads-dont-just-make-you-more-likely-to-buy-they-can-change-how-you-think-about-yourself)
+
 Aug. 23, 2017
 
 * [machine intelligence makes human morals more important](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important)
