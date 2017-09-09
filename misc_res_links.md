@@ -17,7 +17,7 @@ Links
 - [Giving and Academic Talk](http://www.cs.berkeley.edu/~jrs/speaking.html)
 - [HackMyResume](http://please.hackmyresume.com/)
 
-
+- [LOL MY THESIS](http://lolmythesis.com/post/69929678102/sometimes-asian-people-are-exoticized-in-the)
 ###Life
 
 - [GoogleEmailCopy](http://www.goodemailcopy.com/)

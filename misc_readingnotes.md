@@ -17,6 +17,9 @@ In progress and to do list:
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
 
+Sept. 8, 2017
+
+* [The End of Privacy, Keynote at CeBIT'17](https://www.youtube.com/watch?v=DYhAM34Hhzc&feature=youtu.be)
 
 Sept. 3, 2017
 
