@@ -20,6 +20,7 @@ In progress and to do list:
 Sept. 8, 2017
 
 * [The End of Privacy, Keynote at CeBIT'17](https://www.youtube.com/watch?v=DYhAM34Hhzc&feature=youtu.be)
+	- disagree with the most points. 
 
 Sept. 3, 2017
 
