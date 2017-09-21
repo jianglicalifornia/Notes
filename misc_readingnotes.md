@@ -16,6 +16,12 @@ In progress and to do list:
 	- set in a future where cameras are everywhere and anyone can access the public ones and, for a fee, the private ones.
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
 
+- Sam Harris
+
+
+Sept. 9, 2017
+
+* To advance the field of HCI, while serving others in excelling at the work of HCI - Understanding today and creating a better tomorrow through the products, services, systems and organizations that we create. - Jodi
 
 Sept. 8, 2017
 
