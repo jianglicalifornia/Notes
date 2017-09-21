@@ -7,7 +7,7 @@ Sept. 21, 2017
 
 Heilmeier Catechism
 
-<img src="photos/diagrams/heilmeiers_questions.jpg" width = "400px"/>
+<img src="photos/diagrams/heilmeier_questions.jpg" width = "400px"/>
 
 
 Sept. 2, 2017:
