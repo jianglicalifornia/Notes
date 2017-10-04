@@ -19,6 +19,12 @@ In progress and to do list:
 - Sam Harris
 
 
+
+Oct. 4, 2017
+
+* [The Sharing Economy: labor, inequality and sociability on for-profit platforms](https://www.bc.edu/content/dam/files/schools/cas_sites/sociology/pdf/SocCompass%20Sharing%20Economy%20v3.pdf)
+	- “collaborative consumption” for “underutilized” assets; 
+
 Sept. 9, 2017
 
 * To advance the field of HCI, while serving others in excelling at the work of HCI - Understanding today and creating a better tomorrow through the products, services, systems and organizations that we create. - Jodi
