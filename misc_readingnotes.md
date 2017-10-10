@@ -19,9 +19,17 @@ In progress and to do list:
 - Sam Harris
 
 
+Oct. 8, 2017
+
+* [A Survival Guide to a PhD by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
+
+Oct. 5, 2017
+
+* [the (often, undiscussed) psychological, emotional, and philosophical themes that you will face as you come to identify as a researcher.](https://docs.google.com/document/d/1m9rYKqBYtFgJHrbGSClUPLumn2vdQIEzeJdx-PLlGpU/edit)
 
 Oct. 4, 2017
 
+* [A Couple in Chicago](https://www.newyorker.com/magazine/2009/01/19/a-couple-in-chicago)
 * [The Sharing Economy: labor, inequality and sociability on for-profit platforms](https://www.bc.edu/content/dam/files/schools/cas_sites/sociology/pdf/SocCompass%20Sharing%20Economy%20v3.pdf)
 	- “collaborative consumption” for “underutilized” assets; 
 
