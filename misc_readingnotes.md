@@ -19,6 +19,11 @@ In progress and to do list:
 - Sam Harris
 
 
+Nov. 6, 2017
+
+* [When the Revolution Came for Amy Cuddy](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html?_r=0)
+
+
 Oct. 8, 2017
 
 * [A Survival Guide to a PhD by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
