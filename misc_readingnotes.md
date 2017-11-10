@@ -18,11 +18,20 @@ In progress and to do list:
 
 - Sam Harris
 
+Nov. 9, 2017
+
+* [A taxonomy of privacy](http://heinonline.org/HOL/Page?handle=hein.journals/pnlr154&div=20&g_sent=1&casa_token=&collection=journals)
 
 Nov. 6, 2017
 
 * [When the Revolution Came for Amy Cuddy](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html?_r=0)
 
+* [ON PROOF AND PROGRESS IN MATHEMATICS](https://arxiv.org/pdf/math/9404236v1.pdf)
+
+Nov. 5, 2017
+
+* [Conflict Management and Negotiation](http://confabulator.blogspot.com/2015/07/conflict-management-and-negotiation.html) 
+	- not really like the approach. 
 
 Oct. 8, 2017
 
