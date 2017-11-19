@@ -18,6 +18,10 @@ In progress and to do list:
 
 - Sam Harris
 
+Nov. 19, 2017
+
+* [There's Plenty of Room at the Bottom - 1959 Richard Feynman ](https://www.youtube.com/watch?v=4eRCygdW--c)
+
 Nov. 9, 2017
 
 * [A taxonomy of privacy](http://heinonline.org/HOL/Page?handle=hein.journals/pnlr154&div=20&g_sent=1&casa_token=&collection=journals)

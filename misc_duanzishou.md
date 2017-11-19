@@ -1,11 +1,9 @@
-段子手 :) 
+Quotes
 ==============
 
----
 
-<img src="http://ww3.sinaimg.cn/bmiddle/831d43efjw1el3lq4hprrg20go0fh765.gif" alt="alt text" style="width:400px;height:400px">
+`
+在王中林看来，科学家的人生分为三个阶段，第一阶段是向世界证明自己的才华；第二阶段是尽力帮助朋友和周围的人；第三个阶段要用自己的知识来为国家和社会作贡献。他觉得自己已经进入了第三个阶段。 
+[王中林，一位开挂的科学家和他的纳米帝国](https://www.guokr.com/article/442442/)
+`
 
-
----
-
-![Bilby Stampede](http://ww1.sinaimg.cn/bmiddle/85c652a2gw1el0l7e8ojvg207z04xkjm.gif)
