@@ -18,6 +18,10 @@ In progress and to do list:
 
 - Sam Harris
 
+Nov. 20, 2017
+
+* [The Inconvenient Truth about Smart Cities](https://blogs.scientificamerican.com/observations/the-inconvenient-truth-about-smart-cities/)
+
 Nov. 19, 2017
 
 * [There's Plenty of Room at the Bottom - 1959 Richard Feynman ](https://www.youtube.com/watch?v=4eRCygdW--c)
