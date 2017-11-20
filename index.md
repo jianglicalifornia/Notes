@@ -74,6 +74,6 @@ Misc
 - [Links worth my time](misc_linksworthmytime.md)
 - [Photography](misc_photography.md)
 - [Personal Video Collection](misc_videos.md)
+- [Quotes](misc_quotes.md)
 - [Resource Links](misc_res_links.md)
-- [Duanzishou](misc_duanzishou.md)
 - [Useful tools](misc_tools.md)
