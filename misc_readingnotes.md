@@ -18,6 +18,11 @@ In progress and to do list:
 
 - Sam Harris
 
+
+Nov. 24, 2017
+
+* [future of the scientific imagination - NSF](https://www.nsf.gov/news/special_reports/futures/index.jsp)
+
 Nov. 20, 2017
 
 * [The Inconvenient Truth about Smart Cities](https://blogs.scientificamerican.com/observations/the-inconvenient-truth-about-smart-cities/)
