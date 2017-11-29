@@ -2,6 +2,14 @@ Quotes
 ==============
 
 
+```
+Proper apologies have three parts:
+1) I'm sorry.
+2) It was my fault.
+3) How do I make it right?”
+- Randy Pausch.
+```
+
 
 ```
 有科学的技能，未必有科学的素质；有科学的素质，未必有科学的品格. - 王小波，沉默的大多数
