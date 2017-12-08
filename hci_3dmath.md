@@ -45,3 +45,4 @@
 	- `/Applications/blender/blender.app/Contents/MacOS/blender`
 
 
+- [Blender Python: Mathematical Mesh](http://wiki.theprovingground.org/blender-py-mathmesh)

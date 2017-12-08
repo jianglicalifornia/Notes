@@ -8,3 +8,9 @@
 ## Presentations
 
 - [Tips for Giving Clear Talks](https://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf)
+
+
+
+## Figures
+
+- [Python plot layout](https://plot.ly/matplotlib/subplots/)
