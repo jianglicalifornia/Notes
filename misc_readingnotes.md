@@ -34,6 +34,10 @@ Nov. 19, 2017
 Nov. 9, 2017
 
 * [A taxonomy of privacy](http://heinonline.org/HOL/Page?handle=hein.journals/pnlr154&div=20&g_sent=1&casa_token=&collection=journals)
+	- Society is fraught with conflict and friction. Privacy is the relief from a range of kinds of social friction.
+	- The full equation for a privacy violation or problem is the existence
+of a certain activity that causes harms or problems affecting a private matter or
+activity. The question of which matters and activities are private is too culturally variable and contextual
 
 Nov. 6, 2017
 

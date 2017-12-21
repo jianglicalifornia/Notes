@@ -2,6 +2,11 @@ Quotes
 ==============
 
 
+
+```
+We live in a dangerous world, and I'll do anything to protect my daughters. - a CMU RI professor [Prof. Illah Nourbakhsh's Lecture](https://www.youtube.com/watch?v=giKT8PkCCv4)
+```
+
 ```
 Proper apologies have three parts:
 1) I'm sorry.
