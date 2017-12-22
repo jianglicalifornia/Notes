@@ -4,6 +4,11 @@ Quotes
 
 
 ```
+Westin defined information privacy as “the claim of individuals, groups or institutions to determine for themselves when, how, and to what extent information about them is communicated to others.”  
+```
+
+
+```
 We live in a dangerous world, and I'll do anything to protect my daughters. - a CMU RI professor [Prof. Illah Nourbakhsh's Lecture](https://www.youtube.com/watch?v=giKT8PkCCv4)
 ```
 

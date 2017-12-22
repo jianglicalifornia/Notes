@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Dec. 21, 2017
+
+* [AI isn’t just compromising our privacy—it can limit our choices, too](https://qz.com/1153647/ai-isnt-just-taking-away-our-privacy-its-destroying-our-free-will-too/)
+
 Nov. 24, 2017
 
 * [future of the scientific imagination - NSF](https://www.nsf.gov/news/special_reports/futures/index.jsp)
