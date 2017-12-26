@@ -2,9 +2,20 @@ Quotes
 ==============
 
 
+```
+大牛教授让我谈谈对自己论文的看法，我就哗啦啦列出了论文的N大缺点。大牛教授表示，我说的很有道理，这些确实是该论文不可避免的硬伤。但是，一篇论文被录用，不是因为他没有任何缺点硬伤，而是因为他有足够多的闪光点。然后该教授就给我列出了N条闪光点，让我继续充实闪光点，完善论文。
+
+作者：秋霜
+链接：https://www.zhihu.com/question/37098794/answer/283725588
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+```
+
+
 
 ```
 Westin defined information privacy as “the claim of individuals, groups or institutions to determine for themselves when, how, and to what extent information about them is communicated to others.”  
+- From Jason
 ```
 
 
