@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Dec. 26, 2017
+
+* [How did you choose your area of research and why do you like it so much? - Ben Zhao](https://www.quora.com/Computer-Science/How-did-you-choose-your-area-of-research-and-why-do-you-like-it-so-much)
+
 Dec. 21, 2017
 
 * [AI isn’t just compromising our privacy—it can limit our choices, too](https://qz.com/1153647/ai-isnt-just-taking-away-our-privacy-its-destroying-our-free-will-too/)
