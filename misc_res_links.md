@@ -4,6 +4,8 @@ Links
 
 ###Academia
 
+- [Blog posts tagged 'Research' on Facebook Engineering Blog](https://code.facebook.com/posts/research/)
+
 - [SEMINAR ON SEMINARS](http://www.scs.illinois.edu/suslick/seminars.html)
 
 - [music for video](http://freemusicarchive.org)
@@ -18,6 +20,8 @@ Links
 - [HackMyResume](http://please.hackmyresume.com/)
 
 - [LOL MY THESIS](http://lolmythesis.com/post/69929678102/sometimes-asian-people-are-exoticized-in-the)
+
+
 ###Life
 
 - [GoogleEmailCopy](http://www.goodemailcopy.com/)
