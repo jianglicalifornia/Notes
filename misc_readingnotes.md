@@ -21,7 +21,11 @@ In progress and to do list:
 
 Dec. 26, 2017
 
+* [What defines a truly exceptional PhD advisor? - Ben Zhao.](https://www.quora.com/Graduate-School-Education/What-defines-a-truly-exceptional-PhD-advisor/answer/Ben-Y-Zhao?share=1&srid=uFKg)
+	- A great advisor is someone who maximizes the potential of every student he/she works with, as measured by the students' accomplishments, publications, knowledge/experience, and job position at graduation.
+
 * [How did you choose your area of research and why do you like it so much? - Ben Zhao](https://www.quora.com/Computer-Science/How-did-you-choose-your-area-of-research-and-why-do-you-like-it-so-much)
+	- one of the most thoughtful articles I read in the past year.
 
 Dec. 21, 2017
 
