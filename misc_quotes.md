@@ -3,6 +3,15 @@ Quotes
 
 
 ```
+It's kind of my vocation to imagine the unimaginable.
+```
+
+
+```
+There is always a 6-month delay in our profession. If you are feeling good, remember that it is because you worked well 6 months ago; if you are feeling bad, remember that what you are doing now could make you feel much better 6 months later.
+```
+
+```
 you don’t need to understand everything to understand something.
 ```
 
