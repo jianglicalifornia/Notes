@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Dec. 30, 2017
+
+* [The impossibility of intelligence explosion](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)
+
 Dec. 26, 2017
 
 * [What defines a truly exceptional PhD advisor? - Ben Zhao.](https://www.quora.com/Graduate-School-Education/What-defines-a-truly-exceptional-PhD-advisor/answer/Ben-Y-Zhao?share=1&srid=uFKg)
