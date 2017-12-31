@@ -19,6 +19,11 @@ In progress and to do list:
 - Sam Harris
 
 
+Dec. 31, 2017
+
+* [The Data Science Revolution - Michael Jordan (UC Berkeley)](https://www.youtube.com/watch?v=ggq7HiDO0OU)
+	- connecting differential privacy to the real world.
+
 Dec. 30, 2017
 
 * [The impossibility of intelligence explosion](https://medium.com/@francois.chollet/the-impossibility-of-intelligence-explosion-5be4a9eda6ec)
