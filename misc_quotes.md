@@ -3,6 +3,10 @@ Quotes
 
 
 ```
+Whether science or religion is constructive or destructive depends on our motivation and whether we are guided by a real concern for the well-being of others and an appreciation of the oneness of humanity.
+```
+
+```
 It's kind of my vocation to imagine the unimaginable.
 ```
 
