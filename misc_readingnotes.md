@@ -19,6 +19,11 @@ In progress and to do list:
 - Sam Harris
 
 
+Jan. 8, 2018
+
+* [How Obama Raised $60 Million by Running a Simple Experiment](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/)
+- that example gets me into computational social science.
+
 Dec. 31, 2017
 
 * [The Data Science Revolution - Michael Jordan (UC Berkeley)](https://www.youtube.com/watch?v=ggq7HiDO0OU)
