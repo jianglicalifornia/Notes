@@ -19,6 +19,12 @@ In progress and to do list:
 - Sam Harris
 
 
+Jan. 16, 2018
+
+* [Approximate Information Flows: Socially-based
+Modeling of Privacy in Ubiquitous Computing](https://www.cs.cmu.edu/~jasonh/publications/ubicomp2002-aif-final.pdf)
+	- a good research paper is like slicing meat against the grain. i really like the granuality and perspective this paper take. I cannot imagine a more specific perspective on privacy and the take-away message on "approximate information flows" is meaningful enough for many ubicomp applications. 
+
 Jan. 8, 2018
 
 * [How Obama Raised $60 Million by Running a Simple Experiment](https://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/)
