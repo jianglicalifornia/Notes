@@ -2,6 +2,11 @@ Quotes
 ==============
 
 
+
+```
+Everyone designs who devises courses of action aimed at changing existing situations into preferred ones. -Herbert Simon
+```
+
 ```
  democracy requires compromise, even when you are 100 percent right. - Obama
 ```
