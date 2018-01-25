@@ -18,6 +18,10 @@ In progress and to do list:
 
 - Sam Harris
 
+Jane. 25, 2018
+
+* [The job talk is a performance](https://33bits.wordpress.com/2013/02/09/the-job-talk-is-a-performance/)
+
 
 Jan. 16, 2018
 
