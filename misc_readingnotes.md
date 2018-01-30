@@ -15,10 +15,19 @@ In progress and to do list:
 - [Kiln People](https://en.wikipedia.org/wiki/Kiln_People)
 	- set in a future where cameras are everywhere and anyone can access the public ones and, for a fee, the private ones.
 - [The Transparent Society](https://en.wikipedia.org/wiki/The_Transparent_Society)
-
+- [the language instinct](https://www.amazon.com/Language-Instinct-How-Mind-Creates/dp/1491514981)
 - Sam Harris
 
-Jane. 25, 2018
+
+Jan. 29, 2018
+
+* [The Mind Meld of Bill Gates and Steven Pinker](https://www.nytimes.com/2018/01/27/business/mind-meld-bill-gates-steven-pinker.html)
+	* “I was a zealot,” Mr. Gates says of his early years at Microsoft. “I didn’t believe in weekends. I didn’t believe in vacations. I knew everybody’s license plate so I knew when they were coming and going.”
+
+* [2015年诺贝尔经济学奖得主安格斯·迪顿：邦弱国穷](https://mp.weixin.qq.com/s?__biz=MjM5NzAzMDU4MA==&mid=209796150&idx=1&sn=5a75c6e2363547db6d68880256b1e196&scene=5&srcid=1013qNvk6rXZfVILPI8zcVpA#rd)
+	* very thoughful article.
+
+Jan. 25, 2018
 
 * [The job talk is a performance](https://33bits.wordpress.com/2013/02/09/the-job-talk-is-a-performance/)
 
