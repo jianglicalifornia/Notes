@@ -21,6 +21,8 @@ In progress and to do list:
 
 Jan. 29, 2018
 
+* [I’m Not The Product, But I Play One On The Internet](http://powazek.com/posts/3229)
+
 * [The Mind Meld of Bill Gates and Steven Pinker](https://www.nytimes.com/2018/01/27/business/mind-meld-bill-gates-steven-pinker.html)
 	* “I was a zealot,” Mr. Gates says of his early years at Microsoft. “I didn’t believe in weekends. I didn’t believe in vacations. I knew everybody’s license plate so I knew when they were coming and going.”
 
