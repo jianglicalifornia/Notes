@@ -19,6 +19,12 @@ In progress and to do list:
 - Sam Harris
 
 
+
+Feb. 3, 2018
+
+* [LITTLE BROTHER IS WATCHING YOU New Paternalism on the Slippery Slopes ](http://lsr.nellco.org/cgi/viewcontent.cgi?article=1130&context=nyu_lewp)
+	* I really like that analogy.
+
 Jan. 29, 2018
 
 * [I’m Not The Product, But I Play One On The Internet](http://powazek.com/posts/3229)
