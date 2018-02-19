@@ -19,6 +19,12 @@ In progress and to do list:
 - Sam Harris
 
 
+Feb. 19, 2018
+* [Train PhD students to be thinkers not just specialists](https://www.nature.com/articles/d41586-018-01853-1)
+
+Feb. 18, 2018
+
+* [The Tyranny of Convenience](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html)
 
 Feb. 3, 2018
 

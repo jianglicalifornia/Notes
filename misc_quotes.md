@@ -1,6 +1,11 @@
 Quotes
 ==============
 
+
+```
+I don't buy the is-vs-ought dichotomy here! You can't tell someone "oh, here's data showing you're working less than your peers" in a neutral way—there's automatically judgment attached. Doubly so when you have authority over them, or when you're a public figure. - [Arvind Narayanan on twitter](https://twitter.com/random_walker/status/960587954853957633)
+```
+
 ```
 你愿意到我这儿吃甜食，我回回都给你甜食吃，也未必是健康的。你应该知道一些你已知不分以外的东西。
 - 马未都 于 圆桌派S3E1
