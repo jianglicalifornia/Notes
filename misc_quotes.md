@@ -3,6 +3,26 @@ Quotes
 
 
 ```
+And so the children of the revolution were faced with the age-old problem: it wasn't that you had the wrong kind of government, which was obvious, but that you had the wrong kind of people.
+As soon as you saw people as things to be measured, they didn't measure up. What would run through the streets soon enough wouldn't be a revolution or a riot. 
+― Terry Pratchett, Night Watch
+```
+
+
+```
+青春期的人思想极端，很容易不自觉的夸大悲伤或喜悦.
+
+烟头烫胸毛的那句“他依然向往着长岛的雪，向往着潘帕斯的风吟鸟唱，很久以后我才知道，长岛是没有雪的”，
+```
+
+```
+not try to describe the future, but to define the boundaries within which possible futures must lie. If we regard the ages which stretch ahead of us as an unmapped and unexplored country, what I am attempting to do is to survey its frontiers and to get some idea of its extent. The detailed geography of the interior must remain unknown - until we reach it.
+-- Arthur C. Clarke, Profiles of the Future
+```
+
+
+
+```
 I don't buy the is-vs-ought dichotomy here! You can't tell someone "oh, here's data showing you're working less than your peers" in a neutral way—there's automatically judgment attached. Doubly so when you have authority over them, or when you're a public figure. - [Arvind Narayanan on twitter](https://twitter.com/random_walker/status/960587954853957633)
 ```
 

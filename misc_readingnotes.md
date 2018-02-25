@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Feb. 24, 2018
+
+* [Tim Wu: "The Attention Merchants" | Talks at Google](https://www.youtube.com/watch?v=tmR7tzrA28k)
+
 Feb. 19, 2018
 * [Train PhD students to be thinkers not just specialists](https://www.nature.com/articles/d41586-018-01853-1)
 
