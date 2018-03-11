@@ -19,6 +19,19 @@ In progress and to do list:
 - Sam Harris
 
 
+
+Mar. 11, 2018
+
+* [The Science Behind Shaping Player Behavior in Online Games](https://www.gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player)
+
+Mar. 9, 2018
+
+* [Fictions of a Smart Atlanta, An Anthology of Smart City Use Cases ](https://serve-learn-sustain.gatech.edu/sites/default/files/documents/Toolkit-Docs/fictions_of_a_smart_atl-compressed.pdf)
+
+Mar. 2, 2018
+* [That's Interesting!](http://journals.sagepub.com/doi/abs/10.1177/004839317100100211)
+* [Finding Your Academic Voice](http://amberdavis.nl/wp-content/uploads/2014/02/Finding-Your-Academic-Voice.pdf)
+
 Feb. 24, 2018
 
 * [Tim Wu: "The Attention Merchants" | Talks at Google](https://www.youtube.com/watch?v=tmR7tzrA28k)
