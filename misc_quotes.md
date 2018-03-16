@@ -3,6 +3,12 @@ Quotes
 
 
 ```
+All models are wrong, but some are useful.  - George Box
+```
+
+
+
+```
 And so the children of the revolution were faced with the age-old problem: it wasn't that you had the wrong kind of government, which was obvious, but that you had the wrong kind of people.
 As soon as you saw people as things to be measured, they didn't measure up. What would run through the streets soon enough wouldn't be a revolution or a riot. 
 ― Terry Pratchett, Night Watch
