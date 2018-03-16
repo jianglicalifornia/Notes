@@ -1,6 +1,12 @@
 Links 
 ==============
 
+### My "facebook"
+
+###### ACM Trending
+- [Ubicomp](https://dl.acm.org/event.cfm?id=RE336)
+- [CHI](https://dl.acm.org/event.cfm?id=RE151)
+
 
 ###Academia
 

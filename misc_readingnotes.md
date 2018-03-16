@@ -19,9 +19,15 @@ In progress and to do list:
 - Sam Harris
 
 
+Mar. 13, 2018
+
+* [3D print a home](https://www.iconbuild.com/)
+* [ML for weight lose](https://github.com/arielf/weight-loss)
 
 Mar. 11, 2018
 
+* [What’s holding back the Internet of Things? Power](https://www.geekwire.com/2018/whats-holding-back-internet-things-power/)
+	- not 100% right but valid points.
 * [The Science Behind Shaping Player Behavior in Online Games](https://www.gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player)
 
 Mar. 9, 2018
