@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Mar. 21, 2018
+
+* [ROUTES OF LEAST SURVEILLANCE](https://www.wired.com/2001/11/routes-of-least-surveillance/)
+
 Mar. 13, 2018
 
 * [3D print a home](https://www.iconbuild.com/)
