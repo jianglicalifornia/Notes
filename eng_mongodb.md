@@ -43,9 +43,12 @@ mongodb
     show dbs
     use one_db
     db
-    db.collection
-    db.collection.count()
-    db.collection.find()
+    db.[collection]
+    db.[collection].count()
+    db.[collection].find()
+    db.dropDatabase() // delete the database
+    db.[collection].drop() // delete the collection
+    db.getCollectionNames() //list collection names
     ```
 
 - data check and backup. [chinese guidance](http://www.jb51.net/article/40285.htm)

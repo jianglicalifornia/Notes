@@ -1,5 +1,32 @@
 ###Docker
 
+
+##### common commands
+
+List docker images: `sudo docker image ls`
+list docker containers: `sudo docker ps`
+
+start a container from an image `sudo docker run -d -p 8090:8080 [imagename]]`
+
+[start tutorial](https://docs.docker.com/get-started/)
+
+##### Basic usages on ubuntu
+
+Basic docker configuration:
+```
+sudo service docker start
+export DOCKER_HOST=127.0.0.1:2375
+```
+
+compose a docker from a dockerfile:
+
+```
+sudo docker-compose up
+```
+
+
+
+
 ##### FAQ on MAC:
 - Host is not running.
 ```
