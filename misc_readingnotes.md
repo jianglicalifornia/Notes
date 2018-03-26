@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Mar. 26, 2018
+
+* [Social and Emotional Messages of Smiling: An Ethological Approach](https://pdfs.semanticscholar.org/bad0/fb1225b8e4b98ffbb89ca45488a9aa5fd4a5.pdf)
+
 Mar. 21, 2018
 
 * [ROUTES OF LEAST SURVEILLANCE](https://www.wired.com/2001/11/routes-of-least-surveillance/)
