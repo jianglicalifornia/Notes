@@ -43,9 +43,14 @@ mongodb
     show dbs
     use one_db
     db
-    db.collection
-    db.collection.count()
-    db.collection.find()
+    db.[collection]
+    db.[collection].count()
+    db.[collection].find()
+    db.dropDatabase() // delete the database
+    db.[collection].drop() // delete the collection
+    db.getCollectionNames() //list collection names
+    db.[collection].find( { city: "London" } ).skip( 20 ).limit( 20 ) // show the results from document 21 to 40.
+    db.player_info.find({"pid":NumberLong("4294967295")}).count()
     ```
 
 - data check and backup. [chinese guidance](http://www.jb51.net/article/40285.htm)
