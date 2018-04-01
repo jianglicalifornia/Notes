@@ -3,6 +3,12 @@ Quotes
 
 
 ```
+I do think you do enormous good. But your power sometimes scares me. 
+[John Kennedy](https://unprofession.com/your-power-sometimes-scares-me-1af8c49c878a)
+```
+
+
+```
 All models are wrong, but some are useful.  - George Box
 ```
 
