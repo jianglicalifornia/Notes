@@ -1,4 +1,4 @@
-Reading notes
+Reading notes - my mind gym
 ==============
 
 
