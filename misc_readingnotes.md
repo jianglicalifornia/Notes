@@ -19,6 +19,17 @@ In progress and to do list:
 - Sam Harris
 
 
+Apr. 6, 2018
+
+* [小学生玩王者荣耀被坑惨 哭诉大人们想泡妞才玩](http://www.sohu.com/a/161514957_534986)
+
+Apr. 2, 2018
+
+* [Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk](https://www.youtube.com/watch?v=meiU6TxysCg)
+
+* [The History of Utilitarianism](https://plato.stanford.edu/entries/utilitarianism-history/)
+
+
 Mar. 26, 2018
 
 * [Social and Emotional Messages of Smiling: An Ethological Approach](https://pdfs.semanticscholar.org/bad0/fb1225b8e4b98ffbb89ca45488a9aa5fd4a5.pdf)
