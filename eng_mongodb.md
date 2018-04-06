@@ -1,6 +1,13 @@
 mongodb
 ====================
 
+## import data 
+
+[Insert 200+ million rows into MongoDB in minutes](https://www.khalidalnajjar.com/insert-200-million-rows-into-mongodb-in-minutes/)
+mongodump -d dbname --gzip --archive=dbname.dump.gz
+mongorestore -d dbname --gzip --archive=dbname.dump.gz
+
+
 ## Common commands to start mongodb:
 
 1. check if mongodb is running: `ps aux |grep mongod`
@@ -8,7 +15,8 @@ mongodb
 3. starting mongodb service to start at book and activate it:
 	`sudo update-rc.d mongod on`
 	`sudo /etc/init.d/mongod start`
-
+4. [Changing mongoDB data store directory](https://stackoverflow.com/questions/5961145/changing-mongodb-data-store-directory)
+5. client: `mongo`; server: `mongod`
 
 ## Problem diagnostic
 
@@ -51,6 +59,7 @@ mongodb
     db.getCollectionNames() //list collection names
     db.[collection].find( { city: "London" } ).skip( 20 ).limit( 20 ) // show the results from document 21 to 40.
     db.player_info.find({"pid":NumberLong("4294967295")}).count()
+     db.player_info.find().sort({$natural:-1})         // get the last entry
     ```
 
 - data check and backup. [chinese guidance](http://www.jb51.net/article/40285.htm)

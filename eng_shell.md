@@ -138,3 +138,8 @@ curl -L -b headers http://localhost/`
 ```
 openssl s_client -showcerts -connect mobilelogs.labs.yahoo.com:443
 ```
+
+
+## Disk Util
+
+View all available HDD's/partitions: `sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL`
