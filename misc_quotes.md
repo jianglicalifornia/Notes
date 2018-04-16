@@ -3,6 +3,11 @@ Quotes
 
 
 ```
+Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics. 
+- Takeo Kanade, CMU RI Prof
+```
+
+```
 I do think you do enormous good. But your power sometimes scares me. 
 [John Kennedy](https://unprofession.com/your-power-sometimes-scares-me-1af8c49c878a)
 ```
