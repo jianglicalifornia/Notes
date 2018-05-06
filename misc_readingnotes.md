@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+May. 6, 2018
+
+* [Do the right things - privacy ethics](http://thejaffes.org/sites/all/files/ethics.pdf)
+
 May. 2, 2018
 
 * [ Yo ho, yo ho, a researcher’s life for me: Lies, thievery, and the ethics of computer security experiments. - Stuart Schechter](https://crcs.seas.harvard.edu/event/stuart-schechter-yo-ho-yo-ho-researcher%E2%80%99s-life-me-lies-thievery-and-ethics-computer)
