@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+May. 7, 2018
+
+* [An eye for an eye - When Online Harassment is Perceived as Justified](https://www.youtube.com/watch?v=Wlq8BqTKCJI)
+
 May. 6, 2018
 
 * [Do the right things - privacy ethics](http://thejaffes.org/sites/all/files/ethics.pdf)
