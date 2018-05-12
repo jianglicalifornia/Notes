@@ -19,6 +19,11 @@ In progress and to do list:
 - Sam Harris
 
 
+May. 12, 2018
+
+* [Tell you how https works in a comic](https://howhttps.works/)
+
+
 May. 11, 2018
 
 * [Measuring Price Discrimination and Steering on E-commerce Web Sites](https://cbw.sh/static/pdf/imc151-hannak.pdf)
