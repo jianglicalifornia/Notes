@@ -19,6 +19,11 @@ In progress and to do list:
 - Sam Harris
 
 
+May. 11, 2018
+
+* [Measuring Price Discrimination and Steering on E-commerce Web Sites](https://cbw.sh/static/pdf/imc151-hannak.pdf)
+
+
 May. 7, 2018
 
 * [An eye for an eye - When Online Harassment is Perceived as Justified](https://www.youtube.com/watch?v=Wlq8BqTKCJI)
