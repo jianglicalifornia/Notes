@@ -3,6 +3,12 @@ Quotes
 
 
 ```
+韶华散去春已尽，河风吹老少年郎.  
+-苗疆蛊事
+```
+
+
+```
 Think like an Amateur, Do as an Expert: Fun Research in Computer Vision and Robotics. 
 - Takeo Kanade, CMU RI Prof
 ```
