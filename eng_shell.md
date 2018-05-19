@@ -33,6 +33,12 @@ screen -r            #resume the screen session
 ```
 Then check out the progress of your long-running process!
 
+To start a new session with a name
+```
+screen -S your_session_name
+```
+
+<!-- -->
 
 
 ## 
@@ -143,3 +149,8 @@ openssl s_client -showcerts -connect mobilelogs.labs.yahoo.com:443
 ## Disk Util
 
 View all available HDD's/partitions: `sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL`
+
+
+### for gfw:
+
+- [official website](http://www.shadowsocks.org/en/index.html)

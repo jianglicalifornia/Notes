@@ -19,6 +19,13 @@ In progress and to do list:
 - Sam Harris
 
 
+May. 14, 2018
+
+* [Ethical Considerations When Companies Study – And Fail to Study – Their Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3159697)
+* [Testing 40 shades of blue – AB Testing] (https://iterativepath.wordpress.com/2012/10/29/testing-40-shades-of-blue-ab-testing/)
+	- experimental science in these fields creates only marginal improvements. A failing company with a poor strategy cannot blindly experiment its way to success.
+
+
 May. 12, 2018
 
 * [Tell you how https works in a comic](https://howhttps.works/)
