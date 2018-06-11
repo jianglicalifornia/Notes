@@ -2,7 +2,17 @@ Quotes
 ==============
 
 
+```
+Two Things Are Infinite: the Universe and Human Stupidity.
+- Albert Einstein
+```
 
+```
+You're doing it for what the money says.
+And it says what it says to any player that makes big money.
+That they're worth it.
+- Moneyball
+```
 
 
 ```
