@@ -22,8 +22,9 @@ show databases;
 [move the data directory](https://stackoverflow.com/questions/37901481/postgresql-change-the-data-directory)
 
 0. service postgresql stop
-1. mkdir /media/haojian/ssd2t/postgresql_data_dir
-2. sudo chown -R postgres:postgres /media/haojian/ssd2t/postgresql_data_dir
+1. mkdir  mkdir /ssddata/postgresql_data_dir
+2. sudo chown -R postgres:postgres  /ssddata/postgresql_data_dir
 3. sudo -i -u postgres
-4. /usr/lib/postgresql/9.5/bin/initdb  -D /media/haojian/ssd2t/postgresql_data_dir
-5. 
+4. /usr/lib/postgresql/9.5/bin/initdb  -D /ssddata/postgresql_data_dir
+5. sudo vim /etc/postgresql/9.5/main/postgresql.conf 
+

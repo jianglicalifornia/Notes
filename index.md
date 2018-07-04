@@ -23,8 +23,10 @@ Engineering
 - [Redis](eng_redis.md)
 - [Security](eng_security.md)
 - [Shell](eng_shell.md)
-- [Web](eng_web.md)
+- [USRP](eng_usrp.md)
 - [Video editing](eng_videoediting.md)
+- [Web](eng_web.md)
+
 
 HCI
 ------
