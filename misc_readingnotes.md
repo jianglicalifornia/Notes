@@ -19,6 +19,19 @@ In progress and to do list:
 - Sam Harris
 
 
+
+July. 17, 2018
+
+* [privacytools.io](https://www.privacytools.io/)
+
+July. 14, 2018
+
+* [Why privacy is important, and having “nothing to hide” is irrelevant](https://medium.com/@obsidian_crypto/why-privacy-is-important-and-having-nothing-to-hide-is-irrelevant-d011b49de4c8)
+	
+* [Everything and Nothing](https://topdocumentaryfilms.com/everything-and-nothing/)
+	- Two-part documentary which deals with two of the deepest questions there are - what is everything, and what is nothing?
+
+
 May. 14, 2018
 
 * [Ethical Considerations When Companies Study – And Fail to Study – Their Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3159697)
