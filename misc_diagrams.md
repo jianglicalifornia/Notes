@@ -2,6 +2,13 @@
 
 ----
 
+July. 17, 2018
+
+
+My Ph.D. weekend life.
+
+<img src="photos/diagrams/purity.png" width = "400px"/>
+
 Sept. 22, 2017
 
 My Ph.D. weekend life.

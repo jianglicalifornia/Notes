@@ -1,6 +1,11 @@
 Quotes
 ==============
 
+```
+十年寒窗无人问 一举成名天下知
+琵琶记
+```
+
 
 ```
 Two Things Are Infinite: the Universe and Human Stupidity.
