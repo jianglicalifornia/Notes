@@ -23,6 +23,7 @@ In progress and to do list:
 July. 17, 2018
 
 * [privacytools.io](https://www.privacytools.io/)
+* [Introduction to Dataveillance and Information Privacy, and Definitions of Terms](http://www.rogerclarke.com/DV/Intro.html)
 
 July. 14, 2018
 
