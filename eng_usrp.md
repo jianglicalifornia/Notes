@@ -1,18 +1,32 @@
 USRP 
 =========
 
+Environment setup:
+1. [install GNU radio first](https://github.com/gnuradio/gnuradio) and it will install UHD from source code (the latest version).
+2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
+
 [USRP Hardware Driver and USRP Manual](https://files.ettus.com/manual/page_usrp_x3x0.html)
 
 
+[Update USRP FPGA](https://files.ettus.com/manual/page_usrp_x3x0.html)
+
+
+`gnuradio-companion`
+`pybombs run gnuradio-companion`
+
 Common commands:
 
-
+`cd /home/kim/uhd/host/build/examples`
 1. `uhd_find_devices` find connected USRP devices.
 2. `uhd_usrp_probe --args addr=192.168.10.32` verify if the USRP works.
 3. `sudo ./rx_samples_to_file --args="addr0=192.168.10.31" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="/home/kim/Desktop/t_1min_1e5.dat" --duration 60`
 4. `sudo ./rx_multi_samples --args="addr0=192.168.10.31" --subdev "A:0 B:0" --channels "0,1"`
-
-
+5. `sudo ./rx_samples_to_file --args="addr0=192.168.10.31" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="/home/kim/Desktop/t_1min_1e5.dat" --duration 60 --ref=external`
+6. Two antenna on the same usrp: `./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --ant "TX/RX, RX2" --subdev "A:0 B:0" --channels "0,1"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30 `
+    - if the two ports are on the same channel, the 2nd port will not work.
+7. Use RX2 in the usrp: `./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --ant "RX2" --subdev "A:0" --channels "0"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30`
+8. Two usrps one antenna each: `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 30 --subdev "A:0 B:0" --channels "0"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5    --duration 30 --ref=external`
+9. One USRP one antenna: `./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --ant "TX/RX" --subdev "A:0" --channels "0"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30`
 folder: `/home/kim/uhd.20180601144807/host/build/examples`
 
 ```
@@ -28,10 +42,15 @@ Dev:
 4. [complete guide](https://kb.ettus.com/Getting_Started_with_UHD_and_C%2B%2B)
 
 
-`scp kim@128.237.216.182:~/Desktop/rtest1.dat .`
+`scp kim@128.237.112.106:~/projects/microwave/usrpcode/*.dat .`
 
 
 `matlab -softwareopengl`
+`close all`
+
+
+
+
 
 
  plot(abs(x_1))
@@ -48,3 +67,38 @@ Error: Character vector is not terminated properly.
  
 K>> spectrogram(x_1)
 K>> 
+
+
+>> spectrogram((static0(7150:7250)),96,50,[],10,'yaxis','center');
+>> spectrogram((static0(7000:7500)),128,64,[],10,'yaxis','center');
+>> plot(abs(fft(static0(7150:7250))))
+>> plot(abs(fft(static0(6950:7050))))
+>> figure;
+>> plot(abs(fft(static0(7150:7250))))
+>> figure; 
+>> spectrogram((static0(1:8000)),128,64,[],10,'yaxis','center');
+plot(angle(static0(1:8000)./static1(1:8000)))
+
+ align_two_signals(part0(:,1), part1(:,1))
+
+filter_usrp_signal(static0, 1, 1e5, true);
+
+shell script: 
+
+cd /home/kim/uhd/host/build/examples
+sudo ./rx_samples_to_file --args="addr0=192.168.10.31" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="/home/kim/Desktop/$1-1e5-31.dat" --duration 60 --ref=external & 
+sudo ./rx_samples_to_file --args="addr0=192.168.10.32" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="/home/kim/Desktop/$1-1e5-32.dat" --duration 60 --ref=external
+
+zxc
+
+
+
+
+
+
+
+one usrp, two ports
+
+
+
+ ./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --subdev "A:0 B:0" --channels "0,1"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30
