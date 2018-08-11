@@ -3,6 +3,7 @@ USRP
 
 Environment setup:
 1. [install GNU radio first](https://github.com/gnuradio/gnuradio) and it will install UHD from source code (the latest version).
+    - sometimes an "assertion error" may happen. that's because of the incompatbility of different yaml library versions. reinstall the environment using requirements.txt.
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
 [USRP Hardware Driver and USRP Manual](https://files.ettus.com/manual/page_usrp_x3x0.html)

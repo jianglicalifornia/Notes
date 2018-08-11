@@ -19,6 +19,10 @@ In progress and to do list:
 - Sam Harris
 
 
+Aug. 4, 2018
+
+* [Comparing US City Street Orientations](https://geoffboeing.com/2018/07/comparing-city-street-orientations/)
+
 
 July. 17, 2018
 
