@@ -19,6 +19,9 @@ In progress and to do list:
 - Sam Harris
 
 
+
+* [An inversion of nature: how air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+
 Aug. 4, 2018
 
 * [Comparing US City Street Orientations](https://geoffboeing.com/2018/07/comparing-city-street-orientations/)
