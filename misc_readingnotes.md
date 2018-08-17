@@ -20,6 +20,13 @@ In progress and to do list:
 
 
 
+* [An inversion of nature: how air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+
+Aug. 4, 2018
+
+* [Comparing US City Street Orientations](https://geoffboeing.com/2018/07/comparing-city-street-orientations/)
+
+
 July. 17, 2018
 
 * [privacytools.io](https://www.privacytools.io/)
