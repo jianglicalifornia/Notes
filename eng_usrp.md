@@ -38,6 +38,9 @@ Common commands:
 folder: `/home/kim/uhd.20180601144807/host/build/examples`
 10. Two usrp one antenna each, continuous signals: `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2450e6 --rate=1e5    --ref=external`  
 11. `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2450e6 --rate=1e5    --ref=external`
+12. Three usrp one antenna each, countuous signals (Note that only USRPs of the same type can be combined.): `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32,addr2=192.168.10.8" --gain 0 --subdev "A:0" --channels "0,1,2"  --prefix="nothing"  --ant="TX/RX,TX/RX,TX/RX"  --type=float --freq=2450e6 --rate=1e5    --ref=external`
+
+
 ```
 ping 192.168.10.31
 
