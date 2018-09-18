@@ -43,6 +43,7 @@ HCI
 - [Signal Processing](hci_signalprocessing.md)
 - [Sound](hci_sound.md)
 - [Speech](hci_speechrec.md)
+- [Stats](hci_stats.md)
 - [Vision](hci_vision.md)
 - [Writing](hci_writing.md)
 
