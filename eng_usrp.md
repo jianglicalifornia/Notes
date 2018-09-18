@@ -3,7 +3,9 @@ USRP
 
 Environment setup:
 1. [install GNU radio first](https://github.com/gnuradio/gnuradio) and it will install UHD from source code (the latest version).
+    - to reinstall gnu radio: `pybombs remove uhd`  
     - sometimes an "assertion error" may happen. that's because of the incompatbility of different yaml library versions. reinstall the environment using requirements.txt.
+
 2. run `sudo apt-get install libuhd-dev` to install uhd-dev. 
 
 [USRP Hardware Driver and USRP Manual](https://files.ettus.com/manual/page_usrp_x3x0.html)
@@ -11,6 +13,11 @@ Environment setup:
 
 [Update USRP FPGA](https://files.ettus.com/manual/page_usrp_x3x0.html)
 
+[configure gcc version](https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91)
+[update boost version1](https://askubuntu.com/questions/397939/how-to-uninstall-boost-1-49-and-install-boost-1-54-in-ubuntu)
+[update boost version - better post](https://ubuntuforums.org/showthread.php?t=2363177)
+
+`sudo apt-get --purge remove gcc-4.9`
 
 `gnuradio-companion`
 `pybombs run gnuradio-companion`
@@ -29,11 +36,21 @@ Common commands:
 8. Two usrps one antenna each: `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 30 --subdev "A:0 B:0" --channels "0"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5    --duration 30 --ref=external`
 9. One USRP one antenna: `./rx_multi_receive --args="addr0=192.168.10.31" --gain 30 --ant "TX/RX" --subdev "A:0" --channels "0"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5  --duration 30`
 folder: `/home/kim/uhd.20180601144807/host/build/examples`
+10. Two usrp one antenna each, continuous signals: `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2450e6 --rate=1e5    --ref=external`  
+11. `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32" --gain 0 --subdev "A:0" --channels "0,1"  --prefix="nothing"  --ant="TX/RX,TX/RX"   --type=float --freq=2450e6 --rate=1e5    --ref=external`
+12. Three usrp one antenna each, countuous signals (Note that only USRPs of the same type can be combined.): `./rx_multi_receive --args="addr0=192.168.10.31,addr1=192.168.10.32,addr2=192.168.10.8" --gain 0 --subdev "A:0" --channels "0,1,2"  --prefix="nothing"  --ant="TX/RX,TX/RX,TX/RX"  --type=float --freq=2450e6 --rate=1e5    --ref=external`
+
 
 ```
 ping 192.168.10.31
 
 ```
+
+
+
+0812 command:
+1. `./rx_samples_to_file --args="addr0=192.168.10.32" --type=float --ant=TX/RX --freq=2450e6 --rate=1e5 --file="an1noantenuate.dat" --gain 0 --duration 3`
+2. `./rx_multi_receive --args="addr0=192.168.10.32" --gain 0 --subdev "A:0" --channels "0"  --prefix="nothing"   --type=float --freq=2450e6 --rate=1e5    --ref=external`
 
 Dev: 
 
