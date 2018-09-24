@@ -1,4 +1,4 @@
-##### Haojian's Stats Wiki
+# Haojian's Stats Wiki
 
 
 
@@ -19,3 +19,6 @@
 > KMO(cor(sel47))
 > print(threefactor)
 ```
+
+[Correlation figure](http://www.karlin.mff.cuni.cz/~maciak/NMST539/cvicenie8.html)
+
