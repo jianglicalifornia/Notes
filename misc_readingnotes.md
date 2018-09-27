@@ -20,11 +20,21 @@ In progress and to do list:
 
 
 
-* [An inversion of nature: how air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
-	- [the Chinese clarification](https://10mileredlotusmeanwine.wordpress.com/2007/09/05/%E6%8E%98%E5%9C%B0%E4%B8%89%E5%B0%BA%E6%8C%96%E5%87%BA%E6%AF%81%E4%B9%A6%E4%B8%8D%E5%80%A6%E7%9A%84franz-kuhn/)
+
 
 
 * [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
+
+
+Sept. 27, 2018
+
+* [An inversion of nature: how air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
+	- [the Chinese clarification](https://10mileredlotusmeanwine.wordpress.com/2007/09/05/%E6%8E%98%E5%9C%B0%E4%B8%89%E5%B0%BA%E6%8C%96%E5%87%BA%E6%AF%81%E4%B9%A6%E4%B8%8D%E5%80%A6%E7%9A%84franz-kuhn/)
+
+* [Unpacking “Privacy” for a Networked World](./resources/papers/p129-palen.pdf)
+
+* [Security, privacy and trust in Internet of Things: The road ahead](http://tarjomefa.com/wp-content/uploads/2016/07/5009-English.pdf)
+
 
 Aug. 4, 2018
 

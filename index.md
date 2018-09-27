@@ -37,6 +37,7 @@ HCI
 - [Math](hci_math.md)
 - [Matlab](hci_matlab.md)
 - [Mechanical Turk](hci_mechanicalturk.md)
+- [Meta research](hci_metaresearch.md)
 - [Misc](hci_misc.md)
 - [Latex](hci_latex.md)
 - [LOVELY RESEARCH!](hci_randompapers.md)
