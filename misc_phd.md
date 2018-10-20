@@ -1,4 +1,4 @@
-Random stuffs about getting out of the PhD
+Getting out of the PhD
 ========
 
 [Advice for Landing a Faculty Position](http://www.cs.princeton.edu/~jrex/faculty-advice.html)
