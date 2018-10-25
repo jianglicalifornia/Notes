@@ -1,7 +1,7 @@
-haojian.github.io
+jianglicalifornia.github.io
 =================
 
 wiki
 
 
-http://haojian.github.io/mdwiki.html#!index.md
+http://jianglicalifornia.github.io/Notes/mdwiki.html#!index.md
