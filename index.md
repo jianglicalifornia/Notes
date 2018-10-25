@@ -1,4 +1,4 @@
-聚沙成塔
+Simplicity is the ultimate sophistication
 ==========
 
 Engineering
@@ -25,7 +25,7 @@ Engineering
 - [Shell](eng_shell.md)
 - [USRP](eng_usrp.md)
 - [Video editing](eng_videoediting.md)
-- [Web](eng_web.md)
+//- [Web](eng_web.md)
 
 
 HCI
