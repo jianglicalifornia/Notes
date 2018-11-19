@@ -26,6 +26,11 @@ In progress and to do list:
 * [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
 
 
+Nov. 19, 2018
+
+* [The Land That Failed to Fail, the new york times](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-rules.html)
+
+
 Sept. 27, 2018
 
 * [An inversion of nature: how air conditioning created the modern city](https://www.theguardian.com/cities/2018/aug/14/how-air-conditioning-created-modern-city?utm_source=pocket&utm_medium=email&utm_campaign=pockethits)
