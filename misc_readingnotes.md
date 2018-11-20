@@ -29,6 +29,8 @@ In progress and to do list:
 Nov. 19, 2018
 
 * [The Land That Failed to Fail, the new york times](https://www.nytimes.com/interactive/2018/11/18/world/asia/china-rules.html)
+- Moganshan Scholars including: Qishan Wang, Xiaochuan Wang and others in 1984 discussing about how could China catchup with the West
+- Apparatchiks Into Capitalists, openning up, a new Era
 
 
 Sept. 27, 2018
@@ -66,9 +68,9 @@ May. 14, 2018
 	- experimental science in these fields creates only marginal improvements. A failing company with a poor strategy cannot blindly experiment its way to success.
 
 
-May. 12, 2018
+<!-- May. 12, 2018
 
-* [Tell you how https works in a comic](https://howhttps.works/)
+* [Tell you how https works in a comic](https://howhttps.works/) -->
 
 
 May. 11, 2018
@@ -92,9 +94,9 @@ Apr. 9, 2018
 
 * [Limits Of Capitalism](https://worldaftercapital.gitbooks.io/worldaftercapital/content/part-two/Limits.html)
 
-Apr. 6, 2018
+<!-- Apr. 6, 2018
 
-* [小学生玩王者荣耀被坑惨 哭诉大人们想泡妞才玩](http://www.sohu.com/a/161514957_534986)
+* [小学生玩王者荣耀被坑惨 哭诉大人们想泡妞才玩](http://www.sohu.com/a/161514957_534986) -->
 
 Apr. 2, 2018
 
