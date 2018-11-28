@@ -1,8 +1,15 @@
 Simplicity is the ultimate sophistication
 ==========
 
-<!-- Engineering -->
+文章
 ------
+
+- [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
+- [东京三日（上）](https://mp.weixin.qq.com/s/suzTVRgFrCFaIeqgeDyNjg)
+- [Computer Vision](ml_vision.md)
+- [Deep Learning](ml_deeplearning.md)
+
+<!-- Engineering -->
 
 <!-- - [Algorithm](eng_algorithm.md) -->
 <!-- - [Amazon Web Service](eng_aws.md) -->
@@ -29,7 +36,6 @@ Simplicity is the ultimate sophistication
 
 
 <!-- HCI -->
-------
 
 <!-- - [3D math](hci_3dmath.md) -->
 <!-- - [Infomation Visualization](hci_infovis.md) -->
@@ -48,13 +54,7 @@ Simplicity is the ultimate sophistication
 <!-- - [Vision](hci_vision.md) -->
 <!-- - [Writing](hci_writing.md) -->
 
-文章
-------
 
-- [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
-- [Hadoop](ml_hadoop.md)
-- [Computer Vision](ml_vision.md)
-- [Deep Learning](ml_deeplearning.md)
 
 DM/ML/NLP/CV
 ------
