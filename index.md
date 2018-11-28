@@ -1,52 +1,52 @@
 Simplicity is the ultimate sophistication
 ==========
 
-<!-- Engineering
+<!-- Engineering -->
 ------
 
-- [Algorithm](eng_algorithm.md)
-- [Amazon Web Service](eng_aws.md)
-- [Architecture](eng_architecture.md)
-- [Crawler](eng_crawler.md)
-- [Backend](eng_backend.md)
-- [Database](eng_database.md)
-- [Debug](eng_debug.md)
-- [DesignPattern](eng_designpattern.md)
-- [DevTools](eng_devtools.md)
-- [Docker](eng_docker.md)
-- [Git](eng_git.md)
-- [Java](eng_java.md)
-- [Javascript](eng_javascript.md)
-- [MongoDB](eng_mongodb.md)
-- [OpenSource](eng_opensource.md)
-- [Python](eng_python.md)
-- [Redis](eng_redis.md)
-- [Security](eng_security.md)
-- [Shell](eng_shell.md)
-- [USRP](eng_usrp.md) -->
+<!-- - [Algorithm](eng_algorithm.md) -->
+<!-- - [Amazon Web Service](eng_aws.md) -->
+<!-- - [Architecture](eng_architecture.md) -->
+<!-- - [Crawler](eng_crawler.md) -->
+<!-- - [Backend](eng_backend.md) -->
+<!-- - [Database](eng_database.md) -->
+<!-- - [Debug](eng_debug.md) -->
+<!-- - [DesignPattern](eng_designpattern.md) -->
+<!-- - [DevTools](eng_devtools.md) -->
+<!-- - [Docker](eng_docker.md) -->
+<!-- - [Git](eng_git.md) -->
+<!-- - [Java](eng_java.md) -->
+<!-- - [Javascript](eng_javascript.md) -->
+<!-- - [MongoDB](eng_mongodb.md) -->
+<!-- - [OpenSource](eng_opensource.md) -->
+<!-- - [Python](eng_python.md) -->
+<!-- - [Redis](eng_redis.md) -->
+<!-- - [Security](eng_security.md) -->
+<!-- - [Shell](eng_shell.md) -->
+<!-- - [USRP](eng_usrp.md) -->
 <!-- - [Video editing](eng_videoediting.md) -->
 <!-- - [Web](eng_web.md) -->
 
 
-<!-- HCI
+<!-- HCI -->
 ------
 
-- [3D math](hci_3dmath.md)
-- [Infomation Visualization](hci_infovis.md)
-- [Kalman Filter](hci_kalmanfilter.md)
-- [Math](hci_math.md)
-- [Matlab](hci_matlab.md)
-- [Mechanical Turk](hci_mechanicalturk.md)
-- [Meta research](hci_metaresearch.md)
-- [Misc](hci_misc.md)
-- [Latex](hci_latex.md)
-- [LOVELY RESEARCH!](hci_randompapers.md)
-- [Signal Processing](hci_signalprocessing.md)
-- [Sound](hci_sound.md)
-- [Speech](hci_speechrec.md)
-- [Stats](hci_stats.md)
-- [Vision](hci_vision.md)
-- [Writing](hci_writing.md) -->
+<!-- - [3D math](hci_3dmath.md) -->
+<!-- - [Infomation Visualization](hci_infovis.md) -->
+<!-- - [Kalman Filter](hci_kalmanfilter.md) -->
+<!-- - [Math](hci_math.md) -->
+<!-- - [Matlab](hci_matlab.md) -->
+<!-- - [Mechanical Turk](hci_mechanicalturk.md) -->
+<!-- - [Meta research](hci_metaresearch.md) -->
+<!-- - [Misc](hci_misc.md) -->
+<!-- - [Latex](hci_latex.md) -->
+<!-- - [LOVELY RESEARCH!](hci_randompapers.md) -->
+<!-- - [Signal Processing](hci_signalprocessing.md) -->
+<!-- - [Sound](hci_sound.md) -->
+<!-- - [Speech](hci_speechrec.md) -->
+<!-- - [Stats](hci_stats.md) -->
+<!-- - [Vision](hci_vision.md) -->
+<!-- - [Writing](hci_writing.md) -->
 
 文章
 ------
@@ -56,10 +56,10 @@ Simplicity is the ultimate sophistication
 - [Computer Vision](ml_vision.md)
 - [Deep Learning](ml_deeplearning.md)
 
-<!-- DM/ML/NLP/CV
+DM/ML/NLP/CV
 ------
 
-- [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
+<!-- - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Hadoop](ml_hadoop.md)
 - [Computer Vision](ml_vision.md)
 - [Deep Learning](ml_deeplearning.md) -->
