@@ -1,7 +1,7 @@
 Simplicity is the ultimate sophistication
 ==========
 
-Engineering
+<!-- Engineering
 ------
 
 - [Algorithm](eng_algorithm.md)
@@ -23,12 +23,12 @@ Engineering
 - [Redis](eng_redis.md)
 - [Security](eng_security.md)
 - [Shell](eng_shell.md)
-- [USRP](eng_usrp.md)
+- [USRP](eng_usrp.md) -->
 <!-- - [Video editing](eng_videoediting.md) -->
 <!-- - [Web](eng_web.md) -->
 
 
-HCI
+<!-- HCI
 ------
 
 - [3D math](hci_3dmath.md)
@@ -46,16 +46,23 @@ HCI
 - [Speech](hci_speechrec.md)
 - [Stats](hci_stats.md)
 - [Vision](hci_vision.md)
-- [Writing](hci_writing.md)
+- [Writing](hci_writing.md) -->
 
+文章
+------
 
-DM/ML/NLP/CV
+- [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
+- [Hadoop](ml_hadoop.md)
+- [Computer Vision](ml_vision.md)
+- [Deep Learning](ml_deeplearning.md)
+
+<!-- DM/ML/NLP/CV
 ------
 
 - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Hadoop](ml_hadoop.md)
 - [Computer Vision](ml_vision.md)
-- [Deep Learning](ml_deeplearning.md)
+- [Deep Learning](ml_deeplearning.md) -->
 
 Mobile
 ------
