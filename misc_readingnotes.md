@@ -25,6 +25,9 @@ In progress and to do list:
 
 * [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
 
+Nov. 27, 2018
+* [Where to learn the basic website knowledge](https://coder-coder.com/learn-web-development/#chapter1)
+* [What is markdown](https://guides.github.com/features/mastering-markdown/)
 
 Nov. 19, 2018
 
