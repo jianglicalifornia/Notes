@@ -1,13 +1,23 @@
 Simplicity is the ultimate sophistication
 ==========
 
-文章
+Essays 
 ------
 
 - [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
 - [东京三日（上）](https://mp.weixin.qq.com/s/suzTVRgFrCFaIeqgeDyNjg)
-- [Computer Vision](ml_vision.md)
-- [Deep Learning](ml_deeplearning.md)
+
+
+Misc
+------
+- [Reading notes](misc_readingnotes.md)
+- [Links worth my time](misc_linksworthmytime.md)
+- [Photography](misc_photography.md)
+- [Personal Video Collection](misc_videos.md)
+- [Quotes](misc_quotes.md)
+- [Resource Links](misc_res_links.md)
+- [Useful tools](misc_tools.md)
+
 
 <!-- Engineering -->
 
@@ -55,19 +65,16 @@ Simplicity is the ultimate sophistication
 <!-- - [Writing](hci_writing.md) -->
 
 
-
-DM/ML/NLP/CV
-------
+<!-- DM/ML/NLP/CV -->
 
 <!-- - [Probabilistic Programming and Bayesian Methods for Hackers](ml_hacker_bayesian.md)
 - [Hadoop](ml_hadoop.md)
 - [Computer Vision](ml_vision.md)
 - [Deep Learning](ml_deeplearning.md) -->
 
-Mobile
-------
+<!-- Mobile -->
 
-- [General - Audio](mobile_audio.md)
+<!-- - [General - Audio](mobile_audio.md)
 - [General - Bluetooth](mobile_bluetooth.md)
 - [General - Mobile Security](mobile_security.md)
 - [General - Sensors](mobile_sensors.md)
@@ -75,10 +82,10 @@ Mobile
 - [Android - Misc](mobile_android_misc.md)
 - [Android - NDK](mobile_android_ndk.md)
 - [Android - OpenGL](mobile_android_opengl.md)
-- [iOS - misc](mobile_ios_misc.md)
+- [iOS - misc](mobile_ios_misc.md) -->
 
-Misc
-------
+
+<!-- Misc
 - [Reading notes](misc_readingnotes.md)
 - [Diagrams](misc_diagrams.md)
 - [Papers](misc_paperreading.md)
@@ -88,4 +95,4 @@ Misc
 - [Personal Video Collection](misc_videos.md)
 - [Quotes](misc_quotes.md)
 - [Resource Links](misc_res_links.md)
-- [Useful tools](misc_tools.md)
+- [Useful tools](misc_tools.md) -->

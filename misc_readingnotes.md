@@ -20,10 +20,14 @@ In progress and to do list:
 
 
 
+To finish list:
 
-
+* [How to make a super simple website in html](https://coder-coder.com/how-to-make-simple-website-html/)
+* [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 * [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
+
+
 
 Nov. 27, 2018
 * [Where to learn the basic website knowledge](https://coder-coder.com/learn-web-development/#chapter1)
