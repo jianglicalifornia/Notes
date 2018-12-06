@@ -33,6 +33,7 @@ Nov. 27, 2018
 * [Where to learn the basic website knowledge](https://coder-coder.com/learn-web-development/#chapter1)
 * [What is markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Dingus](https://daringfireball.net/projects/markdown/dingus)
+* [Javascript beautifier](https://www.10bestdesign.com/dirtymarkup/js/)
 
 Nov. 19, 2018
 

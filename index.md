@@ -7,6 +7,10 @@ Essays
 - [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
 - [东京三日（上）](https://mp.weixin.qq.com/s/suzTVRgFrCFaIeqgeDyNjg)
 
+Tech Notes
+------
+- [ORRO Related](misc_orronotes.md)
+
 
 Misc
 ------
