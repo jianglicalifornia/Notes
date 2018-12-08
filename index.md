@@ -4,8 +4,10 @@ Simplicity is the ultimate sophistication
 Essays 
 ------
 
-- [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
+- [东京三日（下）](https://mp.weixin.qq.com/s/Tt7rjLaQRK_rYUaMAa1tbQ)
 - [东京三日（上）](https://mp.weixin.qq.com/s/suzTVRgFrCFaIeqgeDyNjg)
+- [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
+
 
 Tech Notes
 ------

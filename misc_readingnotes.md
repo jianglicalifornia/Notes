@@ -28,6 +28,9 @@ To finish list:
 * [Categorical Thinking](https://www.newyorker.com/business/james-surowiecki/categorical-thinking)
 
 
+Dec.7, 2018
+* [剧本写作](https://www.douban.com/group/topic/2342854/)
+
 
 Nov. 27, 2018
 * [Where to learn the basic website knowledge](https://coder-coder.com/learn-web-development/#chapter1)
