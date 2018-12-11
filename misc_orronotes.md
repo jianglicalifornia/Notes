@@ -1,4 +1,4 @@
-ORRO notes - ORRO RELATED TECH NOTES
+ORRO RELATED TECH NOTES
 ==============
 
 

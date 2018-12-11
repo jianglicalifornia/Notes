@@ -9,14 +9,15 @@ Essays
 - [常玉](https://mp.weixin.qq.com/s/FKEq914v5RKFVzV9nPR79Q)
 
 
-Tech Notes
+Tech 
 ------
 - [ORRO Related](misc_orronotes.md)
 
 
 Misc
 ------
-- [Reading notes](misc_readingnotes.md)
+- [Literature Reading](literature_reading.md)
+- [Web Reading](misc_readingnotes.md)
 - [Links worth my time](misc_linksworthmytime.md)
 - [Photography](misc_photography.md)
 - [Personal Video Collection](misc_videos.md)
