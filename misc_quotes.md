@@ -1,9 +1,16 @@
 Quotes
 ==============
 ```
+When he’s really on a roll with his writing, “there are days when I sit down in the morning with my cup of coffee, I fall through the page and I wake up and it’s dark outside and my coffee is still next to me, it’s ice cold and I’ve just spent the day in Westeros.
+His mantra has always been William Faulkner’s comment in his Nobel prize acceptance speech, that only the “human heart in conflict with itself … is worth writing about”. “I think that’s true of any fiction worth reading, that you’re really talking about people. And maybe it’s set in space or in a castle with dragons, maybe you set it in a suburban town where Dick and Jane live, or in some urban hell hole. Wherever you want to set your story, it’s still about people trying to make their decisions about what is right and what is wrong, how do I survive, questions of good and evil.”
+---George RR Martin: ‘When I began A Game of Thrones I thought it might be a short story’
+```
+
+```
 为棋不为生， 为棋是养性， 生会坏性， 所以生不可太盛
 ---《棋王》 阿城
 ```
+
 ```
 《万物生长》的下半部在亚特兰大写完，用的是2000年冬天的三周假期。那是一个愉悦的过程，我开不大的暖气，直接喝水龙头里的水，吃米饭和卷心菜。窗户外经常一个人也没有，文字像窗檐上的雨水一样滴答落进电脑，周围花朵怒放，鬼怪缭绕。在十五万字左右的时候，我给石涛写电邮，说，下雪了，我窗外的松鼠们还没冻死。石涛说，他想起他在辛辛那提写作的时候，说，如果觉得文气已尽，当止就止。
 -冯唐
